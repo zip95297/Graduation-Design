@@ -1,0 +1,786 @@
+Test Model: ./checkpoints/18.pth
+Accuracy: 0.970
+Threshold: 0.322
+
+Test Model: ./checkpoints/19.pth
+Accuracy: 0.972
+Threshold: 0.342
+
+Test Model: ./checkpoints/20.pth
+Accuracy: 0.971
+Threshold: 0.301
+
+Test Model: ./checkpoints/21.pth
+Accuracy: 0.972
+Threshold: 0.303
+
+Test Model: ./checkpoints/22.pth
+Accuracy: 0.970
+Threshold: 0.315
+
+Test Model: ./checkpoints/resnet_arcface_0_20.048145294189453.pth
+Accuracy: 0.792
+Threshold: 0.511
+
+Test Model: ./checkpoints/resnet_arcface_0_20.637447357177734.pth
+Accuracy: 0.808
+Threshold: 0.474
+
+Test Model: ./checkpoints/resnet_arcface_10_7.348570346832275.pth
+Accuracy: 0.968
+Threshold: 0.348
+
+Test Model: ./checkpoints/resnet_arcface_10_7.785167694091797.pth
+Accuracy: 0.970
+Threshold: 0.325
+
+Test Model: ./checkpoints/resnet_arcface_11_6.127498626708984.pth
+Accuracy: 0.970
+Threshold: 0.332
+
+Test Model: ./checkpoints/resnet_arcface_11_6.848862648010254.pth
+Accuracy: 0.974
+Threshold: 0.320
+
+Test Model: ./checkpoints/resnet_arcface_12_5.274661064147949.pth
+Accuracy: 0.972
+Threshold: 0.341
+
+Test Model: ./checkpoints/resnet_arcface_12_5.965099811553955.pth
+Accuracy: 0.971
+Threshold: 0.328
+
+Test Model: ./checkpoints/resnet_arcface_13_4.885309219360352.pth
+Accuracy: 0.971
+Threshold: 0.324
+
+Test Model: ./checkpoints/resnet_arcface_13_5.129178047180176.pth
+Accuracy: 0.972
+Threshold: 0.317
+
+Test Model: ./checkpoints/resnet_arcface_14_5.218937397003174.pth
+Accuracy: 0.970
+Threshold: 0.311
+
+Test Model: ./checkpoints/resnet_arcface_14_7.037737846374512.pth
+Accuracy: 0.971
+Threshold: 0.355
+
+Test Model: ./checkpoints/resnet_arcface_15_5.254767417907715.pth
+Accuracy: 0.971
+Threshold: 0.327
+
+Test Model: ./checkpoints/resnet_arcface_15_7.976750373840332.pth
+Accuracy: 0.968
+Threshold: 0.344
+
+Test Model: ./checkpoints/resnet_arcface_16_6.015883445739746.pth
+Accuracy: 0.971
+Threshold: 0.304
+
+Test Model: ./checkpoints/resnet_arcface_16_6.359285354614258.pth
+Accuracy: 0.969
+Threshold: 0.328
+
+Test Model: ./checkpoints/resnet_arcface_17_5.201211929321289.pth
+Accuracy: 0.968
+Threshold: 0.323
+
+Test Model: ./checkpoints/resnet_arcface_17_6.417201995849609.pth
+Accuracy: 0.969
+Threshold: 0.337
+
+Test Model: ./checkpoints/resnet_arcface_18_4.496486663818359.pth
+Accuracy: 0.965
+Threshold: 0.330
+
+Test Model: ./checkpoints/resnet_arcface_18_8.15121078491211.pth
+Accuracy: 0.969
+Threshold: 0.331
+
+Test Model: ./checkpoints/resnet_arcface_19_4.266221046447754.pth
+Accuracy: 0.969
+Threshold: 0.310
+
+Test Model: ./checkpoints/resnet_arcface_19_6.192817211151123.pth
+Accuracy: 0.964
+Threshold: 0.351
+
+Test Model: ./checkpoints/resnet_arcface_1_15.494864463806152.pth
+Accuracy: 0.844
+Threshold: 0.424
+
+Test Model: ./checkpoints/resnet_arcface_1_16.60993766784668.pth
+Accuracy: 0.849
+Threshold: 0.433
+
+Test Model: ./checkpoints/resnet_arcface_20_4.274413585662842.pth
+Accuracy: 0.972
+Threshold: 0.305
+
+Test Model: ./checkpoints/resnet_arcface_20_4.551082611083984.pth
+Accuracy: 0.971
+Threshold: 0.286
+
+Test Model: ./checkpoints/resnet_arcface_21_3.609600782394409.pth
+Accuracy: 0.975
+Threshold: 0.288
+
+Test Model: ./checkpoints/resnet_arcface_21_4.718886375427246.pth
+Accuracy: 0.973
+Threshold: 0.295
+
+Test Model: ./checkpoints/resnet_arcface_22_4.574112415313721.pth
+Accuracy: 0.974
+Threshold: 0.284
+
+Test Model: ./checkpoints/resnet_arcface_22_5.072429180145264.pth
+Accuracy: 0.972
+Threshold: 0.304
+
+Test Model: ./checkpoints/resnet_arcface_2_13.063852310180664.pth
+Accuracy: 0.886
+Threshold: 0.493
+
+Test Model: ./checkpoints/resnet_arcface_2_15.58342456817627.pth
+Accuracy: 0.880
+Threshold: 0.533
+
+Test Model: ./checkpoints/resnet_arcface_3_12.917539596557617.pth
+Accuracy: 0.915
+Threshold: 0.490
+
+Test Model: ./checkpoints/resnet_arcface_3_13.773918151855469.pth
+Accuracy: 0.912
+Threshold: 0.429
+
+Test Model: ./checkpoints/resnet_arcface_4_11.602405548095703.pth
+Accuracy: 0.934
+Threshold: 0.419
+
+Test Model: ./checkpoints/resnet_arcface_4_11.904051780700684.pth
+Accuracy: 0.915
+Threshold: 0.513
+
+Test Model: ./checkpoints/resnet_arcface_5_10.669931411743164.pth
+Accuracy: 0.929
+Threshold: 0.481
+
+Test Model: ./checkpoints/resnet_arcface_5_10.760381698608398.pth
+Accuracy: 0.922
+Threshold: 0.433
+
+Test Model: ./checkpoints/resnet_arcface_6_10.218393325805664.pth
+Accuracy: 0.943
+Threshold: 0.461
+
+Test Model: ./checkpoints/resnet_arcface_6_9.997504234313965.pth
+Accuracy: 0.935
+Threshold: 0.414
+
+Test Model: ./checkpoints/resnet_arcface_7_10.251407623291016.pth
+Accuracy: 0.923
+Threshold: 0.502
+
+Test Model: ./checkpoints/resnet_arcface_7_12.142210006713867.pth
+Accuracy: 0.936
+Threshold: 0.468
+
+Test Model: ./checkpoints/resnet_arcface_8_9.147618293762207.pth
+Accuracy: 0.937
+Threshold: 0.399
+
+Test Model: ./checkpoints/resnet_arcface_8_9.595887184143066.pth
+Accuracy: 0.941
+Threshold: 0.461
+
+Test Model: ./checkpoints/resnet_arcface_9_8.333980560302734.pth
+Accuracy: 0.926
+Threshold: 0.489
+
+Test Model: ./checkpoints/resnet_arcface_9_9.411455154418945.pth
+Accuracy: 0.939
+Threshold: 0.436
+
+Test Model: ./checkpoints/23.pth
+Accuracy: 0.972
+Threshold: 0.296
+
+Test Model: ./checkpoints/resnet_arcface_23_3.9943902492523193.pth
+Accuracy: 0.975
+Threshold: 0.300
+
+Test Model: ./checkpoints/resnet_arcface_23_4.457361221313477.pth
+Accuracy: 0.972
+Threshold: 0.285
+
+Test Model: ./checkpoints/28.pth
+Accuracy: 0.971
+Threshold: 0.283
+
+./checkpoints/28.pth
+done
+Test Model: ./checkpoints/29.pth
+Accuracy: 0.972
+Threshold: 0.293
+
+./checkpoints/29.pth
+done
+Test Model: ./checkpoints/30.pth
+Accuracy: 0.970
+Threshold: 0.300
+
+Test Model: ./checkpoints/30.pth
+Accuracy: 0.970
+Threshold: 0.300
+
+Test Model: ./checkpoints/31.pth
+Accuracy: 0.970
+Threshold: 0.292
+
+Test Model: ./checkpoints/resnet_arcface_24_4.089712142944336.pth
+Accuracy: 0.972
+Threshold: 0.293
+
+Test Model: ./checkpoints/resnet_arcface_24_4.848397254943848.pth
+Accuracy: 0.975
+Threshold: 0.288
+
+Test Model: ./checkpoints/resnet_arcface_25_4.189820289611816.pth
+Accuracy: 0.975
+Threshold: 0.292
+
+Test Model: ./checkpoints/resnet_arcface_25_4.906886100769043.pth
+Accuracy: 0.971
+Threshold: 0.303
+
+Test Model: ./checkpoints/resnet_arcface_26_4.747165679931641.pth
+Accuracy: 0.974
+Threshold: 0.276
+
+Test Model: ./checkpoints/resnet_arcface_26_5.862105369567871.pth
+Accuracy: 0.971
+Threshold: 0.295
+
+Test Model: ./checkpoints/resnet_arcface_27_2.8285324573516846.pth
+Accuracy: 0.971
+Threshold: 0.293
+
+Test Model: ./checkpoints/resnet_arcface_27_2.936007022857666.pth
+Accuracy: 0.974
+Threshold: 0.304
+
+Test Model: ./checkpoints/resnet_arcface_28_3.789372444152832.pth
+Accuracy: 0.974
+Threshold: 0.292
+
+Test Model: ./checkpoints/resnet_arcface_28_5.162105560302734.pth
+Accuracy: 0.970
+Threshold: 0.302
+
+Test Model: ./checkpoints/resnet_arcface_29_3.766765832901001.pth
+Accuracy: 0.974
+Threshold: 0.277
+
+Test Model: ./checkpoints/resnet_arcface_29_4.073024749755859.pth
+Accuracy: 0.969
+Threshold: 0.282
+
+Test Model: ./checkpoints/resnet_arcface_30_3.3147807121276855.pth
+Accuracy: 0.974
+Threshold: 0.288
+
+Test Model: ./checkpoints/resnet_arcface_30_5.432272434234619.pth
+Accuracy: 0.970
+Threshold: 0.310
+
+Test Model: ./checkpoints/resnet_arcface_31_2.9547278881073.pth
+Accuracy: 0.970
+Threshold: 0.303
+
+Test Model: ./checkpoints/resnet_arcface_31_4.58668327331543.pth
+Accuracy: 0.974
+Threshold: 0.269
+
+Test Model: ./checkpoints/32.pth
+Accuracy: 0.970
+Threshold: 0.304
+
+Test Model: ./checkpoints/33.pth
+Accuracy: 0.971
+Threshold: 0.283
+
+Test Model: ./checkpoints/34.pth
+Accuracy: 0.970
+Threshold: 0.288
+
+Test Model: ./checkpoints/35.pth
+Accuracy: 0.971
+Threshold: 0.282
+
+Test Model: ./checkpoints/36.pth
+Accuracy: 0.971
+Threshold: 0.278
+
+Test Model: ./checkpoints/37.pth
+Accuracy: 0.971
+Threshold: 0.283
+
+Test Model: ./checkpoints/resnet_arcface_32_3.4723057746887207.pth
+Accuracy: 0.969
+Threshold: 0.296
+
+Test Model: ./checkpoints/resnet_arcface_32_4.368101119995117.pth
+Accuracy: 0.975
+Threshold: 0.286
+
+Test Model: ./checkpoints/resnet_arcface_33_3.293429374694824.pth
+Accuracy: 0.975
+Threshold: 0.274
+
+Test Model: ./checkpoints/resnet_arcface_33_4.983644485473633.pth
+Accuracy: 0.967
+Threshold: 0.286
+
+Test Model: ./checkpoints/resnet_arcface_34_3.071833372116089.pth
+Accuracy: 0.974
+Threshold: 0.280
+
+Test Model: ./checkpoints/resnet_arcface_34_3.6006531715393066.pth
+Accuracy: 0.970
+Threshold: 0.304
+
+Test Model: ./checkpoints/resnet_arcface_35_3.092738151550293.pth
+Accuracy: 0.969
+Threshold: 0.282
+
+Test Model: ./checkpoints/resnet_arcface_35_5.197695732116699.pth
+Accuracy: 0.974
+Threshold: 0.263
+
+Test Model: ./checkpoints/resnet_arcface_36_4.544022560119629.pth
+Accuracy: 0.974
+Threshold: 0.261
+
+Test Model: ./checkpoints/resnet_arcface_36_5.17609977722168.pth
+Accuracy: 0.970
+Threshold: 0.304
+
+Test Model: ./checkpoints/resnet_arcface_37_3.6625311374664307.pth
+Accuracy: 0.974
+Threshold: 0.283
+
+Test Model: ./checkpoints/resnet_arcface_37_5.422146797180176.pth
+Accuracy: 0.968
+Threshold: 0.288
+
+Test Model: ./checkpoints/38.pth
+Accuracy: 0.969
+Threshold: 0.310
+
+Test Model: ./checkpoints/39.pth
+Accuracy: 0.971
+Threshold: 0.300
+
+Test Model: ./checkpoints/40.pth
+Accuracy: 0.971
+Threshold: 0.295
+
+Test Model: ./checkpoints/41.pth
+Accuracy: 0.971
+Threshold: 0.284
+
+Test Model: ./checkpoints/42.pth
+Accuracy: 0.971
+Threshold: 0.286
+
+Test Model: ./checkpoints/43.pth
+Accuracy: 0.972
+Threshold: 0.296
+
+Test Model: ./checkpoints/44.pth
+Accuracy: 0.970
+Threshold: 0.289
+
+Test Model: ./checkpoints/45.pth
+Accuracy: 0.971
+Threshold: 0.301
+
+Test Model: ./checkpoints/46.pth
+Accuracy: 0.970
+Threshold: 0.280
+
+Test Model: ./checkpoints/47.pth
+Accuracy: 0.971
+Threshold: 0.280
+
+Test Model: ./checkpoints/48.pth
+Accuracy: 0.969
+Threshold: 0.278
+
+Test Model: ./checkpoints/49.pth
+Accuracy: 0.970
+Threshold: 0.290
+
+Test Model: ./checkpoints/50.pth
+Accuracy: 0.971
+Threshold: 0.298
+
+Test Model: ./checkpoints/51.pth
+Accuracy: 0.970
+Threshold: 0.295
+
+Test Model: ./checkpoints/resnet_arcface_38_3.502901792526245.pth
+Accuracy: 0.974
+Threshold: 0.277
+
+Test Model: ./checkpoints/resnet_arcface_38_3.934023380279541.pth
+Accuracy: 0.971
+Threshold: 0.288
+
+Test Model: ./checkpoints/resnet_arcface_39_2.6597068309783936.pth
+Accuracy: 0.973
+Threshold: 0.280
+
+Test Model: ./checkpoints/resnet_arcface_39_2.8053677082061768.pth
+Accuracy: 0.970
+Threshold: 0.291
+
+Test Model: ./checkpoints/resnet_arcface_40_3.54068922996521.pth
+Accuracy: 0.975
+Threshold: 0.279
+
+Test Model: ./checkpoints/resnet_arcface_40_4.277864933013916.pth
+Accuracy: 0.969
+Threshold: 0.298
+
+Test Model: ./checkpoints/resnet_arcface_41_4.052299499511719.pth
+Accuracy: 0.975
+Threshold: 0.275
+
+Test Model: ./checkpoints/resnet_arcface_41_4.965877056121826.pth
+Accuracy: 0.969
+Threshold: 0.297
+
+Test Model: ./checkpoints/resnet_arcface_42_3.1790547370910645.pth
+Accuracy: 0.969
+Threshold: 0.294
+
+Test Model: ./checkpoints/resnet_arcface_42_4.821534156799316.pth
+Accuracy: 0.974
+Threshold: 0.281
+
+Test Model: ./checkpoints/resnet_arcface_43_3.5292205810546875.pth
+Accuracy: 0.971
+Threshold: 0.291
+
+Test Model: ./checkpoints/resnet_arcface_43_4.708165168762207.pth
+Accuracy: 0.974
+Threshold: 0.278
+
+Test Model: ./checkpoints/resnet_arcface_44_4.214998722076416.pth
+Accuracy: 0.975
+Threshold: 0.260
+
+Test Model: ./checkpoints/resnet_arcface_44_4.5102949142456055.pth
+Accuracy: 0.969
+Threshold: 0.313
+
+Test Model: ./checkpoints/resnet_arcface_45_1.7757797241210938.pth
+Accuracy: 0.975
+Threshold: 0.273
+
+Test Model: ./checkpoints/resnet_arcface_45_3.8323252201080322.pth
+Accuracy: 0.969
+Threshold: 0.281
+
+Test Model: ./checkpoints/resnet_arcface_46_2.4967095851898193.pth
+Accuracy: 0.969
+Threshold: 0.299
+
+Test Model: ./checkpoints/resnet_arcface_46_4.863296031951904.pth
+Accuracy: 0.974
+Threshold: 0.264
+
+Test Model: ./checkpoints/resnet_arcface_47_4.496237754821777.pth
+Accuracy: 0.969
+Threshold: 0.276
+
+Test Model: ./checkpoints/resnet_arcface_47_4.931286811828613.pth
+Accuracy: 0.974
+Threshold: 0.278
+
+Test Model: ./checkpoints/resnet_arcface_48_3.502640724182129.pth
+Accuracy: 0.974
+Threshold: 0.269
+
+Test Model: ./checkpoints/resnet_arcface_48_4.394294738769531.pth
+Accuracy: 0.971
+Threshold: 0.297
+
+Test Model: ./checkpoints/resnet_arcface_49_2.3657479286193848.pth
+Accuracy: 0.969
+Threshold: 0.283
+
+Test Model: ./checkpoints/resnet_arcface_49_4.252312660217285.pth
+Accuracy: 0.974
+Threshold: 0.274
+
+Test Model: ./checkpoints/resnet_arcface_50_2.7241272926330566.pth
+Accuracy: 0.975
+Threshold: 0.266
+
+Test Model: ./checkpoints/resnet_arcface_50_5.10135555267334.pth
+Accuracy: 0.970
+Threshold: 0.296
+
+Test Model: ./checkpoints/resnet_arcface_51_3.8491528034210205.pth
+Accuracy: 0.968
+Threshold: 0.301
+
+Test Model: ./checkpoints/resnet_arcface_51_4.681004047393799.pth
+Accuracy: 0.974
+Threshold: 0.276
+
+Test Model: ./checkpoints/52.pth
+Accuracy: 0.971
+Threshold: 0.292
+
+Test Model: ./checkpoints/resnet_arcface_52_3.776766538619995.pth
+Accuracy: 0.969
+Threshold: 0.298
+
+Test Model: ./checkpoints/resnet_arcface_52_4.424378871917725.pth
+Accuracy: 0.974
+Threshold: 0.265
+
+Test Model: ./checkpoints/53.pth
+Accuracy: 0.971
+Threshold: 0.293
+
+Test Model: ./checkpoints/54.pth
+Accuracy: 0.971
+Threshold: 0.285
+
+Test Model: ./checkpoints/55.pth
+Accuracy: 0.972
+Threshold: 0.288
+
+Test Model: ./checkpoints/56.pth
+Accuracy: 0.970
+Threshold: 0.297
+
+Test Model: ./checkpoints/57.pth
+Accuracy: 0.969
+Threshold: 0.276
+
+Test Model: ./checkpoints/58.pth
+Accuracy: 0.971
+Threshold: 0.294
+
+Test Model: ./checkpoints/59.pth
+Accuracy: 0.970
+Threshold: 0.292
+
+Test Model: ./checkpoints/60.pth
+Accuracy: 0.970
+Threshold: 0.288
+
+Test Model: ./checkpoints/resnet_arcface_53_4.502108097076416.pth
+Accuracy: 0.975
+Threshold: 0.283
+
+Test Model: ./checkpoints/resnet_arcface_53_5.550860404968262.pth
+Accuracy: 0.969
+Threshold: 0.280
+
+Test Model: ./checkpoints/resnet_arcface_54_2.814807653427124.pth
+Accuracy: 0.969
+Threshold: 0.301
+
+Test Model: ./checkpoints/resnet_arcface_54_3.0719449520111084.pth
+Accuracy: 0.975
+Threshold: 0.279
+
+Test Model: ./checkpoints/resnet_arcface_55_2.825425386428833.pth
+Accuracy: 0.974
+Threshold: 0.247
+
+Test Model: ./checkpoints/resnet_arcface_55_4.261152267456055.pth
+Accuracy: 0.969
+Threshold: 0.290
+
+Test Model: ./checkpoints/resnet_arcface_56_3.3647572994232178.pth
+Accuracy: 0.976
+Threshold: 0.278
+
+Test Model: ./checkpoints/resnet_arcface_56_3.7437047958374023.pth
+Accuracy: 0.969
+Threshold: 0.285
+
+Test Model: ./checkpoints/resnet_arcface_57_2.315995216369629.pth
+Accuracy: 0.975
+Threshold: 0.271
+
+Test Model: ./checkpoints/resnet_arcface_57_4.489847183227539.pth
+Accuracy: 0.969
+Threshold: 0.302
+
+Test Model: ./checkpoints/resnet_arcface_58_3.841827154159546.pth
+Accuracy: 0.975
+Threshold: 0.268
+
+Test Model: ./checkpoints/resnet_arcface_58_4.679706573486328.pth
+Accuracy: 0.969
+Threshold: 0.306
+
+Test Model: ./checkpoints/resnet_arcface_59_3.530287265777588.pth
+Accuracy: 0.971
+Threshold: 0.298
+
+Test Model: ./checkpoints/resnet_arcface_59_3.8181650638580322.pth
+Accuracy: 0.974
+Threshold: 0.263
+
+Test Model: ./checkpoints/resnet_arcface_60_3.0496349334716797.pth
+Accuracy: 0.975
+Threshold: 0.290
+
+Test Model: ./checkpoints/resnet_arcface_60_4.945260047912598.pth
+Accuracy: 0.969
+Threshold: 0.289
+
+Test Model: ./checkpoints/teacher_now.pth
+Accuracy: 0.976
+Threshold: 0.278
+
+Test Model: ./checkpoints/t_pre.pth
+Accuracy: 0.975
+Threshold: 0.290
+
+# 下面是对单独训练的学生网络ResNet18的测试结果
+
+Test Model: ./checkpoints/resnet18_arcface_0_18.527334213256836.pth
+Accuracy: 0.775
+Threshold: 0.683
+
+Test Model: ./checkpoints/resnet18_arcface_10_9.29798412322998.pth
+Accuracy: 0.926
+Threshold: 0.375
+
+Test Model: ./checkpoints/resnet18_arcface_11_8.127708435058594.pth
+Accuracy: 0.930
+Threshold: 0.368
+
+Test Model: ./checkpoints/resnet18_arcface_12_8.696029663085938.pth
+Accuracy: 0.935
+Threshold: 0.348
+
+Test Model: ./checkpoints/resnet18_arcface_13_7.589255332946777.pth
+Accuracy: 0.930
+Threshold: 0.367
+
+Test Model: ./checkpoints/resnet18_arcface_14_6.576236724853516.pth
+Accuracy: 0.931
+Threshold: 0.367
+
+Test Model: ./checkpoints/resnet18_arcface_15_8.197665214538574.pth
+Accuracy: 0.927
+Threshold: 0.372
+
+Test Model: ./checkpoints/resnet18_arcface_16_6.06101131439209.pth
+Accuracy: 0.928
+Threshold: 0.333
+
+Test Model: ./checkpoints/resnet18_arcface_17_6.780402183532715.pth
+Accuracy: 0.929
+Threshold: 0.350
+
+Test Model: ./checkpoints/resnet18_arcface_18_6.585254669189453.pth
+Accuracy: 0.921
+Threshold: 0.343
+
+Test Model: ./checkpoints/resnet18_arcface_19_7.328152656555176.pth
+Accuracy: 0.926
+Threshold: 0.309
+
+Test Model: ./checkpoints/resnet18_arcface_1_16.044511795043945.pth
+Accuracy: 0.835
+Threshold: 0.553
+
+Test Model: ./checkpoints/resnet18_arcface_20_5.99770975112915.pth
+Accuracy: 0.930
+Threshold: 0.309
+
+Test Model: ./checkpoints/resnet18_arcface_21_4.728578567504883.pth
+Accuracy: 0.931
+Threshold: 0.315
+
+Test Model: ./checkpoints/resnet18_arcface_22_6.044996738433838.pth
+Accuracy: 0.929
+Threshold: 0.319
+
+Test Model: ./checkpoints/resnet18_arcface_23_4.457492351531982.pth
+Accuracy: 0.929
+Threshold: 0.314
+
+Test Model: ./checkpoints/resnet18_arcface_24_4.098194599151611.pth
+Accuracy: 0.928
+Threshold: 0.317
+
+Test Model: ./checkpoints/resnet18_arcface_25_7.374693393707275.pth
+Accuracy: 0.930
+Threshold: 0.296
+
+Test Model: ./checkpoints/resnet18_arcface_26_2.7453722953796387.pth
+Accuracy: 0.926
+Threshold: 0.321
+
+Test Model: ./checkpoints/resnet18_arcface_27_4.228022575378418.pth
+Accuracy: 0.929
+Threshold: 0.289
+
+Test Model: ./checkpoints/resnet18_arcface_28_4.1894426345825195.pth
+Accuracy: 0.927
+Threshold: 0.297
+
+Test Model: ./checkpoints/resnet18_arcface_29_4.073246002197266.pth
+Accuracy: 0.926
+Threshold: 0.281
+
+Test Model: ./checkpoints/resnet18_arcface_2_14.209970474243164.pth
+Accuracy: 0.857
+Threshold: 0.524
+
+Test Model: ./checkpoints/resnet18_arcface_30_4.202079772949219.pth
+Accuracy: 0.927
+Threshold: 0.297
+
+Test Model: ./checkpoints/resnet18_arcface_3_13.316424369812012.pth
+Accuracy: 0.875
+Threshold: 0.531
+
+Test Model: ./checkpoints/resnet18_arcface_4_12.821175575256348.pth
+Accuracy: 0.880
+Threshold: 0.492
+
+Test Model: ./checkpoints/resnet18_arcface_5_13.072221755981445.pth
+Accuracy: 0.890
+Threshold: 0.486
+
+Test Model: ./checkpoints/resnet18_arcface_6_11.712946891784668.pth
+Accuracy: 0.883
+Threshold: 0.457
+
+Test Model: ./checkpoints/resnet18_arcface_7_11.649319648742676.pth
+Accuracy: 0.892
+Threshold: 0.439
+
+Test Model: ./checkpoints/resnet18_arcface_8_10.749192237854004.pth
+Accuracy: 0.884
+Threshold: 0.429
+
+Test Model: ./checkpoints/resnet18_arcface_9_11.860840797424316.pth
+Accuracy: 0.897
+Threshold: 0.447
+

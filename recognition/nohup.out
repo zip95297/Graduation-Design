@@ -1,0 +1,550 @@
+./checkpoints/18.pth
+done
+./checkpoints/19.pth
+done
+./checkpoints/20.pth
+done
+./checkpoints/21.pth
+done
+./checkpoints/22.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_0_20.048145294189453.pth
+done
+./checkpoints/resnet_arcface_0_20.637447357177734.pth
+done
+./checkpoints/resnet_arcface_10_7.348570346832275.pth
+done
+./checkpoints/resnet_arcface_10_7.785167694091797.pth
+done
+./checkpoints/resnet_arcface_11_6.127498626708984.pth
+done
+./checkpoints/resnet_arcface_11_6.848862648010254.pth
+done
+./checkpoints/resnet_arcface_12_5.274661064147949.pth
+done
+./checkpoints/resnet_arcface_12_5.965099811553955.pth
+done
+./checkpoints/resnet_arcface_13_4.885309219360352.pth
+done
+./checkpoints/resnet_arcface_13_5.129178047180176.pth
+done
+./checkpoints/resnet_arcface_14_5.218937397003174.pth
+done
+./checkpoints/resnet_arcface_14_7.037737846374512.pth
+done
+./checkpoints/resnet_arcface_15_5.254767417907715.pth
+done
+./checkpoints/resnet_arcface_15_7.976750373840332.pth
+done
+./checkpoints/resnet_arcface_16_6.015883445739746.pth
+done
+./checkpoints/resnet_arcface_16_6.359285354614258.pth
+done
+./checkpoints/resnet_arcface_17_5.201211929321289.pth
+done
+./checkpoints/resnet_arcface_17_6.417201995849609.pth
+done
+./checkpoints/resnet_arcface_18_4.496486663818359.pth
+done
+./checkpoints/resnet_arcface_18_8.15121078491211.pth
+done
+./checkpoints/resnet_arcface_19_4.266221046447754.pth
+done
+./checkpoints/resnet_arcface_19_6.192817211151123.pth
+done
+./checkpoints/resnet_arcface_1_15.494864463806152.pth
+done
+./checkpoints/resnet_arcface_1_16.60993766784668.pth
+done
+./checkpoints/resnet_arcface_20_4.274413585662842.pth
+done
+./checkpoints/resnet_arcface_20_4.551082611083984.pth
+done
+./checkpoints/resnet_arcface_21_3.609600782394409.pth
+done
+./checkpoints/resnet_arcface_21_4.718886375427246.pth
+done
+./checkpoints/resnet_arcface_22_4.574112415313721.pth
+done
+./checkpoints/resnet_arcface_22_5.072429180145264.pth
+done
+./checkpoints/resnet_arcface_2_13.063852310180664.pth
+done
+./checkpoints/resnet_arcface_2_15.58342456817627.pth
+done
+./checkpoints/resnet_arcface_3_12.917539596557617.pth
+done
+./checkpoints/resnet_arcface_3_13.773918151855469.pth
+done
+./checkpoints/resnet_arcface_4_11.602405548095703.pth
+done
+./checkpoints/resnet_arcface_4_11.904051780700684.pth
+done
+./checkpoints/resnet_arcface_5_10.669931411743164.pth
+done
+./checkpoints/resnet_arcface_5_10.760381698608398.pth
+done
+./checkpoints/resnet_arcface_6_10.218393325805664.pth
+done
+./checkpoints/resnet_arcface_6_9.997504234313965.pth
+done
+./checkpoints/resnet_arcface_7_10.251407623291016.pth
+done
+./checkpoints/resnet_arcface_7_12.142210006713867.pth
+done
+./checkpoints/resnet_arcface_8_9.147618293762207.pth
+done
+./checkpoints/resnet_arcface_8_9.595887184143066.pth
+done
+./checkpoints/resnet_arcface_9_8.333980560302734.pth
+done
+./checkpoints/resnet_arcface_9_9.411455154418945.pth
+done
+./checkpoints/23.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_23_3.9943902492523193.pth
+done
+./checkpoints/resnet_arcface_23_4.457361221313477.pth
+done
+./checkpoints/30.pth
+done
+./checkpoints/31.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_24_4.089712142944336.pth
+done
+./checkpoints/resnet_arcface_24_4.848397254943848.pth
+done
+./checkpoints/resnet_arcface_25_4.189820289611816.pth
+done
+./checkpoints/resnet_arcface_25_4.906886100769043.pth
+done
+./checkpoints/resnet_arcface_26_4.747165679931641.pth
+done
+./checkpoints/resnet_arcface_26_5.862105369567871.pth
+done
+./checkpoints/resnet_arcface_27_2.8285324573516846.pth
+done
+./checkpoints/resnet_arcface_27_2.936007022857666.pth
+done
+./checkpoints/resnet_arcface_28_3.789372444152832.pth
+done
+./checkpoints/resnet_arcface_28_5.162105560302734.pth
+done
+./checkpoints/resnet_arcface_29_3.766765832901001.pth
+done
+./checkpoints/resnet_arcface_29_4.073024749755859.pth
+done
+./checkpoints/resnet_arcface_30_3.3147807121276855.pth
+done
+./checkpoints/resnet_arcface_30_5.432272434234619.pth
+done
+./checkpoints/resnet_arcface_31_2.9547278881073.pth
+done
+./checkpoints/resnet_arcface_31_4.58668327331543.pth
+done
+./checkpoints/32.pth
+done
+./checkpoints/33.pth
+done
+./checkpoints/34.pth
+done
+./checkpoints/35.pth
+done
+./checkpoints/36.pth
+done
+./checkpoints/37.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_32_3.4723057746887207.pth
+done
+./checkpoints/resnet_arcface_32_4.368101119995117.pth
+done
+./checkpoints/resnet_arcface_33_3.293429374694824.pth
+done
+./checkpoints/resnet_arcface_33_4.983644485473633.pth
+done
+./checkpoints/resnet_arcface_34_3.071833372116089.pth
+done
+./checkpoints/resnet_arcface_34_3.6006531715393066.pth
+done
+./checkpoints/resnet_arcface_35_3.092738151550293.pth
+done
+./checkpoints/resnet_arcface_35_5.197695732116699.pth
+done
+./checkpoints/resnet_arcface_36_4.544022560119629.pth
+done
+./checkpoints/resnet_arcface_36_5.17609977722168.pth
+done
+./checkpoints/resnet_arcface_37_3.6625311374664307.pth
+done
+./checkpoints/resnet_arcface_37_5.422146797180176.pth
+done
+./checkpoints/38.pth
+done
+./checkpoints/39.pth
+done
+./checkpoints/40.pth
+done
+./checkpoints/41.pth
+done
+./checkpoints/42.pth
+done
+./checkpoints/43.pth
+done
+./checkpoints/44.pth
+done
+./checkpoints/45.pth
+done
+./checkpoints/46.pth
+done
+./checkpoints/47.pth
+done
+./checkpoints/48.pth
+done
+./checkpoints/49.pth
+done
+./checkpoints/50.pth
+done
+./checkpoints/51.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_38_3.502901792526245.pth
+done
+./checkpoints/resnet_arcface_38_3.934023380279541.pth
+done
+./checkpoints/resnet_arcface_39_2.6597068309783936.pth
+done
+./checkpoints/resnet_arcface_39_2.8053677082061768.pth
+done
+./checkpoints/resnet_arcface_40_3.54068922996521.pth
+done
+./checkpoints/resnet_arcface_40_4.277864933013916.pth
+done
+./checkpoints/resnet_arcface_41_4.052299499511719.pth
+done
+./checkpoints/resnet_arcface_41_4.965877056121826.pth
+done
+./checkpoints/resnet_arcface_42_3.1790547370910645.pth
+done
+./checkpoints/resnet_arcface_42_4.821534156799316.pth
+done
+./checkpoints/resnet_arcface_43_3.5292205810546875.pth
+done
+./checkpoints/resnet_arcface_43_4.708165168762207.pth
+done
+./checkpoints/resnet_arcface_44_4.214998722076416.pth
+done
+./checkpoints/resnet_arcface_44_4.5102949142456055.pth
+done
+./checkpoints/resnet_arcface_45_1.7757797241210938.pth
+done
+./checkpoints/resnet_arcface_45_3.8323252201080322.pth
+done
+./checkpoints/resnet_arcface_46_2.4967095851898193.pth
+done
+./checkpoints/resnet_arcface_46_4.863296031951904.pth
+done
+./checkpoints/resnet_arcface_47_4.496237754821777.pth
+done
+./checkpoints/resnet_arcface_47_4.931286811828613.pth
+done
+./checkpoints/resnet_arcface_48_3.502640724182129.pth
+done
+./checkpoints/resnet_arcface_48_4.394294738769531.pth
+done
+./checkpoints/resnet_arcface_49_2.3657479286193848.pth
+done
+./checkpoints/resnet_arcface_49_4.252312660217285.pth
+done
+./checkpoints/resnet_arcface_50_2.7241272926330566.pth
+done
+./checkpoints/resnet_arcface_50_5.10135555267334.pth
+done
+./checkpoints/resnet_arcface_51_3.8491528034210205.pth
+done
+./checkpoints/resnet_arcface_51_4.681004047393799.pth
+done
+./checkpoints/52.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_52_3.776766538619995.pth
+done
+./checkpoints/resnet_arcface_52_4.424378871917725.pth
+done
+./checkpoints/53.pth
+done
+./checkpoints/54.pth
+done
+./checkpoints/55.pth
+done
+./checkpoints/56.pth
+done
+./checkpoints/57.pth
+done
+./checkpoints/58.pth
+done
+./checkpoints/59.pth
+done
+./checkpoints/60.pth
+done
+Traceback (most recent call last):
+  File "/home/zjb/workbench/recognition/test.py", line 117, in <module>
+    model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 998, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 445, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.11/site-packages/torch/serialization.py", line 426, in __init__
+    super().__init__(open(name, mode))
+                     ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: './checkpoints/Tested.pth'
+./checkpoints/Tested
+mv: cannot move './checkpoints/Tested' to a subdirectory of itself, './checkpoints/Tested/Tested'
+done
+./checkpoints/resnet_arcface_53_4.502108097076416.pth
+done
+./checkpoints/resnet_arcface_53_5.550860404968262.pth
+done
+./checkpoints/resnet_arcface_54_2.814807653427124.pth
+done
+./checkpoints/resnet_arcface_54_3.0719449520111084.pth
+done
+./checkpoints/resnet_arcface_55_2.825425386428833.pth
+done
+./checkpoints/resnet_arcface_55_4.261152267456055.pth
+done
+./checkpoints/resnet_arcface_56_3.3647572994232178.pth
+done
+./checkpoints/resnet_arcface_56_3.7437047958374023.pth
+done
+./checkpoints/resnet_arcface_57_2.315995216369629.pth
+done
+./checkpoints/resnet_arcface_57_4.489847183227539.pth
+done
+./checkpoints/resnet_arcface_58_3.841827154159546.pth
+done
+./checkpoints/resnet_arcface_58_4.679706573486328.pth
+done
+./checkpoints/resnet_arcface_59_3.530287265777588.pth
+done
+./checkpoints/resnet_arcface_59_3.8181650638580322.pth
+done
+./checkpoints/resnet_arcface_60_3.0496349334716797.pth
+done
+./checkpoints/resnet_arcface_60_4.945260047912598.pth
+done
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./test.sh: 5: [[: not found
+./checkpoints/resnet18_arcface_0_18.527334213256836.pth
+done
+./checkpoints/resnet18_arcface_10_9.29798412322998.pth
+done
+./checkpoints/resnet18_arcface_11_8.127708435058594.pth
+done
+./checkpoints/resnet18_arcface_12_8.696029663085938.pth
+done
+./checkpoints/resnet18_arcface_13_7.589255332946777.pth
+done
+./checkpoints/resnet18_arcface_14_6.576236724853516.pth
+done
+./checkpoints/resnet18_arcface_15_8.197665214538574.pth
+done
+./checkpoints/resnet18_arcface_16_6.06101131439209.pth
+done
+./checkpoints/resnet18_arcface_17_6.780402183532715.pth
+done
+./checkpoints/resnet18_arcface_18_6.585254669189453.pth
+done
+./checkpoints/resnet18_arcface_19_7.328152656555176.pth
+done
+./checkpoints/resnet18_arcface_1_16.044511795043945.pth
+done
+./checkpoints/resnet18_arcface_20_5.99770975112915.pth
+done
+./checkpoints/resnet18_arcface_21_4.728578567504883.pth
+done
+./checkpoints/resnet18_arcface_22_6.044996738433838.pth
+done
+./checkpoints/resnet18_arcface_23_4.457492351531982.pth
+done
+./checkpoints/resnet18_arcface_24_4.098194599151611.pth
+done
+./checkpoints/resnet18_arcface_25_7.374693393707275.pth
+done
+./checkpoints/resnet18_arcface_26_2.7453722953796387.pth
+done
+./checkpoints/resnet18_arcface_27_4.228022575378418.pth
+done
+./checkpoints/resnet18_arcface_28_4.1894426345825195.pth
+done
+./checkpoints/resnet18_arcface_29_4.073246002197266.pth
+done
+./checkpoints/resnet18_arcface_2_14.209970474243164.pth
+done
+./checkpoints/resnet18_arcface_30_4.202079772949219.pth
+done
+./checkpoints/resnet18_arcface_3_13.316424369812012.pth
+done
+./checkpoints/resnet18_arcface_4_12.821175575256348.pth
+done
+./checkpoints/resnet18_arcface_5_13.072221755981445.pth
+done
+./checkpoints/resnet18_arcface_6_11.712946891784668.pth
+done
+./checkpoints/resnet18_arcface_7_11.649319648742676.pth
+done
+./checkpoints/resnet18_arcface_8_10.749192237854004.pth
+done
+./checkpoints/resnet18_arcface_9_11.860840797424316.pth
+done

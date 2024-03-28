@@ -1,0 +1,1088 @@
+on device cuda:1
+resnet_arcface
+Training resnet with arcface with 250 epochs and 64 batch size and optimizer sgd
+Evaluating teacher model...
+Test Teacher Model: resnet
+Accuracy: 0.976
+Threshold: 0.278
+
+start training...
+Epoch: 1/250, Loss: 38.11166733 ,	batch: 25/7119
+Epoch: 1/250, Loss: 36.05577744 ,	batch: 50/7119
+Epoch: 1/250, Loss: 34.15864456 ,	batch: 75/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00093456, Accuracy: 0.59667, Threshold: 0.92797
+Epoch: 1/250, Loss: 32.86667015 ,	batch: 100/7119
+Epoch: 1/250, Loss: 31.71647720 ,	batch: 125/7119
+Epoch: 1/250, Loss: 30.87262688 ,	batch: 150/7119
+Epoch: 1/250, Loss: 29.52023682 ,	batch: 175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00692323, Accuracy: 0.57333, Threshold: 0.83018
+Epoch: 1/250, Loss: 29.22861427 ,	batch: 200/7119
+Epoch: 1/250, Loss: 28.76337601 ,	batch: 225/7119
+Epoch: 1/250, Loss: 28.14888107 ,	batch: 250/7119
+Epoch: 1/250, Loss: 27.17068314 ,	batch: 275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00069548, Accuracy: 0.63200, Threshold: 0.89173
+Epoch: 1/250, Loss: 26.91995766 ,	batch: 300/7119
+Epoch: 1/250, Loss: 26.33061127 ,	batch: 325/7119
+Epoch: 1/250, Loss: 26.55122337 ,	batch: 350/7119
+Epoch: 1/250, Loss: 25.35515053 ,	batch: 375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00055321, Accuracy: 0.63750, Threshold: 0.85438
+Epoch: 1/250, Loss: 24.74208595 ,	batch: 400/7119
+Epoch: 1/250, Loss: 24.54045135 ,	batch: 425/7119
+Epoch: 1/250, Loss: 24.38902153 ,	batch: 450/7119
+Epoch: 1/250, Loss: 24.11422981 ,	batch: 475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00224187, Accuracy: 0.63633, Threshold: 0.80398
+Epoch: 1/250, Loss: 23.49015182 ,	batch: 500/7119
+Epoch: 1/250, Loss: 23.66993980 ,	batch: 525/7119
+Epoch: 1/250, Loss: 23.42272446 ,	batch: 550/7119
+Epoch: 1/250, Loss: 23.40348167 ,	batch: 575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00048174, Accuracy: 0.67350, Threshold: 0.82571
+Epoch: 1/250, Loss: 22.66772324 ,	batch: 600/7119
+Epoch: 1/250, Loss: 22.63225815 ,	batch: 625/7119
+Epoch: 1/250, Loss: 22.05726067 ,	batch: 650/7119
+Epoch: 1/250, Loss: 22.16804871 ,	batch: 675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00050876, Accuracy: 0.66917, Threshold: 0.80735
+Epoch: 1/250, Loss: 21.72628189 ,	batch: 700/7119
+Epoch: 1/250, Loss: 21.53095711 ,	batch: 725/7119
+Epoch: 1/250, Loss: 21.50040016 ,	batch: 750/7119
+Epoch: 1/250, Loss: 21.79762810 ,	batch: 775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00048045, Accuracy: 0.68583, Threshold: 0.83654
+Epoch: 1/250, Loss: 20.68212173 ,	batch: 800/7119
+Epoch: 1/250, Loss: 20.55104958 ,	batch: 825/7119
+Epoch: 1/250, Loss: 20.73698563 ,	batch: 850/7119
+Epoch: 1/250, Loss: 20.39980194 ,	batch: 875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00046433, Accuracy: 0.70400, Threshold: 0.76078
+Epoch: 1/250, Loss: 20.16690605 ,	batch: 900/7119
+Epoch: 1/250, Loss: 20.19931099 ,	batch: 925/7119
+Epoch: 1/250, Loss: 19.80689301 ,	batch: 950/7119
+Epoch: 1/250, Loss: 19.70900970 ,	batch: 975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00049123, Accuracy: 0.69633, Threshold: 0.66612
+Epoch: 1/250, Loss: 19.51610306 ,	batch: 1000/7119
+Epoch: 1/250, Loss: 19.81916672 ,	batch: 1025/7119
+Epoch: 1/250, Loss: 19.46268066 ,	batch: 1050/7119
+Epoch: 1/250, Loss: 19.21655685 ,	batch: 1075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00078176, Accuracy: 0.69783, Threshold: 0.68360
+Epoch: 1/250, Loss: 19.20192657 ,	batch: 1100/7119
+Epoch: 1/250, Loss: 19.37865356 ,	batch: 1125/7119
+Epoch: 1/250, Loss: 18.43508232 ,	batch: 1150/7119
+Epoch: 1/250, Loss: 18.46969177 ,	batch: 1175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00060627, Accuracy: 0.72083, Threshold: 0.66461
+Epoch: 1/250, Loss: 19.11380035 ,	batch: 1200/7119
+Epoch: 1/250, Loss: 18.41906242 ,	batch: 1225/7119
+Epoch: 1/250, Loss: 18.00909225 ,	batch: 1250/7119
+Epoch: 1/250, Loss: 18.28676620 ,	batch: 1275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00113963, Accuracy: 0.69917, Threshold: 0.70890
+Epoch: 1/250, Loss: 18.10957283 ,	batch: 1300/7119
+Epoch: 1/250, Loss: 17.74505093 ,	batch: 1325/7119
+Epoch: 1/250, Loss: 17.65955727 ,	batch: 1350/7119
+Epoch: 1/250, Loss: 17.77974426 ,	batch: 1375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00060844, Accuracy: 0.73267, Threshold: 0.68802
+Epoch: 1/250, Loss: 17.42640404 ,	batch: 1400/7119
+Epoch: 1/250, Loss: 17.57572540 ,	batch: 1425/7119
+Epoch: 1/250, Loss: 17.54262260 ,	batch: 1450/7119
+Epoch: 1/250, Loss: 17.25614700 ,	batch: 1475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00065562, Accuracy: 0.73833, Threshold: 0.63684
+Epoch: 1/250, Loss: 16.99349163 ,	batch: 1500/7119
+Epoch: 1/250, Loss: 17.01417027 ,	batch: 1525/7119
+Epoch: 1/250, Loss: 16.92691715 ,	batch: 1550/7119
+Epoch: 1/250, Loss: 16.97976742 ,	batch: 1575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00071861, Accuracy: 0.73100, Threshold: 0.68492
+Epoch: 1/250, Loss: 16.95617496 ,	batch: 1600/7119
+Epoch: 1/250, Loss: 16.88065216 ,	batch: 1625/7119
+Epoch: 1/250, Loss: 16.55992989 ,	batch: 1650/7119
+Epoch: 1/250, Loss: 16.45228233 ,	batch: 1675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00076989, Accuracy: 0.73317, Threshold: 0.67111
+Epoch: 1/250, Loss: 16.36271118 ,	batch: 1700/7119
+Epoch: 1/250, Loss: 16.01401585 ,	batch: 1725/7119
+Epoch: 1/250, Loss: 16.12276447 ,	batch: 1750/7119
+Epoch: 1/250, Loss: 16.12169411 ,	batch: 1775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00067294, Accuracy: 0.75117, Threshold: 0.58538
+Epoch: 1/250, Loss: 15.91987827 ,	batch: 1800/7119
+Epoch: 1/250, Loss: 16.03856403 ,	batch: 1825/7119
+Epoch: 1/250, Loss: 15.73299385 ,	batch: 1850/7119
+Epoch: 1/250, Loss: 15.64136749 ,	batch: 1875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00067989, Accuracy: 0.75000, Threshold: 0.55578
+Epoch: 1/250, Loss: 15.48672794 ,	batch: 1900/7119
+Epoch: 1/250, Loss: 15.42769741 ,	batch: 1925/7119
+Epoch: 1/250, Loss: 15.45452667 ,	batch: 1950/7119
+Epoch: 1/250, Loss: 15.33224670 ,	batch: 1975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00084599, Accuracy: 0.75633, Threshold: 0.59957
+Epoch: 1/250, Loss: 15.35156689 ,	batch: 2000/7119
+Epoch: 1/250, Loss: 15.15780960 ,	batch: 2025/7119
+Epoch: 1/250, Loss: 15.39483898 ,	batch: 2050/7119
+Epoch: 1/250, Loss: 15.23220139 ,	batch: 2075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00075364, Accuracy: 0.76783, Threshold: 0.50302
+Epoch: 1/250, Loss: 14.99294952 ,	batch: 2100/7119
+Epoch: 1/250, Loss: 14.94194027 ,	batch: 2125/7119
+Epoch: 1/250, Loss: 14.90016232 ,	batch: 2150/7119
+Epoch: 1/250, Loss: 14.76311356 ,	batch: 2175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00069824, Accuracy: 0.75683, Threshold: 0.62843
+Epoch: 1/250, Loss: 14.76949497 ,	batch: 2200/7119
+Epoch: 1/250, Loss: 14.68270142 ,	batch: 2225/7119
+Epoch: 1/250, Loss: 14.62861656 ,	batch: 2250/7119
+Epoch: 1/250, Loss: 14.64405518 ,	batch: 2275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00087894, Accuracy: 0.76317, Threshold: 0.62289
+Epoch: 1/250, Loss: 14.37137028 ,	batch: 2300/7119
+Epoch: 1/250, Loss: 14.37205879 ,	batch: 2325/7119
+Epoch: 1/250, Loss: 14.39889725 ,	batch: 2350/7119
+Epoch: 1/250, Loss: 14.33143749 ,	batch: 2375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00107411, Accuracy: 0.76900, Threshold: 0.56364
+Epoch: 1/250, Loss: 14.38633121 ,	batch: 2400/7119
+Epoch: 1/250, Loss: 13.98948700 ,	batch: 2425/7119
+Epoch: 1/250, Loss: 14.13185905 ,	batch: 2450/7119
+Epoch: 1/250, Loss: 14.23041752 ,	batch: 2475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00087444, Accuracy: 0.78333, Threshold: 0.57295
+Epoch: 1/250, Loss: 14.23760418 ,	batch: 2500/7119
+Epoch: 1/250, Loss: 13.95286869 ,	batch: 2525/7119
+Epoch: 1/250, Loss: 13.96674732 ,	batch: 2550/7119
+Epoch: 1/250, Loss: 13.78064384 ,	batch: 2575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00132046, Accuracy: 0.78667, Threshold: 0.53167
+Epoch: 1/250, Loss: 13.73142418 ,	batch: 2600/7119
+Epoch: 1/250, Loss: 13.93319679 ,	batch: 2625/7119
+Epoch: 1/250, Loss: 13.81038303 ,	batch: 2650/7119
+Epoch: 1/250, Loss: 13.57082943 ,	batch: 2675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00155992, Accuracy: 0.76733, Threshold: 0.56178
+Epoch: 1/250, Loss: 13.63233192 ,	batch: 2700/7119
+Epoch: 1/250, Loss: 13.44617573 ,	batch: 2725/7119
+Epoch: 1/250, Loss: 13.68758480 ,	batch: 2750/7119
+Epoch: 1/250, Loss: 13.35718380 ,	batch: 2775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00147570, Accuracy: 0.76833, Threshold: 0.62476
+Epoch: 1/250, Loss: 13.59597832 ,	batch: 2800/7119
+Epoch: 1/250, Loss: 13.20888824 ,	batch: 2825/7119
+Epoch: 1/250, Loss: 13.43290634 ,	batch: 2850/7119
+Epoch: 1/250, Loss: 13.20637009 ,	batch: 2875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00160549, Accuracy: 0.77533, Threshold: 0.55047
+Epoch: 1/250, Loss: 13.23843784 ,	batch: 2900/7119
+Epoch: 1/250, Loss: 13.14932518 ,	batch: 2925/7119
+Epoch: 1/250, Loss: 13.22755360 ,	batch: 2950/7119
+Epoch: 1/250, Loss: 12.99966892 ,	batch: 2975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00150145, Accuracy: 0.77083, Threshold: 0.61078
+Epoch: 1/250, Loss: 12.84655079 ,	batch: 3000/7119
+Epoch: 1/250, Loss: 12.90114655 ,	batch: 3025/7119
+Epoch: 1/250, Loss: 13.26826653 ,	batch: 3050/7119
+Epoch: 1/250, Loss: 12.81086075 ,	batch: 3075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00145630, Accuracy: 0.80333, Threshold: 0.54718
+Epoch: 1/250, Loss: 12.77431149 ,	batch: 3100/7119
+Epoch: 1/250, Loss: 12.73867954 ,	batch: 3125/7119
+Epoch: 1/250, Loss: 13.00186916 ,	batch: 3150/7119
+Epoch: 1/250, Loss: 13.15401829 ,	batch: 3175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00137334, Accuracy: 0.78167, Threshold: 0.57012
+Epoch: 1/250, Loss: 12.74027313 ,	batch: 3200/7119
+Epoch: 1/250, Loss: 12.57636017 ,	batch: 3225/7119
+Epoch: 1/250, Loss: 12.61902176 ,	batch: 3250/7119
+Epoch: 1/250, Loss: 12.65439411 ,	batch: 3275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00135638, Accuracy: 0.79583, Threshold: 0.54902
+Epoch: 1/250, Loss: 12.56781677 ,	batch: 3300/7119
+Epoch: 1/250, Loss: 12.70372253 ,	batch: 3325/7119
+Epoch: 1/250, Loss: 12.36514931 ,	batch: 3350/7119
+Epoch: 1/250, Loss: 12.59465466 ,	batch: 3375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00150867, Accuracy: 0.79800, Threshold: 0.64349
+Epoch: 1/250, Loss: 12.70642956 ,	batch: 3400/7119
+Epoch: 1/250, Loss: 12.46485676 ,	batch: 3425/7119
+Epoch: 1/250, Loss: 12.81331017 ,	batch: 3450/7119
+Epoch: 1/250, Loss: 12.14484821 ,	batch: 3475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00160412, Accuracy: 0.80083, Threshold: 0.60816
+Epoch: 1/250, Loss: 12.23713997 ,	batch: 3500/7119
+Epoch: 1/250, Loss: 12.44918793 ,	batch: 3525/7119
+Epoch: 1/250, Loss: 12.33084366 ,	batch: 3550/7119
+Epoch: 1/250, Loss: 12.22975384 ,	batch: 3575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00137600, Accuracy: 0.81767, Threshold: 0.50144
+Epoch: 1/250, Loss: 11.87488380 ,	batch: 3600/7119
+Epoch: 1/250, Loss: 12.00548729 ,	batch: 3625/7119
+Epoch: 1/250, Loss: 12.18897724 ,	batch: 3650/7119
+Epoch: 1/250, Loss: 11.90736607 ,	batch: 3675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00139151, Accuracy: 0.79450, Threshold: 0.53087
+Epoch: 1/250, Loss: 11.93305199 ,	batch: 3700/7119
+Epoch: 1/250, Loss: 11.81521370 ,	batch: 3725/7119
+Epoch: 1/250, Loss: 11.89997467 ,	batch: 3750/7119
+Epoch: 1/250, Loss: 11.89781830 ,	batch: 3775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00115586, Accuracy: 0.80833, Threshold: 0.45425
+Epoch: 1/250, Loss: 11.87384815 ,	batch: 3800/7119
+Epoch: 1/250, Loss: 11.91138786 ,	batch: 3825/7119
+Epoch: 1/250, Loss: 11.63409676 ,	batch: 3850/7119
+Epoch: 1/250, Loss: 11.74735615 ,	batch: 3875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00128225, Accuracy: 0.80633, Threshold: 0.55696
+Epoch: 1/250, Loss: 11.97098770 ,	batch: 3900/7119
+Epoch: 1/250, Loss: 11.57677952 ,	batch: 3925/7119
+Epoch: 1/250, Loss: 11.70715576 ,	batch: 3950/7119
+Epoch: 1/250, Loss: 11.47163506 ,	batch: 3975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00136128, Accuracy: 0.80417, Threshold: 0.61764
+Epoch: 1/250, Loss: 11.53645832 ,	batch: 4000/7119
+Epoch: 1/250, Loss: 11.58200581 ,	batch: 4025/7119
+Epoch: 1/250, Loss: 11.67361156 ,	batch: 4050/7119
+Epoch: 1/250, Loss: 11.74215706 ,	batch: 4075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00126184, Accuracy: 0.81217, Threshold: 0.55899
+Epoch: 1/250, Loss: 11.32462261 ,	batch: 4100/7119
+Epoch: 1/250, Loss: 11.85078896 ,	batch: 4125/7119
+Epoch: 1/250, Loss: 11.55467762 ,	batch: 4150/7119
+Epoch: 1/250, Loss: 11.73245529 ,	batch: 4175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00117745, Accuracy: 0.81483, Threshold: 0.56295
+Epoch: 1/250, Loss: 11.31756008 ,	batch: 4200/7119
+Epoch: 1/250, Loss: 11.48203056 ,	batch: 4225/7119
+Epoch: 1/250, Loss: 11.63273041 ,	batch: 4250/7119
+Epoch: 1/250, Loss: 11.43748936 ,	batch: 4275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00169694, Accuracy: 0.81083, Threshold: 0.62468
+Epoch: 1/250, Loss: 11.23320393 ,	batch: 4300/7119
+Epoch: 1/250, Loss: 11.50975922 ,	batch: 4325/7119
+Epoch: 1/250, Loss: 11.23379971 ,	batch: 4350/7119
+Epoch: 1/250, Loss: 11.57767128 ,	batch: 4375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00107941, Accuracy: 0.83033, Threshold: 0.49156
+Epoch: 1/250, Loss: 11.47067463 ,	batch: 4400/7119
+Epoch: 1/250, Loss: 11.30831768 ,	batch: 4425/7119
+Epoch: 1/250, Loss: 11.32637856 ,	batch: 4450/7119
+Epoch: 1/250, Loss: 11.08695839 ,	batch: 4475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00118963, Accuracy: 0.82050, Threshold: 0.56489
+Epoch: 1/250, Loss: 11.09374935 ,	batch: 4500/7119
+Epoch: 1/250, Loss: 11.22067112 ,	batch: 4525/7119
+Epoch: 1/250, Loss: 11.12275745 ,	batch: 4550/7119
+Epoch: 1/250, Loss: 11.38384235 ,	batch: 4575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00119378, Accuracy: 0.83500, Threshold: 0.47335
+Epoch: 1/250, Loss: 11.20335800 ,	batch: 4600/7119
+Epoch: 1/250, Loss: 11.26389145 ,	batch: 4625/7119
+Epoch: 1/250, Loss: 11.05445313 ,	batch: 4650/7119
+Epoch: 1/250, Loss: 10.96654003 ,	batch: 4675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00114449, Accuracy: 0.82567, Threshold: 0.56699
+Epoch: 1/250, Loss: 11.19682892 ,	batch: 4700/7119
+Epoch: 1/250, Loss: 11.20945473 ,	batch: 4725/7119
+Epoch: 1/250, Loss: 11.05978714 ,	batch: 4750/7119
+Epoch: 1/250, Loss: 11.28006287 ,	batch: 4775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00123591, Accuracy: 0.83067, Threshold: 0.52402
+Epoch: 1/250, Loss: 10.94732773 ,	batch: 4800/7119
+Epoch: 1/250, Loss: 10.78891495 ,	batch: 4825/7119
+Epoch: 1/250, Loss: 10.87405972 ,	batch: 4850/7119
+Epoch: 1/250, Loss: 10.97338654 ,	batch: 4875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00110863, Accuracy: 0.80883, Threshold: 0.51086
+Epoch: 1/250, Loss: 11.04309631 ,	batch: 4900/7119
+Epoch: 1/250, Loss: 10.69706356 ,	batch: 4925/7119
+Epoch: 1/250, Loss: 10.81301025 ,	batch: 4950/7119
+Epoch: 1/250, Loss: 10.94507141 ,	batch: 4975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00105472, Accuracy: 0.83083, Threshold: 0.49388
+Epoch: 1/250, Loss: 10.84320587 ,	batch: 5000/7119
+Epoch: 1/250, Loss: 10.96748489 ,	batch: 5025/7119
+Epoch: 1/250, Loss: 10.85874645 ,	batch: 5050/7119
+Epoch: 1/250, Loss: 10.71963707 ,	batch: 5075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00111457, Accuracy: 0.83117, Threshold: 0.50753
+Epoch: 1/250, Loss: 10.50801064 ,	batch: 5100/7119
+Epoch: 1/250, Loss: 10.83817928 ,	batch: 5125/7119
+Epoch: 1/250, Loss: 11.16401791 ,	batch: 5150/7119
+Epoch: 1/250, Loss: 11.07141827 ,	batch: 5175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00116581, Accuracy: 0.82500, Threshold: 0.59259
+Epoch: 1/250, Loss: 10.74413998 ,	batch: 5200/7119
+Epoch: 1/250, Loss: 10.53585926 ,	batch: 5225/7119
+Epoch: 1/250, Loss: 10.60280258 ,	batch: 5250/7119
+Epoch: 1/250, Loss: 10.43598228 ,	batch: 5275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00116774, Accuracy: 0.83867, Threshold: 0.50940
+Epoch: 1/250, Loss: 10.51155132 ,	batch: 5300/7119
+Epoch: 1/250, Loss: 10.81332836 ,	batch: 5325/7119
+Epoch: 1/250, Loss: 10.57563732 ,	batch: 5350/7119
+Epoch: 1/250, Loss: 10.73747601 ,	batch: 5375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00120059, Accuracy: 0.83133, Threshold: 0.54522
+Epoch: 1/250, Loss: 10.47566093 ,	batch: 5400/7119
+Epoch: 1/250, Loss: 10.68281296 ,	batch: 5425/7119
+Epoch: 1/250, Loss: 10.63072472 ,	batch: 5450/7119
+Epoch: 1/250, Loss: 10.67737083 ,	batch: 5475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00109519, Accuracy: 0.82583, Threshold: 0.50999
+Epoch: 1/250, Loss: 10.35156612 ,	batch: 5500/7119
+Epoch: 1/250, Loss: 10.51051659 ,	batch: 5525/7119
+Epoch: 1/250, Loss: 10.25928101 ,	batch: 5550/7119
+Epoch: 1/250, Loss: 10.52380249 ,	batch: 5575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00115259, Accuracy: 0.83750, Threshold: 0.51354
+Epoch: 1/250, Loss: 10.41719551 ,	batch: 5600/7119
+Epoch: 1/250, Loss: 10.43026138 ,	batch: 5625/7119
+Epoch: 1/250, Loss: 10.57453762 ,	batch: 5650/7119
+Epoch: 1/250, Loss: 10.33366688 ,	batch: 5675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00102604, Accuracy: 0.83250, Threshold: 0.45635
+Epoch: 1/250, Loss: 10.41710907 ,	batch: 5700/7119
+Epoch: 1/250, Loss: 10.19311230 ,	batch: 5725/7119
+Epoch: 1/250, Loss: 10.17634380 ,	batch: 5750/7119
+Epoch: 1/250, Loss: 10.17010082 ,	batch: 5775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00109333, Accuracy: 0.83433, Threshold: 0.51049
+Epoch: 1/250, Loss: 10.37589195 ,	batch: 5800/7119
+Epoch: 1/250, Loss: 10.28714149 ,	batch: 5825/7119
+Epoch: 1/250, Loss: 10.42185490 ,	batch: 5850/7119
+Epoch: 1/250, Loss: 9.89220432 ,	batch: 5875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00098008, Accuracy: 0.84450, Threshold: 0.46971
+Epoch: 1/250, Loss: 10.48289486 ,	batch: 5900/7119
+Epoch: 1/250, Loss: 10.11815041 ,	batch: 5925/7119
+Epoch: 1/250, Loss: 10.15842125 ,	batch: 5950/7119
+Epoch: 1/250, Loss: 10.47497898 ,	batch: 5975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00105715, Accuracy: 0.83050, Threshold: 0.49742
+Epoch: 1/250, Loss: 9.97289730 ,	batch: 6000/7119
+Epoch: 1/250, Loss: 10.25402847 ,	batch: 6025/7119
+Epoch: 1/250, Loss: 10.03397823 ,	batch: 6050/7119
+Epoch: 1/250, Loss: 9.90816364 ,	batch: 6075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00094410, Accuracy: 0.84883, Threshold: 0.42232
+Epoch: 1/250, Loss: 10.39705563 ,	batch: 6100/7119
+Epoch: 1/250, Loss: 9.83828209 ,	batch: 6125/7119
+Epoch: 1/250, Loss: 10.15695915 ,	batch: 6150/7119
+Epoch: 1/250, Loss: 9.93186411 ,	batch: 6175/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00105343, Accuracy: 0.84483, Threshold: 0.48335
+Epoch: 1/250, Loss: 10.12578793 ,	batch: 6200/7119
+Epoch: 1/250, Loss: 9.98197315 ,	batch: 6225/7119
+Epoch: 1/250, Loss: 9.90216888 ,	batch: 6250/7119
+Epoch: 1/250, Loss: 10.02238129 ,	batch: 6275/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00107251, Accuracy: 0.83033, Threshold: 0.54231
+Epoch: 1/250, Loss: 9.92188438 ,	batch: 6300/7119
+Epoch: 1/250, Loss: 9.91305710 ,	batch: 6325/7119
+Epoch: 1/250, Loss: 10.48518635 ,	batch: 6350/7119
+Epoch: 1/250, Loss: 9.91003147 ,	batch: 6375/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00100775, Accuracy: 0.84350, Threshold: 0.49575
+Epoch: 1/250, Loss: 10.17095978 ,	batch: 6400/7119
+Epoch: 1/250, Loss: 9.85501743 ,	batch: 6425/7119
+Epoch: 1/250, Loss: 9.91809528 ,	batch: 6450/7119
+Epoch: 1/250, Loss: 9.99079922 ,	batch: 6475/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00102436, Accuracy: 0.84733, Threshold: 0.54480
+Epoch: 1/250, Loss: 10.09386459 ,	batch: 6500/7119
+Epoch: 1/250, Loss: 9.70671371 ,	batch: 6525/7119
+Epoch: 1/250, Loss: 10.29803635 ,	batch: 6550/7119
+Epoch: 1/250, Loss: 9.98004894 ,	batch: 6575/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00085708, Accuracy: 0.85767, Threshold: 0.46146
+Epoch: 1/250, Loss: 9.96831543 ,	batch: 6600/7119
+Epoch: 1/250, Loss: 10.03198919 ,	batch: 6625/7119
+Epoch: 1/250, Loss: 9.91064342 ,	batch: 6650/7119
+Epoch: 1/250, Loss: 9.95948982 ,	batch: 6675/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00090140, Accuracy: 0.84750, Threshold: 0.44197
+Epoch: 1/250, Loss: 9.93739201 ,	batch: 6700/7119
+Epoch: 1/250, Loss: 9.74616173 ,	batch: 6725/7119
+Epoch: 1/250, Loss: 9.94210651 ,	batch: 6750/7119
+Epoch: 1/250, Loss: 9.74992176 ,	batch: 6775/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00095801, Accuracy: 0.85350, Threshold: 0.50911
+Epoch: 1/250, Loss: 9.50589058 ,	batch: 6800/7119
+Epoch: 1/250, Loss: 9.35762989 ,	batch: 6825/7119
+Epoch: 1/250, Loss: 9.48842192 ,	batch: 6850/7119
+Epoch: 1/250, Loss: 9.72492935 ,	batch: 6875/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00089048, Accuracy: 0.85933, Threshold: 0.46548
+Epoch: 1/250, Loss: 9.98031460 ,	batch: 6900/7119
+Epoch: 1/250, Loss: 9.82032288 ,	batch: 6925/7119
+Epoch: 1/250, Loss: 9.86776905 ,	batch: 6950/7119
+Epoch: 1/250, Loss: 9.73374390 ,	batch: 6975/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00092889, Accuracy: 0.84417, Threshold: 0.52112
+Epoch: 1/250, Loss: 10.15836788 ,	batch: 7000/7119
+Epoch: 1/250, Loss: 9.52638699 ,	batch: 7025/7119
+Epoch: 1/250, Loss: 9.52291271 ,	batch: 7050/7119
+Epoch: 1/250, Loss: 9.65958275 ,	batch: 7075/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00077580, Accuracy: 0.85400, Threshold: 0.48536
+Epoch: 1/250, Loss: 9.83277092 ,	batch: 7100/7119
+		Validation Epoch: 1/250, Validation Loss: 0.00083922, Accuracy: 0.85067, Threshold: 0.46603
+Epoch: 1/250, Accuracy: 0.85067, Threshold: 0.46603
+Epoch: 2/250, Loss: 9.17109735 ,	batch: 25/7119
+Epoch: 2/250, Loss: 9.22958447 ,	batch: 50/7119
+Epoch: 2/250, Loss: 9.38466360 ,	batch: 75/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00085393, Accuracy: 0.84967, Threshold: 0.51328
+Epoch: 2/250, Loss: 9.17296213 ,	batch: 100/7119
+Epoch: 2/250, Loss: 9.21628609 ,	batch: 125/7119
+Epoch: 2/250, Loss: 9.38172268 ,	batch: 150/7119
+Epoch: 2/250, Loss: 9.30867081 ,	batch: 175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00085431, Accuracy: 0.85850, Threshold: 0.47889
+Epoch: 2/250, Loss: 8.99036236 ,	batch: 200/7119
+Epoch: 2/250, Loss: 9.52264280 ,	batch: 225/7119
+Epoch: 2/250, Loss: 9.47545977 ,	batch: 250/7119
+Epoch: 2/250, Loss: 9.25348591 ,	batch: 275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00081129, Accuracy: 0.85917, Threshold: 0.44474
+Epoch: 2/250, Loss: 9.28536295 ,	batch: 300/7119
+Epoch: 2/250, Loss: 9.45720623 ,	batch: 325/7119
+Epoch: 2/250, Loss: 9.44170170 ,	batch: 350/7119
+Epoch: 2/250, Loss: 9.53445438 ,	batch: 375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00083204, Accuracy: 0.86217, Threshold: 0.49058
+Epoch: 2/250, Loss: 9.38168907 ,	batch: 400/7119
+Epoch: 2/250, Loss: 9.42115425 ,	batch: 425/7119
+Epoch: 2/250, Loss: 9.15814865 ,	batch: 450/7119
+Epoch: 2/250, Loss: 9.11266056 ,	batch: 475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00078000, Accuracy: 0.86500, Threshold: 0.41962
+Epoch: 2/250, Loss: 9.15029915 ,	batch: 500/7119
+Epoch: 2/250, Loss: 9.20104776 ,	batch: 525/7119
+Epoch: 2/250, Loss: 9.22027269 ,	batch: 550/7119
+Epoch: 2/250, Loss: 9.14943012 ,	batch: 575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00082275, Accuracy: 0.85233, Threshold: 0.48393
+Epoch: 2/250, Loss: 9.31872288 ,	batch: 600/7119
+Epoch: 2/250, Loss: 9.58890144 ,	batch: 625/7119
+Epoch: 2/250, Loss: 8.88220123 ,	batch: 650/7119
+Epoch: 2/250, Loss: 9.20144926 ,	batch: 675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00077777, Accuracy: 0.85233, Threshold: 0.49101
+Epoch: 2/250, Loss: 9.56100056 ,	batch: 700/7119
+Epoch: 2/250, Loss: 9.27090742 ,	batch: 725/7119
+Epoch: 2/250, Loss: 8.98026136 ,	batch: 750/7119
+Epoch: 2/250, Loss: 9.38246937 ,	batch: 775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00076034, Accuracy: 0.86200, Threshold: 0.38913
+Epoch: 2/250, Loss: 9.36833986 ,	batch: 800/7119
+Epoch: 2/250, Loss: 9.33134483 ,	batch: 825/7119
+Epoch: 2/250, Loss: 9.13174276 ,	batch: 850/7119
+Epoch: 2/250, Loss: 9.01437288 ,	batch: 875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00077953, Accuracy: 0.86650, Threshold: 0.48527
+Epoch: 2/250, Loss: 9.04917934 ,	batch: 900/7119
+Epoch: 2/250, Loss: 9.44703362 ,	batch: 925/7119
+Epoch: 2/250, Loss: 9.23605583 ,	batch: 950/7119
+Epoch: 2/250, Loss: 9.15970640 ,	batch: 975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00074546, Accuracy: 0.86467, Threshold: 0.46691
+Epoch: 2/250, Loss: 9.08767464 ,	batch: 1000/7119
+Epoch: 2/250, Loss: 9.26985481 ,	batch: 1025/7119
+Epoch: 2/250, Loss: 8.95170929 ,	batch: 1050/7119
+Epoch: 2/250, Loss: 8.89675777 ,	batch: 1075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00075631, Accuracy: 0.86900, Threshold: 0.43378
+Epoch: 2/250, Loss: 8.87087618 ,	batch: 1100/7119
+Epoch: 2/250, Loss: 9.37524292 ,	batch: 1125/7119
+Epoch: 2/250, Loss: 9.07999916 ,	batch: 1150/7119
+Epoch: 2/250, Loss: 9.14819252 ,	batch: 1175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00083609, Accuracy: 0.86217, Threshold: 0.53117
+Epoch: 2/250, Loss: 9.14194357 ,	batch: 1200/7119
+Epoch: 2/250, Loss: 8.93540270 ,	batch: 1225/7119
+Epoch: 2/250, Loss: 9.24344246 ,	batch: 1250/7119
+Epoch: 2/250, Loss: 8.79755903 ,	batch: 1275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00073997, Accuracy: 0.86067, Threshold: 0.47306
+Epoch: 2/250, Loss: 8.70743275 ,	batch: 1300/7119
+Epoch: 2/250, Loss: 9.15121971 ,	batch: 1325/7119
+Epoch: 2/250, Loss: 9.25533340 ,	batch: 1350/7119
+Epoch: 2/250, Loss: 8.87826334 ,	batch: 1375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00076892, Accuracy: 0.86750, Threshold: 0.49977
+Epoch: 2/250, Loss: 8.88061707 ,	batch: 1400/7119
+Epoch: 2/250, Loss: 9.03841425 ,	batch: 1425/7119
+Epoch: 2/250, Loss: 9.16119745 ,	batch: 1450/7119
+Epoch: 2/250, Loss: 9.15229311 ,	batch: 1475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00077219, Accuracy: 0.85333, Threshold: 0.45304
+Epoch: 2/250, Loss: 8.78911058 ,	batch: 1500/7119
+Epoch: 2/250, Loss: 9.06645851 ,	batch: 1525/7119
+Epoch: 2/250, Loss: 9.06012598 ,	batch: 1550/7119
+Epoch: 2/250, Loss: 8.76543158 ,	batch: 1575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00075139, Accuracy: 0.85433, Threshold: 0.49670
+Epoch: 2/250, Loss: 8.93930878 ,	batch: 1600/7119
+Epoch: 2/250, Loss: 9.06709579 ,	batch: 1625/7119
+Epoch: 2/250, Loss: 8.98991011 ,	batch: 1650/7119
+Epoch: 2/250, Loss: 9.05056606 ,	batch: 1675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00068144, Accuracy: 0.86083, Threshold: 0.42270
+Epoch: 2/250, Loss: 9.08065048 ,	batch: 1700/7119
+Epoch: 2/250, Loss: 9.23580950 ,	batch: 1725/7119
+Epoch: 2/250, Loss: 8.63384163 ,	batch: 1750/7119
+Epoch: 2/250, Loss: 9.06229500 ,	batch: 1775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00081433, Accuracy: 0.86067, Threshold: 0.51018
+Epoch: 2/250, Loss: 9.01277893 ,	batch: 1800/7119
+Epoch: 2/250, Loss: 8.94563774 ,	batch: 1825/7119
+Epoch: 2/250, Loss: 9.27810638 ,	batch: 1850/7119
+Epoch: 2/250, Loss: 8.78762489 ,	batch: 1875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00068916, Accuracy: 0.86867, Threshold: 0.46060
+Epoch: 2/250, Loss: 8.80877428 ,	batch: 1900/7119
+Epoch: 2/250, Loss: 8.87534468 ,	batch: 1925/7119
+Epoch: 2/250, Loss: 9.18539339 ,	batch: 1950/7119
+Epoch: 2/250, Loss: 8.74452789 ,	batch: 1975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00066065, Accuracy: 0.88417, Threshold: 0.39703
+Epoch: 2/250, Loss: 8.63492252 ,	batch: 2000/7119
+Epoch: 2/250, Loss: 9.07293934 ,	batch: 2025/7119
+Epoch: 2/250, Loss: 8.75734663 ,	batch: 2050/7119
+Epoch: 2/250, Loss: 9.03938675 ,	batch: 2075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00067800, Accuracy: 0.87267, Threshold: 0.45928
+Epoch: 2/250, Loss: 9.13634981 ,	batch: 2100/7119
+Epoch: 2/250, Loss: 8.57848478 ,	batch: 2125/7119
+Epoch: 2/250, Loss: 8.84166162 ,	batch: 2150/7119
+Epoch: 2/250, Loss: 9.07741436 ,	batch: 2175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00065456, Accuracy: 0.87733, Threshold: 0.45119
+Epoch: 2/250, Loss: 8.77672226 ,	batch: 2200/7119
+Epoch: 2/250, Loss: 8.94351604 ,	batch: 2225/7119
+Epoch: 2/250, Loss: 8.59631054 ,	batch: 2250/7119
+Epoch: 2/250, Loss: 8.83225756 ,	batch: 2275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00065157, Accuracy: 0.88750, Threshold: 0.41309
+Epoch: 2/250, Loss: 8.69572750 ,	batch: 2300/7119
+Epoch: 2/250, Loss: 8.93770741 ,	batch: 2325/7119
+Epoch: 2/250, Loss: 8.84289116 ,	batch: 2350/7119
+Epoch: 2/250, Loss: 8.74418409 ,	batch: 2375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00070349, Accuracy: 0.86633, Threshold: 0.50475
+Epoch: 2/250, Loss: 8.77054316 ,	batch: 2400/7119
+Epoch: 2/250, Loss: 8.68314812 ,	batch: 2425/7119
+Epoch: 2/250, Loss: 8.68336855 ,	batch: 2450/7119
+Epoch: 2/250, Loss: 8.80513618 ,	batch: 2475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00068573, Accuracy: 0.86883, Threshold: 0.48082
+Epoch: 2/250, Loss: 8.83599653 ,	batch: 2500/7119
+Epoch: 2/250, Loss: 8.85553852 ,	batch: 2525/7119
+Epoch: 2/250, Loss: 8.70686911 ,	batch: 2550/7119
+Epoch: 2/250, Loss: 8.44171501 ,	batch: 2575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00062096, Accuracy: 0.86900, Threshold: 0.46982
+Epoch: 2/250, Loss: 8.48127125 ,	batch: 2600/7119
+Epoch: 2/250, Loss: 8.55200975 ,	batch: 2625/7119
+Epoch: 2/250, Loss: 8.43209822 ,	batch: 2650/7119
+Epoch: 2/250, Loss: 8.45800491 ,	batch: 2675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00063993, Accuracy: 0.86900, Threshold: 0.45940
+Epoch: 2/250, Loss: 8.58290651 ,	batch: 2700/7119
+Epoch: 2/250, Loss: 8.70944485 ,	batch: 2725/7119
+Epoch: 2/250, Loss: 8.85103941 ,	batch: 2750/7119
+Epoch: 2/250, Loss: 8.66370867 ,	batch: 2775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00060661, Accuracy: 0.88617, Threshold: 0.39407
+Epoch: 2/250, Loss: 8.85600027 ,	batch: 2800/7119
+Epoch: 2/250, Loss: 8.78019838 ,	batch: 2825/7119
+Epoch: 2/250, Loss: 8.84014215 ,	batch: 2850/7119
+Epoch: 2/250, Loss: 8.51176674 ,	batch: 2875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00061552, Accuracy: 0.87200, Threshold: 0.45619
+Epoch: 2/250, Loss: 8.78711617 ,	batch: 2900/7119
+Epoch: 2/250, Loss: 8.68386843 ,	batch: 2925/7119
+Epoch: 2/250, Loss: 8.22364262 ,	batch: 2950/7119
+Epoch: 2/250, Loss: 8.45992981 ,	batch: 2975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00064351, Accuracy: 0.87900, Threshold: 0.46361
+Epoch: 2/250, Loss: 8.65360909 ,	batch: 3000/7119
+Epoch: 2/250, Loss: 8.29939571 ,	batch: 3025/7119
+Epoch: 2/250, Loss: 8.54009821 ,	batch: 3050/7119
+Epoch: 2/250, Loss: 8.36552708 ,	batch: 3075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00059873, Accuracy: 0.88900, Threshold: 0.43366
+Epoch: 2/250, Loss: 8.67062988 ,	batch: 3100/7119
+Epoch: 2/250, Loss: 8.41441982 ,	batch: 3125/7119
+Epoch: 2/250, Loss: 8.86061106 ,	batch: 3150/7119
+Epoch: 2/250, Loss: 8.51985891 ,	batch: 3175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00054192, Accuracy: 0.88000, Threshold: 0.38865
+Epoch: 2/250, Loss: 8.62008179 ,	batch: 3200/7119
+Epoch: 2/250, Loss: 8.42569138 ,	batch: 3225/7119
+Epoch: 2/250, Loss: 8.58803221 ,	batch: 3250/7119
+Epoch: 2/250, Loss: 8.64563187 ,	batch: 3275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00063807, Accuracy: 0.87683, Threshold: 0.46017
+Epoch: 2/250, Loss: 8.46857794 ,	batch: 3300/7119
+Epoch: 2/250, Loss: 8.55670454 ,	batch: 3325/7119
+Epoch: 2/250, Loss: 8.71824774 ,	batch: 3350/7119
+Epoch: 2/250, Loss: 8.56166288 ,	batch: 3375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00057288, Accuracy: 0.87483, Threshold: 0.42351
+Epoch: 2/250, Loss: 8.68136843 ,	batch: 3400/7119
+Epoch: 2/250, Loss: 8.28557150 ,	batch: 3425/7119
+Epoch: 2/250, Loss: 8.81032816 ,	batch: 3450/7119
+Epoch: 2/250, Loss: 8.60855131 ,	batch: 3475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00062576, Accuracy: 0.88717, Threshold: 0.43482
+Epoch: 2/250, Loss: 8.35848827 ,	batch: 3500/7119
+Epoch: 2/250, Loss: 8.70568985 ,	batch: 3525/7119
+Epoch: 2/250, Loss: 8.41843727 ,	batch: 3550/7119
+Epoch: 2/250, Loss: 8.35532059 ,	batch: 3575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00068423, Accuracy: 0.86567, Threshold: 0.53392
+Epoch: 2/250, Loss: 8.37218582 ,	batch: 3600/7119
+Epoch: 2/250, Loss: 8.16531834 ,	batch: 3625/7119
+Epoch: 2/250, Loss: 8.41215633 ,	batch: 3650/7119
+Epoch: 2/250, Loss: 8.18161688 ,	batch: 3675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00051048, Accuracy: 0.86750, Threshold: 0.42199
+Epoch: 2/250, Loss: 8.22114311 ,	batch: 3700/7119
+Epoch: 2/250, Loss: 8.36762123 ,	batch: 3725/7119
+Epoch: 2/250, Loss: 8.45474514 ,	batch: 3750/7119
+Epoch: 2/250, Loss: 8.50117290 ,	batch: 3775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00056593, Accuracy: 0.88817, Threshold: 0.44544
+Epoch: 2/250, Loss: 8.50212345 ,	batch: 3800/7119
+Epoch: 2/250, Loss: 8.28108065 ,	batch: 3825/7119
+Epoch: 2/250, Loss: 8.55710209 ,	batch: 3850/7119
+Epoch: 2/250, Loss: 8.29035082 ,	batch: 3875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00054327, Accuracy: 0.88617, Threshold: 0.44718
+Epoch: 2/250, Loss: 8.47414911 ,	batch: 3900/7119
+Epoch: 2/250, Loss: 8.24731083 ,	batch: 3925/7119
+Epoch: 2/250, Loss: 8.15127737 ,	batch: 3950/7119
+Epoch: 2/250, Loss: 8.58459410 ,	batch: 3975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00052451, Accuracy: 0.88467, Threshold: 0.40413
+Epoch: 2/250, Loss: 8.17242290 ,	batch: 4000/7119
+Epoch: 2/250, Loss: 8.31682468 ,	batch: 4025/7119
+Epoch: 2/250, Loss: 8.27842464 ,	batch: 4050/7119
+Epoch: 2/250, Loss: 8.16390594 ,	batch: 4075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00058147, Accuracy: 0.87517, Threshold: 0.49029
+Epoch: 2/250, Loss: 8.37459421 ,	batch: 4100/7119
+Epoch: 2/250, Loss: 8.56128180 ,	batch: 4125/7119
+Epoch: 2/250, Loss: 8.31736555 ,	batch: 4150/7119
+Epoch: 2/250, Loss: 8.07038298 ,	batch: 4175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00050995, Accuracy: 0.88917, Threshold: 0.38567
+Epoch: 2/250, Loss: 8.27626690 ,	batch: 4200/7119
+Epoch: 2/250, Loss: 8.53540722 ,	batch: 4225/7119
+Epoch: 2/250, Loss: 8.45046280 ,	batch: 4250/7119
+Epoch: 2/250, Loss: 8.32453297 ,	batch: 4275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00060769, Accuracy: 0.87167, Threshold: 0.49626
+Epoch: 2/250, Loss: 8.22441807 ,	batch: 4300/7119
+Epoch: 2/250, Loss: 8.39148422 ,	batch: 4325/7119
+Epoch: 2/250, Loss: 8.54680122 ,	batch: 4350/7119
+Epoch: 2/250, Loss: 8.31529470 ,	batch: 4375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00051467, Accuracy: 0.88983, Threshold: 0.42874
+Epoch: 2/250, Loss: 8.36033983 ,	batch: 4400/7119
+Epoch: 2/250, Loss: 8.45557648 ,	batch: 4425/7119
+Epoch: 2/250, Loss: 8.23168818 ,	batch: 4450/7119
+Epoch: 2/250, Loss: 8.32176886 ,	batch: 4475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00053810, Accuracy: 0.88300, Threshold: 0.45809
+Epoch: 2/250, Loss: 8.32099314 ,	batch: 4500/7119
+Epoch: 2/250, Loss: 8.34778862 ,	batch: 4525/7119
+Epoch: 2/250, Loss: 7.87748619 ,	batch: 4550/7119
+Epoch: 2/250, Loss: 8.03715038 ,	batch: 4575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00049829, Accuracy: 0.88433, Threshold: 0.42363
+Epoch: 2/250, Loss: 8.50020527 ,	batch: 4600/7119
+Epoch: 2/250, Loss: 8.26952959 ,	batch: 4625/7119
+Epoch: 2/250, Loss: 8.22618029 ,	batch: 4650/7119
+Epoch: 2/250, Loss: 8.04870605 ,	batch: 4675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00054862, Accuracy: 0.88083, Threshold: 0.45119
+Epoch: 2/250, Loss: 8.19332521 ,	batch: 4700/7119
+Epoch: 2/250, Loss: 8.04203640 ,	batch: 4725/7119
+Epoch: 2/250, Loss: 8.30578693 ,	batch: 4750/7119
+Epoch: 2/250, Loss: 8.20701691 ,	batch: 4775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00048030, Accuracy: 0.89400, Threshold: 0.36604
+Epoch: 2/250, Loss: 8.05719723 ,	batch: 4800/7119
+Epoch: 2/250, Loss: 8.06632671 ,	batch: 4825/7119
+Epoch: 2/250, Loss: 8.17574038 ,	batch: 4850/7119
+Epoch: 2/250, Loss: 8.16592625 ,	batch: 4875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00056739, Accuracy: 0.87650, Threshold: 0.46044
+Epoch: 2/250, Loss: 8.07214367 ,	batch: 4900/7119
+Epoch: 2/250, Loss: 8.09137575 ,	batch: 4925/7119
+Epoch: 2/250, Loss: 8.02496176 ,	batch: 4950/7119
+Epoch: 2/250, Loss: 8.00462412 ,	batch: 4975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00052123, Accuracy: 0.88567, Threshold: 0.45702
+Epoch: 2/250, Loss: 8.22209173 ,	batch: 5000/7119
+Epoch: 2/250, Loss: 8.30185514 ,	batch: 5025/7119
+Epoch: 2/250, Loss: 7.80769485 ,	batch: 5050/7119
+Epoch: 2/250, Loss: 8.30167326 ,	batch: 5075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00049126, Accuracy: 0.88967, Threshold: 0.41324
+Epoch: 2/250, Loss: 7.99648979 ,	batch: 5100/7119
+Epoch: 2/250, Loss: 8.39471773 ,	batch: 5125/7119
+Epoch: 2/250, Loss: 8.23869131 ,	batch: 5150/7119
+Epoch: 2/250, Loss: 8.12665483 ,	batch: 5175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00047239, Accuracy: 0.88400, Threshold: 0.44236
+Epoch: 2/250, Loss: 8.01963972 ,	batch: 5200/7119
+Epoch: 2/250, Loss: 7.93890471 ,	batch: 5225/7119
+Epoch: 2/250, Loss: 8.26087061 ,	batch: 5250/7119
+Epoch: 2/250, Loss: 8.03695446 ,	batch: 5275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00044707, Accuracy: 0.89533, Threshold: 0.42966
+Epoch: 2/250, Loss: 7.91639198 ,	batch: 5300/7119
+Epoch: 2/250, Loss: 8.37993246 ,	batch: 5325/7119
+Epoch: 2/250, Loss: 8.14521206 ,	batch: 5350/7119
+Epoch: 2/250, Loss: 7.71319248 ,	batch: 5375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00051335, Accuracy: 0.88817, Threshold: 0.46200
+Epoch: 2/250, Loss: 8.24136621 ,	batch: 5400/7119
+Epoch: 2/250, Loss: 8.00575743 ,	batch: 5425/7119
+Epoch: 2/250, Loss: 8.24140099 ,	batch: 5450/7119
+Epoch: 2/250, Loss: 7.94247631 ,	batch: 5475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00047274, Accuracy: 0.89333, Threshold: 0.40545
+Epoch: 2/250, Loss: 7.87260468 ,	batch: 5500/7119
+Epoch: 2/250, Loss: 7.96307762 ,	batch: 5525/7119
+Epoch: 2/250, Loss: 8.02902843 ,	batch: 5550/7119
+Epoch: 2/250, Loss: 7.78705259 ,	batch: 5575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00041398, Accuracy: 0.89333, Threshold: 0.40161
+Epoch: 2/250, Loss: 7.98593437 ,	batch: 5600/7119
+Epoch: 2/250, Loss: 7.73637194 ,	batch: 5625/7119
+Epoch: 2/250, Loss: 8.24723051 ,	batch: 5650/7119
+Epoch: 2/250, Loss: 7.94167480 ,	batch: 5675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00045448, Accuracy: 0.88650, Threshold: 0.45194
+Epoch: 2/250, Loss: 7.94694733 ,	batch: 5700/7119
+Epoch: 2/250, Loss: 7.72354313 ,	batch: 5725/7119
+Epoch: 2/250, Loss: 7.80368738 ,	batch: 5750/7119
+Epoch: 2/250, Loss: 8.12595783 ,	batch: 5775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00051857, Accuracy: 0.87050, Threshold: 0.48606
+Epoch: 2/250, Loss: 7.93352674 ,	batch: 5800/7119
+Epoch: 2/250, Loss: 7.68153439 ,	batch: 5825/7119
+Epoch: 2/250, Loss: 7.60706623 ,	batch: 5850/7119
+Epoch: 2/250, Loss: 8.01773443 ,	batch: 5875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00041382, Accuracy: 0.89833, Threshold: 0.33318
+Epoch: 2/250, Loss: 8.06477997 ,	batch: 5900/7119
+Epoch: 2/250, Loss: 8.07990583 ,	batch: 5925/7119
+Epoch: 2/250, Loss: 8.25327681 ,	batch: 5950/7119
+Epoch: 2/250, Loss: 7.79854242 ,	batch: 5975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00043247, Accuracy: 0.89167, Threshold: 0.45129
+Epoch: 2/250, Loss: 8.20973116 ,	batch: 6000/7119
+Epoch: 2/250, Loss: 7.98702280 ,	batch: 6025/7119
+Epoch: 2/250, Loss: 7.79758905 ,	batch: 6050/7119
+Epoch: 2/250, Loss: 8.08947250 ,	batch: 6075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00040857, Accuracy: 0.88683, Threshold: 0.42805
+Epoch: 2/250, Loss: 7.82495550 ,	batch: 6100/7119
+Epoch: 2/250, Loss: 7.81003960 ,	batch: 6125/7119
+Epoch: 2/250, Loss: 8.14467234 ,	batch: 6150/7119
+Epoch: 2/250, Loss: 7.88543013 ,	batch: 6175/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00042863, Accuracy: 0.89200, Threshold: 0.39653
+Epoch: 2/250, Loss: 7.64496107 ,	batch: 6200/7119
+Epoch: 2/250, Loss: 7.97536156 ,	batch: 6225/7119
+Epoch: 2/250, Loss: 8.22087950 ,	batch: 6250/7119
+Epoch: 2/250, Loss: 7.96972157 ,	batch: 6275/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00041489, Accuracy: 0.89633, Threshold: 0.43518
+Epoch: 2/250, Loss: 7.98483841 ,	batch: 6300/7119
+Epoch: 2/250, Loss: 7.96374290 ,	batch: 6325/7119
+Epoch: 2/250, Loss: 8.08771917 ,	batch: 6350/7119
+Epoch: 2/250, Loss: 8.14493391 ,	batch: 6375/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00055215, Accuracy: 0.87617, Threshold: 0.47507
+Epoch: 2/250, Loss: 7.66250484 ,	batch: 6400/7119
+Epoch: 2/250, Loss: 8.10762991 ,	batch: 6425/7119
+Epoch: 2/250, Loss: 7.82354141 ,	batch: 6450/7119
+Epoch: 2/250, Loss: 8.13864599 ,	batch: 6475/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00044271, Accuracy: 0.88067, Threshold: 0.41667
+Epoch: 2/250, Loss: 7.80119827 ,	batch: 6500/7119
+Epoch: 2/250, Loss: 7.86869556 ,	batch: 6525/7119
+Epoch: 2/250, Loss: 7.78157185 ,	batch: 6550/7119
+Epoch: 2/250, Loss: 7.55536602 ,	batch: 6575/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00041907, Accuracy: 0.90467, Threshold: 0.40643
+Epoch: 2/250, Loss: 7.99840460 ,	batch: 6600/7119
+Epoch: 2/250, Loss: 7.55208984 ,	batch: 6625/7119
+Epoch: 2/250, Loss: 7.94443592 ,	batch: 6650/7119
+Epoch: 2/250, Loss: 8.02161657 ,	batch: 6675/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00040701, Accuracy: 0.89717, Threshold: 0.40351
+Epoch: 2/250, Loss: 7.53700417 ,	batch: 6700/7119
+Epoch: 2/250, Loss: 8.09702766 ,	batch: 6725/7119
+Epoch: 2/250, Loss: 7.93938398 ,	batch: 6750/7119
+Epoch: 2/250, Loss: 7.95012539 ,	batch: 6775/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00040489, Accuracy: 0.89467, Threshold: 0.43163
+Epoch: 2/250, Loss: 8.02793308 ,	batch: 6800/7119
+Epoch: 2/250, Loss: 7.82647766 ,	batch: 6825/7119
+Epoch: 2/250, Loss: 7.68369213 ,	batch: 6850/7119
+Epoch: 2/250, Loss: 7.84435427 ,	batch: 6875/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00040143, Accuracy: 0.90017, Threshold: 0.39245
+Epoch: 2/250, Loss: 7.56366869 ,	batch: 6900/7119
+Epoch: 2/250, Loss: 7.79565823 ,	batch: 6925/7119
+Epoch: 2/250, Loss: 7.96738148 ,	batch: 6950/7119
+Epoch: 2/250, Loss: 7.49895842 ,	batch: 6975/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00039255, Accuracy: 0.89250, Threshold: 0.43381
+Epoch: 2/250, Loss: 7.54985624 ,	batch: 7000/7119
+Epoch: 2/250, Loss: 7.60370810 ,	batch: 7025/7119
+Epoch: 2/250, Loss: 7.63144873 ,	batch: 7050/7119
+Epoch: 2/250, Loss: 7.82057592 ,	batch: 7075/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00038765, Accuracy: 0.89800, Threshold: 0.41042
+Epoch: 2/250, Loss: 8.04868605 ,	batch: 7100/7119
+		Validation Epoch: 2/250, Validation Loss: 0.00047583, Accuracy: 0.88883, Threshold: 0.52576
+Epoch: 2/250, Accuracy: 0.88883, Threshold: 0.52576
+Epoch: 3/250, Loss: 7.19362476 ,	batch: 25/7119
+Epoch: 3/250, Loss: 7.19955666 ,	batch: 50/7119
+Epoch: 3/250, Loss: 7.31336605 ,	batch: 75/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00039088, Accuracy: 0.90717, Threshold: 0.37366
+Epoch: 3/250, Loss: 7.66928131 ,	batch: 100/7119
+Epoch: 3/250, Loss: 7.44487539 ,	batch: 125/7119
+Epoch: 3/250, Loss: 7.20010979 ,	batch: 150/7119
+Epoch: 3/250, Loss: 7.37461990 ,	batch: 175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00037534, Accuracy: 0.90533, Threshold: 0.37902
+Epoch: 3/250, Loss: 7.60879614 ,	batch: 200/7119
+Epoch: 3/250, Loss: 7.42555096 ,	batch: 225/7119
+Epoch: 3/250, Loss: 7.21625082 ,	batch: 250/7119
+Epoch: 3/250, Loss: 7.56480711 ,	batch: 275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00041797, Accuracy: 0.90200, Threshold: 0.43730
+Epoch: 3/250, Loss: 7.40882530 ,	batch: 300/7119
+Epoch: 3/250, Loss: 7.47973373 ,	batch: 325/7119
+Epoch: 3/250, Loss: 7.45185749 ,	batch: 350/7119
+Epoch: 3/250, Loss: 7.42592361 ,	batch: 375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00037142, Accuracy: 0.90133, Threshold: 0.41603
+Epoch: 3/250, Loss: 7.19381512 ,	batch: 400/7119
+Epoch: 3/250, Loss: 7.36925642 ,	batch: 425/7119
+Epoch: 3/250, Loss: 7.60748281 ,	batch: 450/7119
+Epoch: 3/250, Loss: 7.10067902 ,	batch: 475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00036899, Accuracy: 0.89917, Threshold: 0.38665
+Epoch: 3/250, Loss: 7.07680754 ,	batch: 500/7119
+Epoch: 3/250, Loss: 7.50157175 ,	batch: 525/7119
+Epoch: 3/250, Loss: 7.45363220 ,	batch: 550/7119
+Epoch: 3/250, Loss: 7.57370459 ,	batch: 575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00036145, Accuracy: 0.89550, Threshold: 0.41313
+Epoch: 3/250, Loss: 7.66916222 ,	batch: 600/7119
+Epoch: 3/250, Loss: 7.51697836 ,	batch: 625/7119
+Epoch: 3/250, Loss: 7.70521866 ,	batch: 650/7119
+Epoch: 3/250, Loss: 7.16029938 ,	batch: 675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00036104, Accuracy: 0.89033, Threshold: 0.37121
+Epoch: 3/250, Loss: 7.45958918 ,	batch: 700/7119
+Epoch: 3/250, Loss: 7.76826370 ,	batch: 725/7119
+Epoch: 3/250, Loss: 7.53981071 ,	batch: 750/7119
+Epoch: 3/250, Loss: 7.64579859 ,	batch: 775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00040816, Accuracy: 0.88317, Threshold: 0.47623
+Epoch: 3/250, Loss: 7.17800081 ,	batch: 800/7119
+Epoch: 3/250, Loss: 7.18004023 ,	batch: 825/7119
+Epoch: 3/250, Loss: 7.57612465 ,	batch: 850/7119
+Epoch: 3/250, Loss: 7.61054430 ,	batch: 875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00036332, Accuracy: 0.90600, Threshold: 0.38169
+Epoch: 3/250, Loss: 7.45674723 ,	batch: 900/7119
+Epoch: 3/250, Loss: 7.34193851 ,	batch: 925/7119
+Epoch: 3/250, Loss: 7.36185877 ,	batch: 950/7119
+Epoch: 3/250, Loss: 7.52296320 ,	batch: 975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00037262, Accuracy: 0.90117, Threshold: 0.39413
+Epoch: 3/250, Loss: 7.44208370 ,	batch: 1000/7119
+Epoch: 3/250, Loss: 7.54211840 ,	batch: 1025/7119
+Epoch: 3/250, Loss: 7.32544415 ,	batch: 1050/7119
+Epoch: 3/250, Loss: 7.45844267 ,	batch: 1075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00035194, Accuracy: 0.90433, Threshold: 0.42961
+Epoch: 3/250, Loss: 7.53984749 ,	batch: 1100/7119
+Epoch: 3/250, Loss: 7.09764523 ,	batch: 1125/7119
+Epoch: 3/250, Loss: 7.50232859 ,	batch: 1150/7119
+Epoch: 3/250, Loss: 7.37804348 ,	batch: 1175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00037122, Accuracy: 0.90600, Threshold: 0.36031
+Epoch: 3/250, Loss: 7.28699949 ,	batch: 1200/7119
+Epoch: 3/250, Loss: 7.34470219 ,	batch: 1225/7119
+Epoch: 3/250, Loss: 7.61078606 ,	batch: 1250/7119
+Epoch: 3/250, Loss: 7.20494848 ,	batch: 1275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032382, Accuracy: 0.90367, Threshold: 0.41702
+Epoch: 3/250, Loss: 7.82189869 ,	batch: 1300/7119
+Epoch: 3/250, Loss: 7.37511211 ,	batch: 1325/7119
+Epoch: 3/250, Loss: 7.41398113 ,	batch: 1350/7119
+Epoch: 3/250, Loss: 7.34819767 ,	batch: 1375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00035302, Accuracy: 0.90667, Threshold: 0.40610
+Epoch: 3/250, Loss: 7.04699724 ,	batch: 1400/7119
+Epoch: 3/250, Loss: 7.37826998 ,	batch: 1425/7119
+Epoch: 3/250, Loss: 7.20675375 ,	batch: 1450/7119
+Epoch: 3/250, Loss: 7.30326279 ,	batch: 1475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00033014, Accuracy: 0.90567, Threshold: 0.38950
+Epoch: 3/250, Loss: 7.07816914 ,	batch: 1500/7119
+Epoch: 3/250, Loss: 7.35565435 ,	batch: 1525/7119
+Epoch: 3/250, Loss: 7.63188850 ,	batch: 1550/7119
+Epoch: 3/250, Loss: 7.50597506 ,	batch: 1575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00036231, Accuracy: 0.90333, Threshold: 0.42783
+Epoch: 3/250, Loss: 7.38827883 ,	batch: 1600/7119
+Epoch: 3/250, Loss: 7.19645220 ,	batch: 1625/7119
+Epoch: 3/250, Loss: 7.45593603 ,	batch: 1650/7119
+Epoch: 3/250, Loss: 7.15571022 ,	batch: 1675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032959, Accuracy: 0.90100, Threshold: 0.39033
+Epoch: 3/250, Loss: 7.30574440 ,	batch: 1700/7119
+Epoch: 3/250, Loss: 7.66890558 ,	batch: 1725/7119
+Epoch: 3/250, Loss: 7.49963446 ,	batch: 1750/7119
+Epoch: 3/250, Loss: 7.44537291 ,	batch: 1775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032303, Accuracy: 0.89250, Threshold: 0.37402
+Epoch: 3/250, Loss: 7.44735365 ,	batch: 1800/7119
+Epoch: 3/250, Loss: 7.25959387 ,	batch: 1825/7119
+Epoch: 3/250, Loss: 7.27027374 ,	batch: 1850/7119
+Epoch: 3/250, Loss: 7.63956520 ,	batch: 1875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00035952, Accuracy: 0.89900, Threshold: 0.42971
+Epoch: 3/250, Loss: 7.52058083 ,	batch: 1900/7119
+Epoch: 3/250, Loss: 7.62072355 ,	batch: 1925/7119
+Epoch: 3/250, Loss: 7.23380342 ,	batch: 1950/7119
+Epoch: 3/250, Loss: 7.38239006 ,	batch: 1975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00034423, Accuracy: 0.89150, Threshold: 0.42264
+Epoch: 3/250, Loss: 7.42358099 ,	batch: 2000/7119
+Epoch: 3/250, Loss: 7.42805447 ,	batch: 2025/7119
+Epoch: 3/250, Loss: 7.41685976 ,	batch: 2050/7119
+Epoch: 3/250, Loss: 7.25538578 ,	batch: 2075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032079, Accuracy: 0.88350, Threshold: 0.40883
+Epoch: 3/250, Loss: 7.75627792 ,	batch: 2100/7119
+Epoch: 3/250, Loss: 7.58114899 ,	batch: 2125/7119
+Epoch: 3/250, Loss: 7.35702406 ,	batch: 2150/7119
+Epoch: 3/250, Loss: 7.34029696 ,	batch: 2175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00031719, Accuracy: 0.89967, Threshold: 0.39374
+Epoch: 3/250, Loss: 7.21803696 ,	batch: 2200/7119
+Epoch: 3/250, Loss: 7.54215429 ,	batch: 2225/7119
+Epoch: 3/250, Loss: 7.33032192 ,	batch: 2250/7119
+Epoch: 3/250, Loss: 7.55534042 ,	batch: 2275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032346, Accuracy: 0.90200, Threshold: 0.42365
+Epoch: 3/250, Loss: 7.36623114 ,	batch: 2300/7119
+Epoch: 3/250, Loss: 7.56068232 ,	batch: 2325/7119
+Epoch: 3/250, Loss: 7.48780334 ,	batch: 2350/7119
+Epoch: 3/250, Loss: 7.23714375 ,	batch: 2375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032098, Accuracy: 0.90567, Threshold: 0.39242
+Epoch: 3/250, Loss: 7.65217342 ,	batch: 2400/7119
+Epoch: 3/250, Loss: 7.48844881 ,	batch: 2425/7119
+Epoch: 3/250, Loss: 7.56623211 ,	batch: 2450/7119
+Epoch: 3/250, Loss: 7.45693506 ,	batch: 2475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00032512, Accuracy: 0.90733, Threshold: 0.36019
+Epoch: 3/250, Loss: 7.34264074 ,	batch: 2500/7119
+Epoch: 3/250, Loss: 7.39868645 ,	batch: 2525/7119
+Epoch: 3/250, Loss: 7.21838989 ,	batch: 2550/7119
+Epoch: 3/250, Loss: 7.24653650 ,	batch: 2575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00029775, Accuracy: 0.90017, Threshold: 0.39902
+Epoch: 3/250, Loss: 7.33652710 ,	batch: 2600/7119
+Epoch: 3/250, Loss: 7.42369654 ,	batch: 2625/7119
+Epoch: 3/250, Loss: 7.25405125 ,	batch: 2650/7119
+Epoch: 3/250, Loss: 7.24419590 ,	batch: 2675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00033861, Accuracy: 0.90167, Threshold: 0.46356
+Epoch: 3/250, Loss: 7.11802502 ,	batch: 2700/7119
+Epoch: 3/250, Loss: 7.39983683 ,	batch: 2725/7119
+Epoch: 3/250, Loss: 7.43558500 ,	batch: 2750/7119
+Epoch: 3/250, Loss: 6.91456377 ,	batch: 2775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00030418, Accuracy: 0.90550, Threshold: 0.42335
+Epoch: 3/250, Loss: 7.40736956 ,	batch: 2800/7119
+Epoch: 3/250, Loss: 7.35491488 ,	batch: 2825/7119
+Epoch: 3/250, Loss: 7.39415327 ,	batch: 2850/7119
+Epoch: 3/250, Loss: 7.74681847 ,	batch: 2875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00030374, Accuracy: 0.91317, Threshold: 0.41078
+Epoch: 3/250, Loss: 7.50299286 ,	batch: 2900/7119
+Epoch: 3/250, Loss: 7.43973312 ,	batch: 2925/7119
+Epoch: 3/250, Loss: 7.22169245 ,	batch: 2950/7119
+Epoch: 3/250, Loss: 7.26570536 ,	batch: 2975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00030548, Accuracy: 0.90233, Threshold: 0.36421
+Epoch: 3/250, Loss: 7.39688475 ,	batch: 3000/7119
+Epoch: 3/250, Loss: 7.33212812 ,	batch: 3025/7119
+Epoch: 3/250, Loss: 7.40308414 ,	batch: 3050/7119
+Epoch: 3/250, Loss: 7.07095627 ,	batch: 3075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00031662, Accuracy: 0.90183, Threshold: 0.40051
+Epoch: 3/250, Loss: 7.54621469 ,	batch: 3100/7119
+Epoch: 3/250, Loss: 7.20308899 ,	batch: 3125/7119
+Epoch: 3/250, Loss: 7.41416763 ,	batch: 3150/7119
+Epoch: 3/250, Loss: 7.27376381 ,	batch: 3175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00030121, Accuracy: 0.91083, Threshold: 0.37751
+Epoch: 3/250, Loss: 7.17276087 ,	batch: 3200/7119
+Epoch: 3/250, Loss: 7.52554840 ,	batch: 3225/7119
+Epoch: 3/250, Loss: 7.33062405 ,	batch: 3250/7119
+Epoch: 3/250, Loss: 6.86118908 ,	batch: 3275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00029011, Accuracy: 0.90717, Threshold: 0.38367
+Epoch: 3/250, Loss: 7.47930611 ,	batch: 3300/7119
+Epoch: 3/250, Loss: 7.40735178 ,	batch: 3325/7119
+Epoch: 3/250, Loss: 7.47862236 ,	batch: 3350/7119
+Epoch: 3/250, Loss: 7.30388954 ,	batch: 3375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00031222, Accuracy: 0.91267, Threshold: 0.41049
+Epoch: 3/250, Loss: 7.23616302 ,	batch: 3400/7119
+Epoch: 3/250, Loss: 7.35444830 ,	batch: 3425/7119
+Epoch: 3/250, Loss: 7.31814528 ,	batch: 3450/7119
+Epoch: 3/250, Loss: 7.18535107 ,	batch: 3475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00027857, Accuracy: 0.89950, Threshold: 0.37993
+Epoch: 3/250, Loss: 7.51374353 ,	batch: 3500/7119
+Epoch: 3/250, Loss: 7.57220566 ,	batch: 3525/7119
+Epoch: 3/250, Loss: 7.37848425 ,	batch: 3550/7119
+Epoch: 3/250, Loss: 6.95869358 ,	batch: 3575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00033587, Accuracy: 0.89933, Threshold: 0.41243
+Epoch: 3/250, Loss: 7.39866724 ,	batch: 3600/7119
+Epoch: 3/250, Loss: 7.20202801 ,	batch: 3625/7119
+Epoch: 3/250, Loss: 7.28895878 ,	batch: 3650/7119
+Epoch: 3/250, Loss: 7.29947479 ,	batch: 3675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00031538, Accuracy: 0.90050, Threshold: 0.43126
+Epoch: 3/250, Loss: 7.08418835 ,	batch: 3700/7119
+Epoch: 3/250, Loss: 7.30871626 ,	batch: 3725/7119
+Epoch: 3/250, Loss: 7.04454563 ,	batch: 3750/7119
+Epoch: 3/250, Loss: 7.22047785 ,	batch: 3775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00031511, Accuracy: 0.90150, Threshold: 0.43025
+Epoch: 3/250, Loss: 7.14361465 ,	batch: 3800/7119
+Epoch: 3/250, Loss: 7.24942144 ,	batch: 3825/7119
+Epoch: 3/250, Loss: 7.04966787 ,	batch: 3850/7119
+Epoch: 3/250, Loss: 7.65039351 ,	batch: 3875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00028509, Accuracy: 0.90833, Threshold: 0.36245
+Epoch: 3/250, Loss: 7.61912352 ,	batch: 3900/7119
+Epoch: 3/250, Loss: 7.23364210 ,	batch: 3925/7119
+Epoch: 3/250, Loss: 7.23673195 ,	batch: 3950/7119
+Epoch: 3/250, Loss: 7.13210291 ,	batch: 3975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00031463, Accuracy: 0.89117, Threshold: 0.40464
+Epoch: 3/250, Loss: 7.13877668 ,	batch: 4000/7119
+Epoch: 3/250, Loss: 7.50413137 ,	batch: 4025/7119
+Epoch: 3/250, Loss: 7.32971283 ,	batch: 4050/7119
+Epoch: 3/250, Loss: 7.25261259 ,	batch: 4075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00027980, Accuracy: 0.90067, Threshold: 0.38703
+Epoch: 3/250, Loss: 7.00868799 ,	batch: 4100/7119
+Epoch: 3/250, Loss: 7.21432037 ,	batch: 4125/7119
+Epoch: 3/250, Loss: 7.51126146 ,	batch: 4150/7119
+Epoch: 3/250, Loss: 7.21896332 ,	batch: 4175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00027690, Accuracy: 0.91467, Threshold: 0.42532
+Epoch: 3/250, Loss: 7.62789717 ,	batch: 4200/7119
+Epoch: 3/250, Loss: 7.06997816 ,	batch: 4225/7119
+Epoch: 3/250, Loss: 7.63719629 ,	batch: 4250/7119
+Epoch: 3/250, Loss: 7.32923811 ,	batch: 4275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00029023, Accuracy: 0.91067, Threshold: 0.37912
+Epoch: 3/250, Loss: 7.37637461 ,	batch: 4300/7119
+Epoch: 3/250, Loss: 7.03972799 ,	batch: 4325/7119
+Epoch: 3/250, Loss: 6.99986530 ,	batch: 4350/7119
+Epoch: 3/250, Loss: 7.12411057 ,	batch: 4375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00029492, Accuracy: 0.89233, Threshold: 0.44591
+Epoch: 3/250, Loss: 7.22811832 ,	batch: 4400/7119
+Epoch: 3/250, Loss: 6.98411791 ,	batch: 4425/7119
+Epoch: 3/250, Loss: 7.29325258 ,	batch: 4450/7119
+Epoch: 3/250, Loss: 6.91088438 ,	batch: 4475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00030222, Accuracy: 0.90000, Threshold: 0.45470
+Epoch: 3/250, Loss: 7.22772659 ,	batch: 4500/7119
+Epoch: 3/250, Loss: 7.16695004 ,	batch: 4525/7119
+Epoch: 3/250, Loss: 7.04325615 ,	batch: 4550/7119
+Epoch: 3/250, Loss: 6.89290140 ,	batch: 4575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00028077, Accuracy: 0.89650, Threshold: 0.45191
+Epoch: 3/250, Loss: 7.28406115 ,	batch: 4600/7119
+Epoch: 3/250, Loss: 7.32817755 ,	batch: 4625/7119
+Epoch: 3/250, Loss: 7.15454138 ,	batch: 4650/7119
+Epoch: 3/250, Loss: 7.09841280 ,	batch: 4675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00027875, Accuracy: 0.90933, Threshold: 0.39243
+Epoch: 3/250, Loss: 7.14212009 ,	batch: 4700/7119
+Epoch: 3/250, Loss: 6.94908644 ,	batch: 4725/7119
+Epoch: 3/250, Loss: 6.87810932 ,	batch: 4750/7119
+Epoch: 3/250, Loss: 7.01142727 ,	batch: 4775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00026479, Accuracy: 0.91450, Threshold: 0.35164
+Epoch: 3/250, Loss: 7.26447914 ,	batch: 4800/7119
+Epoch: 3/250, Loss: 7.05536940 ,	batch: 4825/7119
+Epoch: 3/250, Loss: 7.47259445 ,	batch: 4850/7119
+Epoch: 3/250, Loss: 7.46975761 ,	batch: 4875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00028413, Accuracy: 0.89417, Threshold: 0.39724
+Epoch: 3/250, Loss: 7.24083632 ,	batch: 4900/7119
+Epoch: 3/250, Loss: 6.94636667 ,	batch: 4925/7119
+Epoch: 3/250, Loss: 7.17898993 ,	batch: 4950/7119
+Epoch: 3/250, Loss: 7.31623259 ,	batch: 4975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00025641, Accuracy: 0.91283, Threshold: 0.35745
+Epoch: 3/250, Loss: 7.21049286 ,	batch: 5000/7119
+Epoch: 3/250, Loss: 7.14484276 ,	batch: 5025/7119
+Epoch: 3/250, Loss: 7.11150812 ,	batch: 5050/7119
+Epoch: 3/250, Loss: 7.12637104 ,	batch: 5075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00026373, Accuracy: 0.90450, Threshold: 0.35610
+Epoch: 3/250, Loss: 6.82834333 ,	batch: 5100/7119
+Epoch: 3/250, Loss: 7.24820610 ,	batch: 5125/7119
+Epoch: 3/250, Loss: 7.33462255 ,	batch: 5150/7119
+Epoch: 3/250, Loss: 6.85739857 ,	batch: 5175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00028442, Accuracy: 0.89100, Threshold: 0.44473
+Epoch: 3/250, Loss: 7.68688074 ,	batch: 5200/7119
+Epoch: 3/250, Loss: 7.38997030 ,	batch: 5225/7119
+Epoch: 3/250, Loss: 6.97394506 ,	batch: 5250/7119
+Epoch: 3/250, Loss: 7.26838985 ,	batch: 5275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00026623, Accuracy: 0.91167, Threshold: 0.35761
+Epoch: 3/250, Loss: 7.18705341 ,	batch: 5300/7119
+Epoch: 3/250, Loss: 7.02876717 ,	batch: 5325/7119
+Epoch: 3/250, Loss: 7.24596838 ,	batch: 5350/7119
+Epoch: 3/250, Loss: 7.14045408 ,	batch: 5375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00028219, Accuracy: 0.89117, Threshold: 0.46351
+Epoch: 3/250, Loss: 7.27395708 ,	batch: 5400/7119
+Epoch: 3/250, Loss: 6.86577950 ,	batch: 5425/7119
+Epoch: 3/250, Loss: 7.35602543 ,	batch: 5450/7119
+Epoch: 3/250, Loss: 7.14144157 ,	batch: 5475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00026356, Accuracy: 0.90800, Threshold: 0.37833
+Epoch: 3/250, Loss: 7.06649181 ,	batch: 5500/7119
+Epoch: 3/250, Loss: 6.99869455 ,	batch: 5525/7119
+Epoch: 3/250, Loss: 7.10586241 ,	batch: 5550/7119
+Epoch: 3/250, Loss: 6.95549593 ,	batch: 5575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00025135, Accuracy: 0.91550, Threshold: 0.35100
+Epoch: 3/250, Loss: 6.99241070 ,	batch: 5600/7119
+Epoch: 3/250, Loss: 7.17851542 ,	batch: 5625/7119
+Epoch: 3/250, Loss: 7.04282139 ,	batch: 5650/7119
+Epoch: 3/250, Loss: 7.22267111 ,	batch: 5675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024580, Accuracy: 0.90950, Threshold: 0.35255
+Epoch: 3/250, Loss: 7.11296000 ,	batch: 5700/7119
+Epoch: 3/250, Loss: 7.19839123 ,	batch: 5725/7119
+Epoch: 3/250, Loss: 7.06143381 ,	batch: 5750/7119
+Epoch: 3/250, Loss: 7.32303442 ,	batch: 5775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00027612, Accuracy: 0.89467, Threshold: 0.33726
+Epoch: 3/250, Loss: 7.00913668 ,	batch: 5800/7119
+Epoch: 3/250, Loss: 7.05261261 ,	batch: 5825/7119
+Epoch: 3/250, Loss: 7.19284506 ,	batch: 5850/7119
+Epoch: 3/250, Loss: 7.21007114 ,	batch: 5875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00026725, Accuracy: 0.90517, Threshold: 0.42488
+Epoch: 3/250, Loss: 6.97664827 ,	batch: 5900/7119
+Epoch: 3/250, Loss: 6.99303427 ,	batch: 5925/7119
+Epoch: 3/250, Loss: 6.96812584 ,	batch: 5950/7119
+Epoch: 3/250, Loss: 7.18886665 ,	batch: 5975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00028702, Accuracy: 0.90267, Threshold: 0.41717
+Epoch: 3/250, Loss: 7.08534988 ,	batch: 6000/7119
+Epoch: 3/250, Loss: 6.98176571 ,	batch: 6025/7119
+Epoch: 3/250, Loss: 7.16097055 ,	batch: 6050/7119
+Epoch: 3/250, Loss: 7.04434603 ,	batch: 6075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024962, Accuracy: 0.91500, Threshold: 0.38780
+Epoch: 3/250, Loss: 7.07403416 ,	batch: 6100/7119
+Epoch: 3/250, Loss: 7.26596840 ,	batch: 6125/7119
+Epoch: 3/250, Loss: 7.06517090 ,	batch: 6150/7119
+Epoch: 3/250, Loss: 7.28294802 ,	batch: 6175/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00025278, Accuracy: 0.90383, Threshold: 0.40268
+Epoch: 3/250, Loss: 6.74796934 ,	batch: 6200/7119
+Epoch: 3/250, Loss: 6.80165365 ,	batch: 6225/7119
+Epoch: 3/250, Loss: 6.68019115 ,	batch: 6250/7119
+Epoch: 3/250, Loss: 6.86304462 ,	batch: 6275/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024525, Accuracy: 0.91250, Threshold: 0.37122
+Epoch: 3/250, Loss: 7.39012632 ,	batch: 6300/7119
+Epoch: 3/250, Loss: 7.04600201 ,	batch: 6325/7119
+Epoch: 3/250, Loss: 6.87323009 ,	batch: 6350/7119
+Epoch: 3/250, Loss: 7.11056000 ,	batch: 6375/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00026620, Accuracy: 0.90950, Threshold: 0.42081
+Epoch: 3/250, Loss: 6.78350822 ,	batch: 6400/7119
+Epoch: 3/250, Loss: 6.99294968 ,	batch: 6425/7119
+Epoch: 3/250, Loss: 7.08208742 ,	batch: 6450/7119
+Epoch: 3/250, Loss: 7.06221422 ,	batch: 6475/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024879, Accuracy: 0.90717, Threshold: 0.41094
+Epoch: 3/250, Loss: 7.09615026 ,	batch: 6500/7119
+Epoch: 3/250, Loss: 6.94427607 ,	batch: 6525/7119
+Epoch: 3/250, Loss: 6.92538778 ,	batch: 6550/7119
+Epoch: 3/250, Loss: 7.37531944 ,	batch: 6575/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00022860, Accuracy: 0.91133, Threshold: 0.35582
+Epoch: 3/250, Loss: 7.06687662 ,	batch: 6600/7119
+Epoch: 3/250, Loss: 6.76772896 ,	batch: 6625/7119
+Epoch: 3/250, Loss: 6.87172316 ,	batch: 6650/7119
+Epoch: 3/250, Loss: 6.72092653 ,	batch: 6675/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00023610, Accuracy: 0.90383, Threshold: 0.39151
+Epoch: 3/250, Loss: 7.11570530 ,	batch: 6700/7119
+Epoch: 3/250, Loss: 7.17533579 ,	batch: 6725/7119
+Epoch: 3/250, Loss: 7.09033710 ,	batch: 6750/7119
+Epoch: 3/250, Loss: 7.35807646 ,	batch: 6775/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024676, Accuracy: 0.91150, Threshold: 0.39013
+Epoch: 3/250, Loss: 6.91334146 ,	batch: 6800/7119
+Epoch: 3/250, Loss: 7.18410854 ,	batch: 6825/7119
+Epoch: 3/250, Loss: 6.91455435 ,	batch: 6850/7119
+Epoch: 3/250, Loss: 6.89374920 ,	batch: 6875/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024284, Accuracy: 0.91500, Threshold: 0.40917
+Epoch: 3/250, Loss: 6.65063570 ,	batch: 6900/7119
+Epoch: 3/250, Loss: 7.12534594 ,	batch: 6925/7119
+Epoch: 3/250, Loss: 6.85428740 ,	batch: 6950/7119
+Epoch: 3/250, Loss: 6.82519497 ,	batch: 6975/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00025885, Accuracy: 0.90533, Threshold: 0.41944
+Epoch: 3/250, Loss: 7.04215490 ,	batch: 7000/7119
+Epoch: 3/250, Loss: 7.17119839 ,	batch: 7025/7119
+Epoch: 3/250, Loss: 7.13760269 ,	batch: 7050/7119
+Epoch: 3/250, Loss: 6.78046434 ,	batch: 7075/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00024952, Accuracy: 0.90883, Threshold: 0.40778
+Epoch: 3/250, Loss: 7.13300877 ,	batch: 7100/7119
+		Validation Epoch: 3/250, Validation Loss: 0.00022987, Accuracy: 0.91183, Threshold: 0.37344
+Epoch: 3/250, Accuracy: 0.91183, Threshold: 0.37344
+Epoch: 4/250, Loss: 6.50498753 ,	batch: 25/7119
+Epoch: 4/250, Loss: 6.50845573 ,	batch: 50/7119
+Epoch: 4/250, Loss: 6.42254416 ,	batch: 75/7119
+		Validation Epoch: 4/250, Validation Loss: 0.00024505, Accuracy: 0.91200, Threshold: 0.38254
+Epoch: 4/250, Loss: 6.71808628 ,	batch: 100/7119
+Epoch: 4/250, Loss: 6.55531887 ,	batch: 125/7119
+Epoch: 4/250, Loss: 6.45860121 ,	batch: 150/7119
+Epoch: 4/250, Loss: 6.39661968 ,	batch: 175/7119
