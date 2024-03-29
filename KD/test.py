@@ -8,7 +8,7 @@ import numpy as np
 from PIL import Image
 
 from config import config as conf
-from models import ResIRSE
+from models import ResIRSE,ResNet18
 
 import sys
 
@@ -109,10 +109,13 @@ def compute_accuracy(feature_dict, pair_list, test_root):
 if __name__ == '__main__':
 
     if len(sys.argv)==2 :
-        conf.test_model = f"../checkpoints/ckpt-recognition/{sys.argv[1]}.pth"
+        conf.test_model = f"../checkpoints/ckpt-KD/{sys.argv[1]}.pth"
     #model = FaceMobileNet(conf.embedding_size)
-    model = ResIRSE(conf.embedding_size, conf.drop_ratio)
-    model = nn.DataParallel(model)
+    #model = ResIRSE(conf.embedding_size, conf.drop_ratio)
+    model = ResNet18().to(conf.device)
+
+    # 学生模型测试时数据并行会出错
+    # model = nn.DataParallel(model, device_ids=conf.deviceID)
     model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
     model.eval()
 
@@ -129,5 +132,5 @@ if __name__ == '__main__':
     print(
         f"Test Model: {conf.test_model}\n"
         f"Accuracy: {accuracy:.3f}\n"
-        f"Threshold: {threshold:.3f}\n"
+        f"Threshold: {threshold}\n"
     )
