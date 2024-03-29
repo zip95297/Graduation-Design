@@ -39,8 +39,8 @@ class Config:
     # restore_model = ""
     # name="resnet_arcface_60_3.0496349334716797"
     # test_model = f"/home/zjb/workbench/recognition/checkpoints/{name}.pth"
-    name="teacher_now"
-    test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/TeacherModel/{name}.pth"
+    name="StudentWithoutDataParalle"
+    test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/{name}.pth"
     
     train_batch_size = 64
     test_batch_size = 60
