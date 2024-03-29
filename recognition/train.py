@@ -32,8 +32,8 @@ if conf.metric == 'arcface':
 else:
     metric = CosFace(embedding_size, class_num).to(device)
 
-net = nn.DataParallel(net)
-metric = nn.DataParallel(metric)
+net = nn.DataParallel(net, device_ids=conf.deviceID)
+metric = nn.DataParallel(metric, device_ids=conf.deviceID)
 
 # Training Setup
 if conf.loss == 'focal_loss':
@@ -62,8 +62,12 @@ if conf.restore:
 net.train()
 
 for e in range(conf.epoch):
-    for data, labels in tqdm(dataloader, desc=f"Epoch {e}/{conf.epoch}",
-                             ascii=True, total=len(dataloader),mininterval=10):
+    temp_loss=0
+
+    # 设置迭代器和进度条
+    bar = tqdm(dataloader, desc=f"Epoch {e}/{conf.epoch} Loss:{temp_loss:.4f}",
+                             ascii=True, total=len(dataloader),mininterval=2)
+    for data, labels in bar :
         data = data.to(device)
         labels = labels.to(device)
         
@@ -73,9 +77,12 @@ for e in range(conf.epoch):
         loss = criterion(thetas, labels)
         loss.backward()
         optimizer.step()
-        print(f"loss: {loss.item()}")
+        temp_loss=loss.item()
+        
+        # 实时显示loss
+        bar.set_description(f"Epoch {e}/{conf.epoch} Loss:{temp_loss:.4f}")
 
-    print(f"Epoch {e}/{conf.epoch}, Loss: {loss}")
+    # print(f"Epoch {e}/{conf.epoch}, Loss: {loss}")
 
     backbone_path = osp.join(checkpoints, f"{conf.backbone}_{conf.metric}_{e}_{loss}.pth")
     torch.save(net.state_dict(), backbone_path)
