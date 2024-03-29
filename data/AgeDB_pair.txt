@@ -1,0 +1,6000 @@
+AbeVigoda	14	32
+AdolfHitlerr	2	6
+AdolfHitlerr	5	13
+AlPacino	10	12
+AlanYoung	6	21
+AlbertoSordi	37	40
+AlecGuinness	20	36
+AlejandroRey	10	17
+AlexandrakisAlekos	14	16
+AmandaBlake	1	25
+AmandaRedman	12	30
+AndreMarieAmpКre	1	3
+AndreasPapantreou	3	4
+AndyGriffith	27	36
+AndyGriffith	9	18
+AnjelicaHuston	16	22
+AnnMargret	19	25
+AnnMargret	9	22
+AnnMiller	6	24
+AnneBancroft	13	31
+AnneBaxter	4	22
+AnnetteBening	24	25
+AnnieGirardot	12	32
+AnthonyAndrews	12	14
+AnthonyHopkins	2	4
+AnthonyPerkins	16	31
+AnthonyQuayle	24	25
+ArmandAssante	12	23
+ArmandAssante	12	24
+AvaGardner	11	23
+BarbaraBouchet	23	39
+BarbraStreisand	3	17
+BeaArthur	5	27
+BernadetteLafont	15	37
+BetteDavis	24	25
+BillCosby	22	30
+BillNighy	22	23
+BoDerek	5	17
+BobDylan	2	24
+BobDylan	3	32
+BobDylan	7	9
+BobHope	18	36
+BorisKarloff	4	29
+BruceWillis	15	26
+Carroll	1	7
+CaryGrant	8	14
+CatherineDeneuve	27	28
+CatherineSchell	2	21
+CharlesBronson	2	17
+CharlesDarwin	4	6
+CharlesGrodin	19	24
+CharlieChaplin	13	21
+CharlieChaplin	4	10
+CharlieSheen	11	17
+CharlieSheen	4	11
+ChevyChase	21	29
+ChristopherEccleston	2	10
+ChristopherEccleston	20	27
+ChristopherPlummer	15	25
+ChristopherWalken	12	21
+ChristopherWalken	25	32
+ChuckNorris	12	24
+ClaudeLВviStrauss	1	14
+ClaudetteColbert	16	27
+ClaudiaCardinale	1	7
+ClaudiaCardinale	6	13
+CliffRobertson	2	5
+CliffRobertson	8	17
+CybillShepherd	7	12
+CyndiLauper	3	8
+DaliahLavi	7	19
+DannyDeVito	11	21
+DavidNiven	16	26
+Davis	3	14
+DebbieReynolds	9	30
+Dee	13	16
+DianneWiest	2	5
+DickieMoore	10	32
+DirkBogarde	19	41
+DonnaReed	6	23
+DorisDay	20	45
+EdHarris	2	11
+EdwardFox	14	38
+EdwardGRobinson	28	32
+EdwigeFenech	19	27
+ElVenizelos	10	13
+ElkeSommer	11	27
+ElliottGould	1	2
+ElliottGould	5	6
+EnricoFermi	1	5
+EnricoFermi	3	4
+ErinGray	2	22
+ErinGray	6	22
+ErinGray	6	33
+ErnestBorgnine	3	34
+ErnestHemingway	9	16
+ErrolFlynn	5	22
+ErrolFlynn	6	26
+EvaMarieSaint	12	30
+FayeDunaway	19	23
+FidelCastro	5	12
+FrancescaAnnis	12	24
+FrankSinatra	21	26
+FrankSinatra	8	23
+FriedrichNietzsche	15	20
+Gaddafi	19	23
+GaryOldman	15	26
+Garycooper	1	4
+Garycooper	2	9
+GenaRowlands	11	26
+GenaRowlands	22	28
+GenaRowlands	3	11
+GeneHackman	3	10
+GeneHackman	4	17
+GeorgeCScott	2	14
+GeorgeHWBush	2	8
+GeorgeHWBush	2	9
+GeorgeMontgomery	10	22
+GeraldineChaplin	7	27
+GeraldinePage	19	31
+GladysCooper	12	24
+GlennClose	14	15
+Gorbachev	10	21
+Gorbachev	3	12
+GraceKelly	16	18
+GraceKelly	9	17
+GreerGarson	12	27
+GregoryPeck	2	10
+HarrisonFord	3	11
+HelenHunt	4	31
+HumphreyBogard	25	28
+IsabelleHuppert	11	21
+JPMorgan	5	6
+JackColeman	1	17
+JackLemon	24	25
+JamesArness	13	29
+JamesBest	16	25
+JamesBest	24	29
+JamesCaan	3	19
+JamesCagney	22	24
+JaneBirkin	14	20
+JaneBirkin	3	13
+JaneBirkin	7	18
+JaneWyman	12	19
+JeanClaudeVanDamme	7	37
+JeanetteMacDonald	27	28
+JeanetteMacDonald	35	46
+JeffBridges	10	24
+JeffDaniels	7	30
+JeffGoldblum	10	27
+JeffGoldblum	2	8
+JenniferAniston	18	24
+JenniferAniston	6	14
+JenniferJones	9	28
+JeremyKemp	7	10
+JhonLenon	10	25
+JoanCollins	2	12
+JoanCrawford	15	28
+JoanFontaine	13	22
+JoanLeslie	11	14
+JoanLorring	4	20
+JohnCassavetes	14	27
+JohnCassavetes	18	22
+JohnCleese	1	26
+JohnCleese	5	11
+JohnDRockefeller	13	16
+JohnDRockefeller	3	9
+JohnDRockefeller	7	9
+JohnGarfield	3	8
+JohnJames	4	5
+JohnVernon	4	28
+JohnWayne	17	25
+JuliaRoberts	2	5
+JulieHagerty	1	9
+JulieHagerty	11	25
+JuneLockhart	16	30
+KateOMara	8	29
+KatharineHepburn	7	23
+KathrynGrayson	19	33
+KathrynGrayson	5	12
+KathrynHays	7	20
+KennethBranagh	14	19
+KennethBranagh	6	9
+KirkDouglas	3	7
+Konstantaras	9	11
+KostasVoutsas	16	17
+KostasXatzixristos	7	14
+KristinScottThomas	12	27
+LarryEllison	4	9
+LauraAntonelli	17	19
+LauraAntonelli	8	18
+LaurenBacall	8	27
+LawrenceTierney	16	18
+LeeJCobb	11	26
+LeslieCaron	1	32
+LilliPalmer	7	8
+LindaEvans	19	22
+LindaEvans	28	29
+LinoVentura	14	27
+LorettaYoung	14	22
+LorettaYoung	9	13
+LouisJourdan	2	23
+LuiseRainer	22	54
+LyleTalbot	11	18
+MargaretNolan	4	10
+MargaretThatcher	11	15
+MarieCurie	9	11
+MarieCurie	9	13
+MarietteHartley	14	22
+MarlonBrando	1	19
+MaryPickford	3	4
+MaryTamm	10	16
+MaximilianShell	15	26
+MelBrooks	3	8
+MelFerrer	10	11
+MelindaDillion	8	20
+MerkouriMelina	3	7
+MichaelKeaton	15	22
+MichaelPalin	6	19
+MichellePfeiffer	5	12
+MikeConnors	1	36
+MireilleDarc	27	41
+MireilleDarc	6	28
+MuhammadAli	19	25
+MurrayHamilton	6	11
+MylКneDemongeot	7	9
+NeildeGrasseTyson	9	10
+NelsonMandela	4	11
+NielsBohr	3	5
+OliviaHussey	1	2
+OmarSharif	10	17
+OrnellaMuti	9	34
+OrsonWelles	12	18
+PeggyAshcroft	2	28
+Pele	6	23
+PeterFonda	6	15
+PeterSellers	14	15
+PeterSellers	4	21
+PierceBrosnan	10	32
+RalphMacchio	22	33
+RichardAttenborough	11	16
+RichardAttenborough	9	16
+RichardPryor	7	15
+RingoStarr	17	25
+RingoStarr	18	20
+RingoStarr	7	10
+RobertDeNiro	5	11
+RobertMitchum	10	19
+RodTaylor	1	9
+RonPerlman	14	19
+RowanAtkinson	2	7
+RowanAtkinson	8	13
+RoyRogers	17	32
+RoyRogers	22	34
+RutgerHauer	1	26
+RuthGordon	2	25
+SamElliott	17	20
+SamElliott	26	33
+SamElliott	32	35
+SamuelJacksonn	14	16
+ScottGlenn	5	38
+ShirleyJones	12	31
+ShirleyJones	17	35
+ShirleyJones	20	25
+SidneyPoitier	26	30
+SilvanaMangano	8	22
+StacyKeach	3	21
+StefaniePowers	13	28
+SteveJobsb	7	9
+StevenSpielberg	9	13
+SusanHayward	10	27
+TanyaRoberts	6	15
+TellySavalas	10	12
+TildaSwinton	5	8
+TildaSwinton	6	19
+TimothyDalton	5	6
+TippiHedren	18	26
+TomasMilian	1	8
+TonyCurtis	12	16
+TonyCurtis	14	24
+Turner	3	8
+Tyson	20	29
+UrsulaAndress	16	22
+VanessaRedgrave	18	37
+VanessaRedgrave	34	40
+VeraEllen	16	19
+VictorMature	5	24
+VincentPrice	8	11
+VittorioGassman	19	33
+WEBDuBois	12	13
+WaltDisney	6	8
+WarrenBeatty	27	41
+WinstonChurchill	6	18
+WinstonChurchill	6	8
+WoodyAllen	1	16
+YvesMontand	19	30
+YvesMontand	4	9
+angelamerkel	17	28
+motherTereza	2	13
+tomselleck	16	18
+AbeVigoda	22	JosephCotten	11
+AbeVigoda	26	GeneHackman	6
+AbeVigoda	32	GordonThomson	6
+AbeVigoda	9	SteveJobsb	11
+AlKapone	4	QueenElizabet	24
+AlPacino	10	Mparkoulis	3
+AlainDelon	7	AndreMarieAmpКre	3
+AlanRickman	3	FriedrichNietzsche	2
+AlejandroRey	11	DonJohnson	2
+AlexanderGrahamBell	11	EliWallach	27
+AlexanderGrahamBell	3	CliffRobertson	9
+AlexandrakisAlekos	10	BettyGarrett	25
+AlexandrakisAlekos	10	WinstonChurchill	1
+AliMacGraw	6	MerkouriMelina	14
+AlikiBoug	25	NewmanPaul	13
+AlikiBoug	8	RoseMarie	18
+AmandaBlake	1	StevenSpielberg	18
+AmandaBlake	21	RoseMarie	2
+AmandaRedman	8	LilliPalmer	4
+AngelaLansbury	25	JanetEllis	7
+AnitaEkberg	17	DavidMcCallum	24
+AnitaEkberg	3	StephenHawking	4
+AnnMargret	5	TheodoreRoosevelt	7
+AnnaMassey	5	michaeljackson	15
+AnneBancroft	23	CelesteHolm	2
+AnneBaxter	17	RogerMoore	25
+AnnetteBening	20	SeanConnery	16
+AnnieGirardot	14	VincentPrice	5
+AnnieGirardot	25	BurtLancaster	28
+AnthonyPerkins	18	LindaEvans	8
+AnthonyPerkins	31	Garycooper	2
+Arletty	14	JohnnyCash	15
+Arletty	17	MargaretThatcher	21
+Arletty	30	PhilHartman	16
+ArnoldSchwarzenegger	10	Dee	8
+AudreyHepburn	10	HarrySTruman	15
+AvaGardner	17	WarrenBeatty	4
+BarbaraBain	23	LauraAntonelli	23
+BarbaraStanwyck	33	GretaGarbo	20
+BarbaraStanwyck	33	JamesStewart	6
+BarbraStreisand	9	CelesteHolm	27
+BenGazzara	28	LivUllmann	13
+BertrandRussell	11	VictorMature	4
+BertrandRussell	2	GladysCooper	13
+BetteDavis	7	NewmanPaul	13
+BettyGarrett	13	MichaelKeaton	14
+BettyGarrett	15	DavidCarradine	31
+BettyGrable	9	LeslieNielsen	2
+BillCosby	14	JuneLockhart	18
+BillCosby	29	SigourneyWeaver	5
+BillMurray	25	RodTaylor	10
+BillNighy	25	Thanasisveggos	14
+BillNighy	28	PeterUstinov	24
+BillNighy	29	HedyLamarr	2
+BobHope	10	MarietteHartley	10
+BobHope	35	JamesArness	8
+BonnieHunt	18	EsteeLauder	16
+BorisKarloff	8	Gorbachev	5
+BruceWillis	20	KathrynGrayson	19
+BurtReynolds	28	KirkDouglas	16
+CarlMarx	2	LuiseRainer	24
+CarlSagan	1	GlendaJackson	13
+CarlSagan	11	RicardoMontalbаn	22
+CarlosSantana	25	ClerkMaxwell	5
+CatherineDeneuve	23	EvaMarieSaint	2
+CatherineDeneuve	26	CharlieChaplin	6
+CatherineDeneuve	26	MurrayHamilton	21
+CatherineSchell	19	MartinLutherKing	8
+CatherineSchell	3	TonyBlair	12
+CelesteHolm	4	Pele	12
+CharlesDarwin	5	RexHarrison	4
+CharlesGrodin	21	EdwardFox	35
+CharlesGrodin	23	JPMorgan	1
+CharltonHeaston	18	ThomasTerry	15
+ChristopherEccleston	13	ErnestRutherford	12
+ChristopherPlummer	1	PhilHartman	7
+ChuckNorris	21	RaquelWelch	28
+ChuckNorris	34	WilliamDafoe	25
+ChuckNorris	5	RyanONeal	23
+ClarkGable	8	JPMorgan	2
+ClaudetteColbert	16	ElvisPresley	8
+ClaudetteColbert	17	JaneBirkin	15
+ClaudetteColbert	30	FernandoRey	7
+CliffRobertson	12	KimNovak	19
+ClintEastwood	14	TheodorakisMikis	3
+ClintEastwood	14	angelamerkel	13
+ClintWalker	33	LouCostello	21
+ConnieBooth	14	RicardoMontalbаn	30
+ConnieBooth	17	NelsonMandela	5
+ConnieBooth	19	KathrynGrayson	9
+ConnieBooth	19	KristinScottThomas	7
+ConnieBooth	24	MorganFreeman	55
+CydCharisse	4	RobertRyan	16
+CyndiLauper	12	MurrayHamilton	17
+DaliahLavi	14	TonyCurtis	13
+DaliahLavi	15	ErnestRutherford	6
+DanaAndrews	11	DavidNiven	18
+DanaAndrews	4	JoanCrawford	31
+DanielleDarrieux	12	EdHarris	16
+DanielleDarrieux	46	JackLarson	10
+DannyGlover	4	JulieAndrews	5
+DavidSarnoff	21	JenniferJones	17
+DavidSarnoff	6	GiorgosSeferis	4
+DebraPaget	1	DirkBogarde	23
+DebraPaget	12	FrancescaAnnis	28
+DebraPaget	2	RoyScheider	30
+Dee	3	JohnVernon	22
+Dee	7	StephenHawking	7
+DenzelWashington	8	WoodyAllen	17
+DerekJacobi	3	StevenBerkoff	2
+DerekJacobi	31	RobertDeNiro	4
+DerekJacobi	33	OdysseasElytis	12
+DianneWiest	20	RitaLeviMontalcini	3
+DickVanDyke	13	LindaEvans	11
+DonnaReed	9	LindsayWagner	6
+DyanCannon	14	EmmaThompson	20
+EdHarris	1	MargaretNolan	11
+EdHarris	11	GalileoGalilei	2
+EdHarris	18	WinstonChurchill	12
+EdHarris	9	TonyCurtis	25
+EdwardGRobinson	39	Thanasisveggos	3
+EdwigeFenech	12	GeorgeHWBush	4
+Einstain	4	StefaniePowers	31
+ElizabethTaylor	14	JenniferAniston	16
+ElizabethTaylor	3	NelsonMandela	8
+ElliottGould	3	ErrolFlynn	20
+ElvisPresley	20	HarveyKeitel	12
+ElvisPresley	20	LindsayWagner	12
+ElvisPresley	25	JohnMalkovich	12
+EmmaThompson	1	PeggyLipton	17
+EnricoFermi	9	KateOMara	32
+ErinGray	12	JosephStalin	16
+ErinGray	14	GeorgeMontgomery	15
+ErnestBorgnine	2	MaryPickford	16
+ErnestBorgnine	22	TomHulce	6
+ErnestBorgnine	26	SartreJeanPaul	9
+ErnestHemingway	10	StВphaneAudran	38
+ErnestHemingway	21	JanetLeigh	5
+ErnestRutherford	17	PeterOToole	18
+EstherWilliams	20	MichaelYork	32
+EstherWilliams	9	JosephCotten	4
+FaradayMichael	6	PaulmcCartney	6
+FayeDunaway	19	JanetEllis	4
+FidelCastro	5	GeraldineChaplin	36
+Fotopoulos	12	SteveMcQueen	16
+Fotopoulos	13	SilvanaMangano	5
+Fotopoulos	8	MarisaPavan	14
+FrancescaAnnis	8	LaurenBacall	12
+FrankSinatra	17	JeanneMoreau	13
+FrankSinatra	17	KathrynHays	19
+FranklinDRoosevelt	5	OrsonWelles	4
+FrederickSanger	1	SamElliott	26
+FriedrichNietzsche	1	MaryPickford	30
+GabrielGarciaMarquez	10	JackNicolson	4
+Gaddafi	24	LelandStanford	10
+GalileoGalilei	8	PaulmcCartney	4
+GaryOldman	20	Tyson	25
+GeorgeCScott	11	GilbertRoland	18
+GeraldineChaplin	37	MikeConnors	3
+GeraldinePage	31	RuthGordon	18
+GilbertRoland	9	JackNicolson	9
+GingerRogers	29	WilliamDafoe	25
+GiorgosSeferis	4	TheodorakisMikis	10
+GiulianoGemma	33	WilliamHolden	11
+GladysCooper	12	HowardKeel	23
+GlennClose	10	ImeldaStaunton	16
+Gorbachev	6	PierceBrosnan	22
+GordonThomson	21	JeffGoldblum	18
+GraceKelly	27	WinstonChurchill	4
+GregoryPeck	12	RichardBurton	11
+GretaGarbo	12	WaltDisney	1
+HarveyKeitel	14	MichaelSarrazin	14
+HarveyKeitel	25	JPaulGetty	7
+HatzidakisManos	10	StacyKeach	38
+HedyLamarr	1	RalphMacchio	26
+HedyLamarr	11	MaggieSmith	24
+HelenHunt	29	Onasis	12
+HelenHunt	3	KevinSpacey	12
+HelmutBerger	22	MaryTamm	16
+HelmutBerger	28	LilliPalmer	21
+HelmutBerger	5	RomySchneider	5
+IanHolm	12	MonicaVitti	21
+IanMcKellen	21	JulieAdams	3
+IreneDunne	4	campbell	21
+JPaulGetty	3	RobertDeNiro	11
+JWMarriott	8	KlausKinski	2
+JackColeman	8	MendeleievDmitri	6
+JackColeman	9	JackLemon	2
+JackLarson	23	RockHudson	28
+JackLemon	17	motherTereza	22
+JackNicolson	8	JuliaRoberts	3
+JamesStewart	20	JoanFontaine	13
+JamesWoods	27	SophiaLoren	21
+JamieLeeCurtis	5	MerylStreep	11
+JaneAsher	1	JerryLewis	4
+JaneAsher	15	RobertMorley	11
+JaneBirkin	32	KimNovak	18
+JaneFonda	17	QueenElizabet	3
+JaneFonda	27	SteveJobsb	3
+JanePowell	31	OmarSharif	21
+JaneRussell	20	OliviadeHavilland	12
+JaneWyman	28	LiamNeeson	29
+JeanClaudeVanDamme	11	MartinScorsese	30
+JeanClaudeVanDamme	27	MickeyRooney	21
+JeanClaudeVanDamme	6	OrnellaMuti	1
+JeanPaulBelmondo	17	MargaretOBrien	14
+JeanPeters	20	LeslieCaron	24
+JeanetteMacDonald	36	mahatmagandhi	10
+JeanetteMacDonald	49	MariaCallas	22
+JeffDaniels	9	VivienLeigh	1
+JeffGoldblum	19	LarryEllison	2
+JhonLenon	11	LorneGreene	26
+JoanCrawford	8	KathyBates	20
+JoanLeslie	26	RonaldReagan	24
+JodieFoster	15	RobertOppenheimer	6
+JohnCleese	11	RogerMoore	22
+JohnCleese	17	MichaelPalin	31
+JohnDerek	3	MargaretThatcher	9
+JohnMalkovich	17	MargaretOBrien	5
+JohnVernon	1	Mparkoulis	14
+JohnVernon	5	Tyson	16
+JohnnyCash	1	JuneLockhart	36
+JonVoight	12	SeanConnery	17
+JonVoight	24	RockHudson	13
+JosephCotten	10	NielsBohr	16
+JudyHolliday	15	LelandStanford	2
+JudyHolliday	3	LilliPalmer	15
+JulieAdams	24	LawrenceTierney	11
+JulieChristie	5	RobertDuvall	7
+KathyBates	18	RicardoMontalbаn	22
+KevinSpacey	4	KimBasinger	6
+KirkDouglas	17	RoyScheider	33
+KlausKinski	30	LauraDern	6
+Konstantaras	2	RutgerHauer	21
+LarryEllison	3	LeifErickson	18
+LauraAntonelli	1	PaulAnka	10
+LauraDern	23	RexHarrison	3
+LeeJCobb	24	ShirleyMacLaine	4
+LeifErickson	3	MichaelYork	33
+LeifErickson	3	RichardPryor	15
+LeslieCaron	20	ScottGlenn	26
+LeslieCaron	27	SamElliott	17
+LindaEvans	9	OrnellaMuti	10
+LorneGreene	18	SamNeill	25
+LouCostello	3	RafVallone	7
+LuiseRainer	23	Thanasisveggos	6
+LuiseRainer	57	StevenSeagal	3
+MargaretNolan	23	MikeConnors	19
+MargeChampion	31	TimCurry	2
+MargeChampion	8	WalterPidgeon	8
+MarieCurie	13	ZsaZsaGabor	5
+MarisaPavan	31	SidneyPoitier	5
+MartinScorsese	14	NielsBohr	16
+MartinSheen	36	YvonneDeCarlo	13
+MaryTylerMoore	6	VirnaLisi	3
+MaximilianShell	26	RogerAllam	26
+MelBrooks	13	StevenBerkoff	32
+MelBrooks	5	Mparkoulis	11
+MelFerrer	23	TippiHedren	21
+MichaelBloomberg	14	RogerAllam	21
+MichaelKeaton	3	UgoTognazzi	25
+MichaelSarrazin	12	RandolphScott	15
+MichaelSarrazin	13	NelsonMandela	19
+MickJagger	33	VeronicaLake	14
+MireilleDarc	12	WilliamShatner	32
+NeildeGrasseTyson	11	WoodyAllen	16
+NelsonMandela	10	motherTereza	19
+NelsonMandela	16	OrsonWelles	8
+NormaShearer	21	ShelleyWinters	24
+OliviadeHavilland	17	RuthGordon	14
+Onasis	17	PeterMarkRichman	28
+Onasis	9	RutgerHauer	17
+PatriciaNeal	30	RichardBurton	3
+PatrickSwayze	20	RogerAllam	21
+PaulAnka	2	TippiHedren	23
+PeggyLipton	3	SeanConnery	16
+PeterFonda	14	TonyCurtis	26
+PeterGraves	40	PierceBrosnan	3
+PiaLindstrom	11	WEBDuBois	3
+RafVallone	9	RitaLeviMontalcini	6
+RalphMacchio	9	ShelleyWinters	23
+RichardBoone	25	UrsulaAndress	28
+RichardBurton	15	RoyScheider	19
+RichardChamberlain	23	SteveJobsb	10
+RobertPowell	25	ScottGlenn	20
+RogerAllam	8	Thanasisveggos	5
+RomanPolanski	35	SamuelJacksonn	8
+RonPerlman	6	Turner	4
+RoyScheider	40	VeronicaLake	4
+RutgerHauer	4	StevenSeagal	8
+RyanONeal	14	SimoneSignoret	31
+SarahDouglas	16	WaltDisney	6
+SarahDouglas	8	mitsotakis	21
+SerenaWilliams	4	TheodoreRoosevelt	15
+StevenSpielberg	12	motherTereza	18
+SylvesterStallone	16	YvonneDeCarlo	16
+TimCurry	20	UrsulaAndress	8
+TomHulce	15	TomJones	33
+TonyCurtis	18	angelamerkel	25
+UgoTognazzi	11	mitsotakis	11
+AbeVigoda	34	35
+AdolfHitlerr	1	3
+AlKapone	6	9
+AlanYoung	6	10
+AlbertCamus	5	19
+AlbertoSordi	13	38
+AlejandroRey	3	18
+AlejandroRey	5	6
+AlexandrakisAlekos	13	15
+AlexandrakisAlekos	7	10
+AlexandrakisAlekos	8	15
+AlikiBoug	6	24
+AngelaLansbury	3	14
+AngieDickinson	6	27
+AnnJillian	9	12
+AnnMargret	3	16
+AnnMiller	3	27
+AnnaMassey	11	13
+AnnetteBening	10	18
+AnnieGirardot	13	16
+AnnieGirardot	8	22
+AnthonyAndrews	5	25
+AnthonyHopkins	1	44
+AnthonyHopkins	22	23
+AnthonyPerkins	30	31
+AnthonyQuayle	20	24
+Arletty	7	8
+AudreyHepburn	1	33
+BarbaraBain	23	24
+BarbaraBain	9	18
+BarbaraBouchet	7	37
+BenGazzara	28	35
+BernadetteLafont	11	35
+BernadetteLafont	17	23
+BertrandRussell	11	19
+BettyGrable	4	15
+BeverlyRoberts	2	9
+BonnieHunt	7	12
+BorisKarloff	16	28
+BrianDennehy	14	26
+BrianDennehy	27	29
+BurtLancaster	23	28
+BurtReynolds	1	26
+CarlSagan	1	8
+CarlSagan	10	11
+CarlosSantana	11	20
+CarlosSantana	6	24
+CatherineSchell	17	23
+CatherineSchell	6	18
+CatherineSchell	8	29
+CatherineSpaak	2	12
+CelesteHolm	5	28
+CharlesBoyer	17	33
+CharlesBoyer	3	31
+ChevyChase	4	27
+ChevyChase	9	20
+ChristopherEccleston	1	4
+ClarkGable	7	10
+ClarkGable	7	9
+ClaudeRich	36	39
+ClaudetteColbert	15	32
+ClintEastwood	7	8
+ClintWalker	14	30
+ClintWalker	7	33
+ConradHilton	2	9
+CydCharisse	17	30
+DaliahLavi	20	23
+DanaAndrews	14	15
+DanielleDarrieux	16	50
+DannyDeVito	6	23
+DannyGlover	20	29
+DannyGlover	21	26
+DannyGlover	9	29
+DavidMcCallum	4	7
+DebraPaget	10	27
+Dee	1	6
+Dench	4	18
+DerekJacobi	11	26
+DickVanDyke	3	7
+DickVanDyke	30	35
+DickVanDyke	5	24
+DirkBogarde	13	24
+DonJohnson	12	21
+DonnaDouglas	2	22
+DonnaReed	22	28
+DorisDay	18	36
+DustinHoffman	19	21
+DyanCannon	21	38
+EdHarris	13	24
+EdwardFox	31	35
+ElVenizelos	1	6
+ElVenizelos	11	15
+EliWallach	2	22
+ElizabethTaylor	13	15
+ElizabethTaylor	2	19
+EllenBurstyn	15	23
+ElsaMartinelli	21	23
+ElvisPresley	8	19
+ErinGray	34	35
+ErnestBorgnine	3	31
+ErnestRutherford	19	24
+FayeDunaway	7	18
+FessParker	3	11
+FlemingAlex	5	9
+FrancescaAnnis	7	12
+FredMacMurray	20	38
+FredMacMurray	4	40
+FriedrichNietzsche	4	9
+GabrielGarciaMarquez	1	2
+GeneHackman	2	28
+GeorgeCScott	21	23
+GeorgePeppard	4	19
+GingerRogers	15	23
+GiulianoGemma	12	25
+GiulianoGemma	32	37
+GladysCooper	15	33
+GladysCooper	7	26
+GlendaJackson	3	4
+GlendaJackson	4	9
+GloriaSwanson	14	26
+GoldieHawn	10	23
+GoldieHawn	9	15
+GoldieHawn	9	17
+Gorbachev	6	15
+GreerGarson	7	15
+HatzidakisManos	10	13
+HedyLamarr	1	5
+HedyLamarr	3	21
+HeinrichHertz	4	5
+HelenHayes	10	22
+HelenHayes	9	35
+HelenHunt	5	9
+HelenHunt	7	22
+HelmutBerger	3	12
+HelmutBerger	9	16
+HenryFonda	1	2
+HenryFonda	4	9
+HorstBuchholz	2	3
+HorstBuchholz	5	10
+HorstBuchholz	5	32
+Houston	5	25
+IanHolm	17	20
+IngridBergman	9	12
+IsabelleAdjani	7	28
+JPaulGetty	2	7
+JPaulGetty	3	5
+JWMarriott	1	10
+JackColeman	12	20
+JackColeman	9	26
+JackLarson	3	6
+JanePowell	15	52
+JanetEllis	21	25
+JanetLeigh	19	24
+JanetLeigh	20	28
+JeanClaudeVanDamme	18	40
+JeanMarais	26	29
+JeanMarais	9	19
+JeanneMoreau	30	38
+JeffBridges	10	30
+JeffGoldblum	1	13
+JhonLenon	13	22
+JoanCusack	11	12
+JoanLorring	7	24
+JoanneWoodward	3	25
+JodieFoster	17	21
+JohnCleese	19	20
+JohnDRockefeller	2	12
+JohnDerek	2	14
+JohnDerek	3	21
+JohnMalkovich	5	23
+JohnTravolta	3	14
+JohnVernon	1	10
+JonFinch	4	12
+JudyDavis	15	26
+JudyGarland	13	25
+JulieAndrews	1	11
+JuneAllyson	19	26
+JuneLockhart	19	32
+KevinSpacey	12	21
+KimBasinger	3	7
+KimNovak	11	12
+KostasXatzixristos	6	11
+KristinScottThomas	12	15
+LarryEllison	2	15
+LauraAntonelli	17	21
+LelandStanford	7	11
+LexBarker	4	10
+LindaEvans	22	26
+LindsayWagner	11	21
+LindsayWagner	3	9
+LizaMinelli	10	11
+LouCostello	9	22
+LuiseRainer	8	19
+LyleTalbot	1	27
+MargaretNolan	12	16
+MargaretThatcher	2	7
+MarieCurie	5	15
+MarleneDietrich	25	30
+MarleneDietrich	5	15
+MarleneDietrich	5	39
+MaryPickford	17	28
+MaureenOHara	5	12
+MaximilianShell	5	19
+MegRyan	3	13
+MelGibson	17	31
+MichaelCaine	5	7
+MichaelCaine	9	11
+MorganFreeman	2	55
+Mparkoulis	2	14
+Mparkoulis	8	14
+NelsonMandela	16	24
+NielsBohr	5	14
+OdysseasElytis	2	4
+OmarSharif	9	10
+OrnellaMuti	20	34
+OrsonWelles	12	16
+OrsonWelles	4	11
+PabloPicasso	6	13
+PabloPicasso	7	9
+PamelaSueMartin	6	14
+PatrickSwayze	13	18
+PaulmcCartney	21	22
+PeggyAshcroft	7	20
+PeterGraves	23	38
+PeterMarkRichman	5	8
+PeterUstinov	3	18
+PiaLindstrom	1	21
+PierceBrosnan	18	36
+PierceBrosnan	7	23
+QueenElizabet	12	13
+QueenElizabet	19	22
+RabindranathTagore	7	8
+RafVallone	5	11
+RalphMacchio	7	22
+RaquelWelch	1	3
+RayLiotta	3	24
+ReginaldOwen	21	22
+RexHarrison	7	18
+RicardoMontalbаn	23	24
+RichardBoone	21	26
+RichardBurton	1	3
+RitaHayworth	13	23
+RitaHayworth	3	19
+RitaHayworth	5	27
+RobertDeNiro	9	12
+RobertDuvall	26	31
+RobertOppenheimer	8	14
+RobertPowell	2	25
+RobertRyan	14	20
+RogerAllam	23	28
+RogerMoore	6	21
+RonPerlman	18	21
+RonPerlman	20	21
+RoseMarie	4	8
+RoyScheider	20	39
+RoyScheider	27	37
+RutgerHauer	7	14
+SamNeill	6	15
+SeanConnery	3	16
+ShelleyWinters	10	32
+SidneyPoitier	16	35
+SidneyPoitier	31	35
+SimonMacCorkindale	7	9
+SimoneSignoret	22	30
+SophiaLoren	5	9
+StephenHawking	1	6
+SusanGeorge	21	23
+SusanSarandon	7	27
+SusannahYork	6	11
+SylvesterStallone	4	17
+TanyaRoberts	9	13
+TerryMoore	9	10
+ThelmaRitter	2	8
+ThelmaRitter	5	19
+TheodoreRoosevelt	10	11
+ThomasTerry	10	26
+TimCurry	2	6
+TomJones	20	40
+TomJones	38	78
+TomJones	7	49
+TonyBlair	1	28
+TonyBlair	10	12
+Turner	9	19
+ValerieHarper	6	22
+VeraEllen	3	5
+VictorMature	4	6
+VincentPrice	17	35
+VittorioGassman	1	26
+WillSmith	2	26
+WilliamShatner	3	4
+WinstonChurchill	4	10
+WinstonChurchill	5	8
+YannisRitsos	1	4
+YannisRitsos	1	9
+YvesMontand	18	33
+akistsoxatzopoulos	1	11
+akistsoxatzopoulos	17	20
+campbell	11	21
+michaeljackson	8	11
+tomselleck	18	28
+AdolfHitlerr	7	AnnieGirardot	27
+AlCorley	17	DickVanDyke	4
+AlCorley	18	ArmandAssante	34
+AlKapone	1	LinoVentura	20
+AlPacino	20	JodieFoster	6
+AlanRickman	16	Fernandel	26
+AlbertCamus	9	SigourneyWeaver	19
+AlbertoSordi	34	MickeyRooney	16
+AlecGuinness	20	GingerRogers	24
+AlecGuinness	8	ValerieHarper	26
+AlecGuinness	9	JPMorgan	1
+AlejandroRey	12	JulieAdams	4
+AlexanderGrahamBell	5	TomHulce	7
+AlexandrakisAlekos	15	EdwardGRobinson	18
+AlikiBoug	31	UgoTognazzi	34
+AmandaBlake	21	AnnieGirardot	36
+AmandaRedman	19	StephenHawking	23
+AmandaRedman	4	merrillcharles	5
+AndreMarieAmpКre	2	GeorgeCScott	25
+AndreMarieAmpКre	3	RockHudson	20
+AndreMarieAmpКre	3	SimonMacCorkindale	2
+AndyGriffith	10	KostasVoutsas	5
+AndyGriffith	22	SerenaWilliams	2
+AngelaLansbury	37	LauraDern	23
+AngieDickinson	30	JamesCoburn	19
+AngieDickinson	38	JeffGoldblum	13
+AnitaEkberg	31	PeterFonda	11
+AnitaEkberg	9	ElizabethTaylor	7
+AnjelicaHuston	16	AnnaMassey	21
+AnjelicaHuston	5	PhilHartman	11
+AnjelicaHuston	7	LorneGreene	23
+AnnMargret	23	JenniferAniston	10
+AnnMiller	29	GabrielGarciaMarquez	19
+AnnaMassey	5	KirkDouglas	2
+AnnaMassey	6	PhilHartman	4
+AnneBancroft	16	RowanAtkinson	13
+AnneBaxter	1	JackColeman	4
+AnneBaxter	9	StefaniePowers	16
+AnnetteBening	26	RabindranathTagore	18
+AnnieGirardot	10	GalileoGalilei	6
+AnthonyHopkins	7	VittorioGassman	11
+AnthonyQuayle	15	JonVoight	42
+AnthonyQuayle	30	MarisaPavan	22
+AnthonyQuayle	7	EnricoFermi	4
+Arletty	26	JohnTravolta	27
+Arletty	31	JamesCaan	38
+ArnoldSchwarzenegger	38	KevinSpacey	34
+AudreyHepburn	38	JudyHolliday	3
+AvaGardner	3	RichardAttenborough	16
+BarbaraBain	1	JeanClaudeVanDamme	16
+BarbaraBain	18	KathyBates	11
+BarbaraBain	26	TippiHedren	26
+BeaArthur	14	IanHolm	31
+BenGazzara	3	DonnaDouglas	18
+BenGazzara	5	PaulmcCartney	23
+BernadetteLafont	40	WEBDuBois	2
+BertrandRussell	13	LindsayWagner	6
+BertrandRussell	8	JenniferAniston	6
+BetteMidler	24	GeorgeMontgomery	10
+BetteMidler	24	SusanHayward	5
+BeverlyRoberts	11	JohnHuston	19
+BillCosby	24	MerylStreep	10
+BoDerek	10	MendeleievDmitri	4
+BoDerek	2	PabloPicasso	11
+BobDylan	37	JoanFontaine	22
+BobHope	32	WoodyAllen	4
+BorisKarloff	31	JeffDaniels	27
+BrianDennehy	20	SamuelJacksonn	4
+BruceWillis	28	MartinScorsese	10
+BurtLancaster	29	RabindranathTagore	17
+BurtLancaster	8	DickieMoore	9
+CHARLIERUGGLES	9	KirkDouglas	4
+CarlMarx	6	MikeConnors	27
+CarlosSantana	13	EstherWilliams	11
+CarlosSantana	16	TomHulce	4
+Carroll	8	OliviadeHavilland	10
+CatherineDeneuve	10	JulieHagerty	22
+CatherineDeneuve	11	SpencerTracy	14
+CharlesBoyer	9	MarieCurie	10
+CharlesBronson	4	MichaelBloomberg	15
+CharlesDarwin	2	RayDanton	21
+CharlesGrodin	13	JohnJames	25
+CharlesGrodin	16	MaureenOHara	23
+CharlesGrodin	16	RomySchneider	9
+CharlieSheen	11	VanessaRedgrave	9
+CharlieSheen	27	GeorgePeppard	30
+CharltonHeaston	11	MartinScorsese	8
+CharltonHeaston	12	LeeJCobb	10
+ChevyChase	33	RexHarrison	31
+ChristopherEccleston	8	OdysseasElytis	4
+ClarkGable	1	MarieCurie	9
+ClaudeLВviStrauss	14	JeanetteMacDonald	56
+ClaudeRich	2	TomHanks	30
+ClaudeRich	39	MylКneDemongeot	15
+ClaudiaCardinale	6	TomJones	64
+CliffRobertson	1	LeifErickson	5
+CliffRobertson	16	SamElliott	10
+CliffRobertson	20	GeorgesMarchal	2
+CliffRobertson	27	IsabelleHuppert	17
+ClintWalker	5	YvonneDeCarlo	14
+ClintWalker	9	JeanPeters	1
+ConnieBooth	15	LouCostello	14
+ConnieBooth	26	ElliottGould	6
+ConnieBooth	27	TippiHedren	8
+ConradHilton	2	PatriciaNeal	2
+CybillShepherd	1	RichardChamberlain	19
+CyndiLauper	19	GiulianoGemma	26
+CyndiLauper	20	MichaelKeaton	22
+DannyDeVito	16	SusanHayward	22
+DannyDeVito	23	StВphaneAudran	39
+DannyGlover	23	DonnaReed	10
+DavidCarradine	1	KathleenTurner	23
+DavidMcCallum	17	JudyHolliday	5
+DavidNiven	20	LarryEllison	2
+DavidNiven	8	RayDanton	19
+DavidSarnoff	24	JonFinch	10
+Davis	12	HarveyKeitel	23
+DebbieReynolds	10	VincentPrice	28
+DebraPaget	33	RobertMorley	12
+Dee	10	OrnellaMuti	40
+Dee	16	SarahDouglas	18
+Dee	17	MarisaPavan	33
+DenzelWashington	1	ReginaldOwen	28
+DianneWiest	15	ErinGray	30
+DickVanDyke	21	VeraEllen	3
+DickieMoore	33	JeremyKemp	17
+DirkBogarde	19	SimoneSignoret	23
+DirkBogarde	22	EnricoFermi	10
+DirkBogarde	23	HedyLamarr	7
+DonJohnson	20	SerenaWilliams	12
+DonnaDouglas	12	TomHanks	21
+DyanCannon	41	RoyRogers	21
+EdwardGRobinson	21	JeanneMoreau	19
+EdwardTeller	9	PatrickSwayze	2
+ElVenizelos	1	MonicaVitti	35
+EliWallach	12	MarleneDietrich	12
+EliWallach	24	cambell	1
+ElkeSommer	15	SartreJeanPaul	1
+EllenBurstyn	20	MelBrooks	15
+EllenBurstyn	23	MaximilianShell	15
+EllenBurstyn	31	MaximilianShell	29
+EmmaThompson	11	KathrynGrayson	8
+EmmaThompson	3	JonFinch	14
+ErnestBorgnine	17	GoldieHawn	19
+ErnestBorgnine	23	JuneLockhart	13
+ErnestRutherford	14	JamesCaan	11
+ErnestRutherford	24	MelFerrer	17
+ErnestRutherford	3	JhonLenon	10
+ErrolFlynn	10	JoanCrawford	20
+EvaMarieSaint	12	MelBrooks	11
+FaradayMichael	14	MireilleDarc	2
+FayeDunaway	4	MargaretOBrien	4
+Fernandel	9	FrankSinatra	2
+FidelCastro	12	JWMarriott	10
+FrankSinatra	3	JudyGarland	3
+FranklinDRoosevelt	12	JohnnyCash	26
+FranklinDRoosevelt	4	VirnaLisi	25
+FredAstaire	3	KatharineHepburn	14
+FredMacMurray	5	RichardCrenna	35
+FriedrichNietzsche	10	RalphMacchio	27
+FriedrichNietzsche	18	OmarSharif	27
+GabrielGarciaMarquez	10	JanetGaynor	10
+GabrielGarciaMarquez	15	LaurenBacall	9
+GalileoGalilei	6	MurrayHamilton	8
+GaryOldman	5	GilbertRoland	35
+Garycooper	3	RutgerHauer	27
+GeorgeCScott	15	MickeyRooney	14
+GeorgeHWBush	10	StephenHawking	10
+GeorgeHWBush	4	SigourneyWeaver	17
+GeorgePeppard	13	HatzidakisManos	3
+GeorgesMarchal	18	SamElliott	14
+GeraldineChaplin	28	JaneWyman	19
+GeraldinePage	22	YvonneDeCarlo	18
+GiulianoGemma	8	MargaretNolan	5
+GladysCooper	4	NicolasSarkozy	9
+GladysCooper	58	JulieChristie	29
+GlendaJackson	14	JeanPaulBelmondo	4
+GlendaJackson	24	HarveyKeitel	27
+GlennClose	19	LexBarker	12
+GloriaSwanson	35	KevinSpacey	7
+Gorbachev	14	SamuelJacksonn	3
+Gorbachev	15	RichardPryor	1
+Gorbachev	20	mitsotakis	14
+GreerGarson	5	KevinCostner	26
+GregorMendel	4	VanessaRedgrave	20
+GregorMendel	7	JosephCotten	12
+GregoryPeck	1	JohnMalkovich	14
+HarrisonFord	11	TippiHedren	19
+HedyLamarr	2	JPMorgan	2
+HeinrichHertz	10	ThomasTerry	6
+HeinrichHertz	3	RomySchneider	26
+HelenHayes	20	JanetEllis	11
+HelenHayes	8	michaeljackson	6
+HelenHunt	17	JosephStalin	7
+HorstBuchholz	26	LiamNeeson	28
+HorstBuchholz	27	LiamNeeson	24
+ImeldaStaunton	12	JudyHolliday	4
+ImeldaStaunton	3	KimBasinger	11
+IngridBergman	3	QueenElizabet	24
+JWMarriott	6	NielsBohr	21
+JackLemon	23	JulieAdams	21
+JackLemon	27	LarryEllison	10
+JackLemon	3	TommyLeeJones	2
+JamesArness	11	MarisaPavan	21
+JamesBest	16	PeggyLipton	6
+JamesBest	32	cambell	1
+JamesCaan	20	NeildeGrasseTyson	13
+JamesCaan	35	TommyLeeJones	10
+JamesGarner	23	JoanCollins	17
+JamesStewart	11	StephenHawking	16
+JamesWoods	31	MaureenOHara	19
+JaneAsher	32	SeanConnery	3
+JaneBirkin	1	RobertDeNiro	4
+JaneBirkin	13	MegRyan	27
+JaneBirkin	21	JulieAndrews	10
+JaneFonda	22	JohnnyCash	6
+JaneFonda	9	RomanPolanski	46
+JanePowell	38	RichardChamberlain	34
+JanetGaynor	23	StВphaneAudran	40
+JanetGaynor	26	TomHanks	2
+JanetLeigh	16	MarleneDietrich	12
+JeanGabin	9	JoanCrawford	11
+JeanMarais	37	RichardBoone	5
+JeffBridges	9	RichardAttenborough	13
+JenniferJones	14	SeanConnery	18
+JeremyKemp	12	WarrenBeatty	32
+JeremyKemp	5	SidneyPoitier	36
+JessicaTandy	20	Turner	8
+JessicaTandy	24	SpencerTracy	5
+JoanCrawford	10	MartinScorsese	27
+JoanCusack	14	RexHarrison	6
+JoanneWoodward	11	NeildeGrasseTyson	13
+JoanneWoodward	8	JohnVernon	27
+JohnCassavetes	15	LeslieNielsen	16
+JohnDerek	6	MelindaDillion	25
+JohnLithgow	18	TonyBlair	15
+JohnnyCash	27	SimoneSignoret	24
+JudyHolliday	2	MonicaVitti	16
+JulieBishop	2	WilliamHolden	24
+JulieChristie	11	LindaEvans	28
+JulieHagerty	2	MylКneDemongeot	13
+JuneLockhart	34	MichaelKeaton	6
+KathleenTurner	2	NickNolte	2
+KathyBates	15	TonyCurtis	28
+KevinBacon	37	MendeleievDmitri	3
+KevinCostner	14	SeanConnery	9
+KimNovak	9	SusanHayward	9
+KirkDouglas	12	MikeConnors	11
+KlausKinski	6	MarlonBrando	19
+Konstantaras	17	YannisRitsos	9
+Konstantaras	3	PatrickSwayze	10
+KristinScottThomas	28	RayDanton	9
+LauraDern	14	RobertOppenheimer	12
+LauraDern	18	MikeConnors	24
+LauraDern	23	MarieCurie	7
+LawrenceTierney	25	PeterGraves	13
+LeifErickson	2	mahatmagandhi	22
+LeslieNielsen	17	MaggieSmith	14
+LexBarker	13	PabloPicasso	4
+LexBarker	8	PeggyLipton	10
+LindaEvans	29	RoyScheider	34
+LindsayWagner	20	MichaelKeaton	21
+LindsayWagner	21	SpencerTracy	10
+LivUllmann	11	RoyScheider	14
+LorettaYoung	6	motherTereza	21
+LorneGreene	16	PaulAnka	31
+MargaretThatcher	3	WilliamDafoe	9
+MariaCallas	10	MarieCurie	12
+MarietteHartley	18	SamuelJacksonn	7
+MarisaPavan	9	YannisRitsos	11
+MarlonBrando	2	SamNeill	1
+MaryPickford	17	PaulAnka	13
+MegRyan	22	RicardoMontalbаn	6
+MelBrooks	30	NelsonMandela	5
+MelFerrer	17	TanyaRoberts	18
+MendeleievDmitri	9	NicolasSarkozy	22
+MichaelKeaton	36	SidneyPoitier	2
+MichaelYork	9	SylvesterStallone	11
+MichelPiccoli	16	PatrickStewart	12
+MichelPiccoli	5	NormaShearer	6
+MonicaVitti	30	Thanasisveggos	16
+MuhammadAli	14	RobertDuvall	9
+MyrnaLoy	10	RafVallone	8
+NicolasSarkozy	1	RoyScheider	10
+OliviaHussey	7	TildaSwinton	15
+PaulAnka	27	RitaHayworth	25
+PeggyLipton	19	TanyaRoberts	14
+PiaLindstrom	20	StephenHawking	20
+RicardoMontalbаn	30	ScottGlenn	8
+RogerAllam	6	YvesMontand	18
+Ross	7	Turner	2
+RyanONeal	21	VirnaLisi	13
+SamElliott	39	tomselleck	30
+Soljenitsyne	11	VanessaRedgrave	16
+SteveJobsb	14	TommyLeeJones	22
+SteveMartin	8	StevenSeagal	12
+SusanSarandon	21	WEBDuBois	6
+Thanasisveggos	3	WalterPidgeon	10
+TonyBlair	6	YvesMontand	31
+WEBDuBois	5	motherTereza	14
+AdolfHitlerr	3	10
+AlCorley	3	21
+AlKapone	10	20
+AlPacino	5	10
+AlainDelon	1	4
+AlainDelon	2	17
+AlanYoung	22	25
+AlanYoung	25	27
+AlejandroRey	11	12
+AlexanderGrahamBell	5	15
+AliMacGraw	17	22
+AlikiBoug	6	12
+AmandaBlake	4	31
+AmandaRedman	7	18
+AngieDickinson	38	50
+AnnJillian	5	6
+AnnJillian	6	7
+AnnaMassey	11	18
+AnnieGirardot	23	36
+AnthonyAndrews	3	17
+AnthonyPerkins	19	31
+AnthonyPerkins	6	36
+AnthonyPerkins	8	37
+ArnoldSchwarzenegger	15	35
+AvaGardner	5	14
+BarbraStreisand	7	30
+BeaArthur	7	17
+BerryGordy	5	20
+BertrandRussell	8	22
+BetteMidler	9	21
+BettyGrable	12	25
+BillCosby	1	11
+BillNighy	21	30
+BobHope	1	16
+BobHope	6	14
+Bono	1	27
+BrianDennehy	26	30
+CHARLIERUGGLES	12	29
+CarlMarx	8	12
+CarlSagan	5	11
+CarlosSantana	11	12
+CarlosSantana	21	25
+Carroll	13	20
+Carroll	13	22
+Carroll	18	20
+CaryGrant	13	26
+CatherineDeneuve	19	34
+CelesteHolm	14	31
+CharlesBronson	5	16
+CharlesBronson	6	19
+CharlesDarwin	2	6
+CharltonHeaston	4	14
+CharltonHeaston	7	11
+ChristopherPlummer	5	9
+ChuckNorris	1	25
+ClaudeLВviStrauss	1	2
+ClaudeLВviStrauss	14	17
+ClaudeRich	16	31
+ClaudetteColbert	10	12
+ClerkMaxwell	1	2
+ClerkMaxwell	5	6
+ClintEastwood	2	13
+ClintWalker	25	35
+ConnieBooth	10	16
+ConnieBooth	31	34
+CybillShepherd	14	21
+CydCharisse	19	20
+DanaAndrews	34	35
+DanielleDarrieux	24	34
+DannyGlover	15	23
+DavidCarradine	10	11
+DavidCarradine	11	26
+DavidCarradine	12	18
+DavidNiven	1	10
+DavidSarnoff	12	18
+DebbieReynolds	1	29
+DeborahKerr	9	25
+Dee	3	15
+Dench	7	19
+DianneWiest	5	17
+DickVanDyke	5	23
+DickieMoore	2	16
+DonJohnson	4	39
+DustinHoffman	1	17
+EdwardGRobinson	11	22
+EdwardGRobinson	21	34
+EdwardTeller	1	19
+EdwigeFenech	1	10
+EliWallach	11	29
+EliWallach	9	15
+EllenBurstyn	5	34
+ElsaMartinelli	2	30
+ElvisPresley	7	23
+EmmaThompson	6	15
+ErnestBorgnine	1	29
+EsteeLauder	17	19
+Fotopoulos	10	16
+FrancescaAnnis	4	18
+FrankSinatra	1	16
+FredMacMurray	11	15
+FrederickSanger	1	9
+FrederickSanger	5	9
+GalileoGalilei	1	7
+Garycooper	9	12
+GenaRowlands	5	18
+GeneWilder	13	30
+GeneWilder	3	25
+GeorgeCScott	8	20
+GeorgeHWBush	4	12
+GeorgeMontgomery	6	16
+GeorgeMontgomery	9	22
+GeorgesMarchal	24	26
+GeraldineChaplin	28	39
+GingerRogers	21	22
+GingerRogers	9	26
+GladysCooper	4	29
+GlendaJackson	2	3
+GlennClose	1	9
+GloriaSwanson	5	12
+GoldieHawn	7	25
+Gorbachev	2	9
+GordonThomson	1	7
+GregorMendel	2	4
+GregoryPeck	17	18
+HarrisonFord	4	7
+HarveyKeitel	13	15
+HarveyKeitel	14	16
+HarveyKeitel	21	22
+HarveyKeitel	26	27
+HatzidakisManos	6	9
+HelenHunt	7	20
+IanMcKellen	7	21
+IngridBergman	3	16
+IsabelleHuppert	7	27
+JPMorgan	4	6
+JackColeman	15	24
+JackNicolson	4	12
+JamesBest	5	31
+JamesGarner	7	25
+JaneFonda	9	12
+JanePowell	2	50
+JaneRussell	22	30
+JaneWyman	2	10
+JanetEllis	9	29
+JeanClaudeVanDamme	6	34
+JeanGabin	12	13
+JeanPaulBelmondo	27	31
+JeffBridges	5	15
+JeffreyJones	10	17
+JeffreyJones	7	13
+JenniferAniston	5	12
+JenniferJones	3	20
+JerryLewis	3	16
+JessicaTandy	23	27
+JhonLenon	17	24
+JoanCrawford	18	23
+JoanLorring	16	21
+JodieFoster	22	23
+JohnCleese	6	18
+JohnForsythe	20	27
+JohnGarfield	10	22
+JohnLithgow	5	20
+JohnTravolta	8	18
+JohnWayne	3	19
+JohnnyCash	2	18
+JonFinch	4	15
+JonFinch	9	18
+JonVoight	40	43
+JonVoight	5	37
+JosephCotten	10	33
+JosephCotten	13	27
+JosephCotten	9	25
+JosephStalin	1	3
+JudyHolliday	7	9
+JudyHolliday	9	19
+JuliaRoberts	6	11
+JuliaRoberts	8	17
+JulieAdams	14	20
+JulieAdams	15	16
+JulieAdams	19	26
+JulieAdams	4	7
+JulieAndrews	14	17
+JulieAndrews	7	23
+JulieChristie	20	24
+JulieChristie	7	14
+JuneAllyson	6	30
+JuneLockhart	11	26
+KateOMara	4	42
+KatharineRoss	6	17
+KathrynGrayson	5	24
+KathrynGrayson	9	30
+KathyBates	10	25
+KevinCostner	1	28
+KevinSpacey	18	19
+KimBasinger	4	6
+KlausKinski	6	27
+KostasVoutsas	1	10
+KostasVoutsas	6	11
+LauraAntonelli	9	15
+LaurenBacall	1	19
+LeifErickson	15	27
+LiamNeeson	6	14
+LindaEvans	19	21
+LorneGreene	12	16
+LuiseRainer	12	33
+LuiseRainer	15	52
+LuiseRainer	49	53
+MariaCallas	15	22
+MariaCallas	17	24
+MarietteHartley	24	29
+MartinLutherKing	20	27
+MegRyan	8	26
+MelBrooks	3	11
+MelFerrer	12	25
+MelindaDillion	7	20
+MendeleievDmitri	3	10
+MerylStreep	1	13
+MerylStreep	13	20
+MerylStreep	2	24
+MerylStreep	7	9
+MichaelBloomberg	6	8
+MichaelCaine	6	11
+MichaelYork	3	29
+MichelPiccoli	9	18
+MichellePfeiffer	2	7
+MickeyRooney	7	28
+MikeConnors	13	38
+MikeConnors	29	39
+MireilleDarc	19	37
+MireilleDarc	29	32
+MonicaVitti	33	34
+MuhammadAli	10	16
+MuhammadAli	11	26
+MurrayHamilton	13	24
+NicolasSarkozy	4	26
+NormaShearer	3	24
+OdysseasElytis	3	5
+OdysseasElytis	4	5
+OliviaHussey	9	10
+OliviadeHavilland	1	2
+OliviadeHavilland	4	19
+PatrickStewart	18	21
+PaulmcCartney	10	29
+PeggyLipton	6	13
+PeterGraves	22	34
+PeterMarkRichman	11	25
+PhilHartman	1	4
+PiaLindstrom	4	10
+RicardoMontalbаn	12	23
+RichardBoone	6	27
+RichardBurton	2	9
+RichardCrenna	5	39
+RingoStarr	5	13
+RobertDuvall	14	24
+RobertMitchum	15	18
+RobertRedford	10	12
+RobertRyan	17	19
+RodTaylor	10	26
+RogerMoore	18	23
+RomanPolanski	31	35
+Ross	5	8
+ScottGlenn	29	35
+SeanConnery	2	19
+ShirleyMacLaine	9	16
+SigourneyWeaver	2	5
+SimonMacCorkindale	1	2
+SophiaLoren	4	11
+SpencerTracy	3	16
+SteveMartin	2	6
+StevenBerkoff	2	15
+SusanHayward	19	29
+SylvesterStallone	4	8
+TerryMoore	14	26
+TerryMoore	4	18
+Thanasisveggos	8	13
+TheodorakisMikis	4	21
+TheodorakisMikis	5	6
+TildaSwinton	1	9
+TimCurry	7	13
+TommySands	2	6
+UgoTognazzi	15	22
+VanessaRedgrave	31	32
+VeraEllen	15	17
+VeronicaLake	4	14
+VictorMature	17	27
+VincentPrice	11	18
+VirnaLisi	3	29
+VittorioGassman	7	20
+VivienLeigh	13	15
+VivienLeigh	2	9
+WEBDuBois	5	10
+WaltDisney	6	7
+WilliamDafoe	2	17
+WilliamDafoe	8	24
+WilliamHolden	1	9
+WilliamHolden	7	27
+YannisRitsos	4	10
+YvonneDeCarlo	5	17
+merrillcharles	1	4
+motherTereza	3	18
+AbeVigoda	2	FriedrichNietzsche	14
+AdolfHitlerr	11	mitsotakis	6
+AlCorley	2	Fernandel	9
+AlKapone	6	GregorMendel	4
+AlainDelon	11	Fernandel	16
+AlainDelon	19	GeraldineChaplin	47
+AlanRickman	2	StevenSeagal	20
+AlanRickman	22	IsabelleHuppert	4
+AlanRickman	23	LarryEllison	14
+AlanRickman	7	EvaMarieSaint	23
+AlbertSchweitzer	2	SusannahYork	12
+AlbertSchweitzer	7	BoDerek	9
+AlbertoSordi	17	ClintEastwood	13
+AlbertoSordi	35	GretaGarbo	6
+AlbertoSordi	6	ValerieHarper	22
+AlejandroRey	19	JoanCollins	17
+AlejandroRey	3	JohnDRockefeller	5
+AlexandrakisAlekos	2	Gorbachev	10
+AlexandrakisAlekos	9	FrankSinatra	4
+AliMacGraw	5	StevenSpielberg	22
+AmandaBlake	1	Tyson	28
+AmandaBlake	11	IreneDunne	4
+AmandaRedman	10	LorneGreene	1
+AmandaRedman	6	MaggieSmith	32
+AndreMarieAmpКre	1	Turner	4
+AndreMarieAmpКre	5	JohnDRockefeller	17
+AndreasPapantreou	23	Turner	17
+AngelaLansbury	30	ElsaMartinelli	26
+AngelaLansbury	34	angelamerkel	3
+AngieDickinson	20	StВphaneAudran	32
+AngieDickinson	48	FayeDunaway	6
+AnitaEkberg	12	RayDanton	1
+AnitaEkberg	36	JaneBirkin	29
+AnitaEkberg	9	TonyCurtis	2
+AnnJillian	11	DanielleDarrieux	18
+AnnJillian	9	SusanGeorge	17
+AnnMargret	24	GiorgosSeferis	3
+AnnMargret	31	WoodyAllen	12
+AnnaMassey	23	GeorgeHWBush	7
+AnneBancroft	8	PatriciaNeal	7
+AnneBaxter	15	NicolasSarkozy	26
+AnneBaxter	27	LeifErickson	7
+AnnetteBening	14	JudyDavis	5
+AnnieGirardot	12	ValerieHarper	13
+AnnieGirardot	29	KimBasinger	3
+AnthonyAndrews	17	CyndiLauper	22
+AnthonyAndrews	17	GreerGarson	24
+Arletty	17	RogerAllam	20
+Arletty	31	JohnDRockefeller	9
+Arletty	4	DianneWiest	3
+AudreyHepburn	12	JodieFoster	27
+AvaGardner	25	BorisKarloff	18
+AvaGardner	4	ElkeSommer	9
+BarbaraBain	20	KevinBacon	6
+BarbaraBouchet	15	NewmanPaul	4
+BenGazzara	38	MichaelCaine	11
+BenGazzara	8	StephenHawking	1
+BerryGordy	8	Einstain	7
+BetteDavis	11	michaeljackson	11
+BettyGarrett	7	JeanGabin	5
+BettyGrable	25	CharlieChaplin	1
+BeverlyRoberts	3	SylvesterStallone	13
+BeverlyRoberts	7	ConnieBooth	6
+BillCosby	10	CaryGrant	21
+BillCosby	28	LauraAntonelli	24
+BillMurray	23	VictorMature	20
+BillNighy	25	SteveMartin	3
+BoDerek	23	JanetGaynor	21
+BoDerek	24	MarleneDietrich	17
+BonnieHunt	10	StacyKeach	5
+Bono	13	EdwigeFenech	17
+Bono	18	Carroll	3
+Bono	34	RichardChamberlain	23
+Bono	4	PatrickSwayze	15
+BrianDennehy	20	TonyCurtis	8
+BrianDennehy	26	FredMacMurray	4
+BrianDennehy	28	IsabelleAdjani	30
+BurtLancaster	27	MichaelSarrazin	4
+BurtReynolds	17	EstherWilliams	17
+BurtReynolds	31	MikeConnors	39
+BurtReynolds	9	YvonneDeCarlo	23
+CHARLIERUGGLES	20	IanHolm	10
+CarlSagan	4	OliviadeHavilland	8
+CarlosSantana	28	StacyKeach	17
+CarlosSantana	30	KennethBranagh	19
+CaryGrant	34	HatzidakisManos	1
+CatherineDeneuve	38	EstherWilliams	9
+CatherineDeneuve	38	QueenElizabet	22
+CatherineSpaak	1	PeterGraves	8
+CelesteHolm	3	ClaudeRich	3
+CharlesBoyer	18	DenzelWashington	6
+CharlesBoyer	28	SteveMcQueen	21
+CharlesBronson	15	FrankSinatra	27
+CharlesGrodin	12	ChristopherPlummer	4
+CharlesGrodin	8	KathyBates	10
+CharlieChaplin	20	LivUllmann	28
+CharlieSheen	14	RafVallone	26
+CharltonHeaston	22	ClaudeLВviStrauss	6
+ChevyChase	5	KevinCostner	26
+ChristopherEccleston	2	WEBDuBois	9
+ChristopherEccleston	25	LeeJCobb	9
+ChristopherPlummer	17	JenniferJones	14
+ChristopherPlummer	3	mahatmagandhi	7
+ChristopherWalken	2	Soljenitsyne	2
+ChuckNorris	24	MelindaDillion	13
+ChuckNorris	4	PeterOToole	12
+ClaudeLВviStrauss	12	LizaMinelli	2
+ClaudeLВviStrauss	15	LiamNeeson	19
+ClaudiaCardinale	19	RayLiotta	12
+CliffRobertson	10	RichardChamberlain	25
+CliffRobertson	2	ErnestRutherford	7
+ConradHilton	3	DavidMcCallum	4
+CybillShepherd	11	PamelaSueMartin	23
+CydCharisse	31	JoanLeslie	13
+CyndiLauper	6	Gorbachev	20
+DaliahLavi	12	ReginaldOwen	6
+DanaAndrews	39	StevenBerkoff	34
+DannyDeVito	7	JanetGaynor	2
+DannyGlover	17	GalileoGalilei	4
+DavidMcCallum	17	IsabelleHuppert	2
+DavidSarnoff	12	JamieLeeCurtis	1
+DebbieReynolds	11	JeanetteMacDonald	9
+DebbieReynolds	26	JohnForsythe	11
+DeborahKerr	14	WinstonChurchill	12
+DeborahKerr	20	JohnCleese	19
+DebraPaget	21	JaneFonda	8
+Dench	19	StefaniePowers	9
+DenzelWashington	14	JamesCaan	22
+DianneWiest	14	ErinGray	6
+DianneWiest	9	LilliPalmer	18
+DonJohnson	19	MelindaDillion	7
+DonnaDouglas	25	RitaLeviMontalcini	5
+DorisDay	39	OliviadeHavilland	20
+DustinHoffman	22	KevinBacon	29
+EdHarris	28	Tyson	12
+EdwardGRobinson	40	JohnCleese	2
+EdwardTeller	1	GalileoGalilei	1
+EdwigeFenech	33	SylvesterStallone	11
+EllenBurstyn	23	LawrenceTierney	13
+EllenBurstyn	34	RobertDuvall	14
+ElvisPresley	6	RexHarrison	10
+EmmaThompson	11	NelsonMandela	9
+EmmaThompson	16	KimBasinger	11
+EnricoFermi	4	RexHarrison	16
+EnricoFermi	5	FredAstaire	9
+ErnestBorgnine	7	YvonneDeCarlo	15
+ErnestHemingway	17	JudyDavis	2
+ErnestRutherford	11	PamelaSueMartin	31
+ErnestRutherford	9	LorneGreene	7
+EstherWilliams	19	MichaelCaine	3
+FaradayMichael	9	FrancesDee	10
+FayeDunaway	11	HeinrichHertz	2
+FayeDunaway	16	JoanCollins	4
+FayeDunaway	7	StevenBerkoff	34
+Fernandel	25	RobertPowell	9
+Fernandel	30	JulieChristie	19
+FernandoRey	16	MelBrooks	11
+Fotopoulos	13	MichaelYork	36
+Fotopoulos	18	SilvanaMangano	27
+Fotopoulos	8	ShirleyJones	18
+FrankSinatra	16	LaurenBacall	14
+FredAstaire	6	TommyLeeJones	15
+Gaddafi	6	NicolasSarkozy	13
+GalileoGalilei	8	MarietteHartley	3
+Garycooper	8	LeeJCobb	16
+GeneWilder	10	KathleenTurner	20
+GeorgeCScott	22	SteveJobsb	11
+GeorgeCScott	24	OrnellaMuti	41
+GeorgeHWBush	2	SimonMacCorkindale	7
+GeorgeHWBush	3	JonVoight	11
+GeorgeHWBush	3	LarryEllison	15
+GeraldineChaplin	22	SigourneyWeaver	12
+GingerRogers	9	SteveMartin	13
+GladysCooper	13	NewmanPaul	16
+GladysCooper	37	JerryLewis	12
+GlennClose	13	OliviaHussey	27
+GloriaSwanson	16	Mparkoulis	5
+HarveyKeitel	14	StacyKeach	13
+HarveyKeitel	32	RuthGordon	27
+HelenHayes	28	JaneBirkin	9
+HenryFonda	9	JudyDavis	17
+HorstBuchholz	22	JoanCollins	18
+HowardKeel	15	LauraAntonelli	3
+HumphreyBogard	24	RitaHayworth	27
+IanHolm	5	MichaelBloomberg	3
+IlyaPrigogine	4	KathrynGrayson	26
+IlyaPrigogine	5	RuthGordon	19
+ImeldaStaunton	18	LorettaYoung	28
+ImeldaStaunton	24	MaryTylerMoore	15
+IreneDunne	16	MartinSheen	7
+IsabelleAdjani	2	JeffGoldblum	16
+JWMarriott	9	JulieChristie	13
+JackLarson	12	YannisRitsos	8
+JackLemon	24	JeffBridges	19
+JackLemon	4	JeffGoldblum	25
+JackNicolson	25	JaneRussell	28
+JackNicolson	9	JudyHolliday	11
+JamesCaan	7	KostasXatzixristos	13
+JamieLeeCurtis	11	JohnDRockefeller	12
+JaneFonda	27	RockHudson	13
+JanePowell	32	JenniferJones	28
+JaneRussell	13	JohnWayne	22
+JaneRussell	26	KirkDouglas	8
+JaneWyman	1	KrisKristofferson	23
+JanetEllis	27	TildaSwinton	20
+JanetGaynor	15	TomasMilian	9
+JanetGaynor	6	JeanneMoreau	23
+JeanGabin	14	KathrynHays	8
+JeanMarais	29	PhilHartman	8
+JeanPeters	11	JulieAndrews	13
+JeanPeters	3	MireilleDarc	10
+JeanneMoreau	16	SerenaWilliams	10
+JeanneMoreau	24	Onasis	9
+JeanneMoreau	27	ShirleyMacLaine	27
+JeffBridges	17	WinstonChurchill	10
+JeffreyJones	17	MaureenOHara	21
+JenniferAniston	14	KristinScottThomas	15
+JenniferAniston	2	OliviaHussey	20
+JerryLewis	9	OliviadeHavilland	14
+JessicaTandy	11	LawrenceTierney	20
+JoanCollins	14	JulieBishop	16
+JoanCrawford	17	StВphaneAudran	44
+JoanFontaine	14	KostasXatzixristos	14
+JoanLeslie	23	LaurenBacall	32
+JoanLeslie	26	NickNolte	11
+JoanLeslie	4	RabindranathTagore	13
+JohnDRockefeller	12	WilliamDafoe	16
+JohnLithgow	24	TheodorakisMikis	15
+JohnLithgow	3	RogerMoore	9
+JonVoight	6	MichaelCaine	5
+JosephStalin	22	ShelleyWinters	10
+JosephStalin	3	LorettaYoung	23
+JudyGarland	1	SusanGeorge	9
+JudyGarland	4	WillSmith	25
+JuliaRoberts	16	RobertMitchum	14
+JulieChristie	3	StevenSeagal	2
+JulieChristie	9	UrsulaAndress	10
+JuneAllyson	11	RitaHayworth	2
+JuneLockhart	21	WaltDisney	1
+KateOMara	30	PeggyLipton	15
+KathleenTurner	11	MariaCallas	3
+KathrynGrayson	13	RicardoMontalbаn	22
+KathyBates	14	StephenHawking	19
+KennethBranagh	5	UgoTognazzi	34
+KennethBranagh	8	MaryTamm	13
+KevinCostner	10	OrnellaMuti	4
+KevinCostner	15	RobertPowell	4
+KevinCostner	9	cambell	1
+KimNovak	5	StefaniePowers	25
+KlausKinski	24	WilliamHolden	21
+KlausKinski	28	MargeChampion	17
+KostasXatzixristos	10	PeterOToole	11
+KostasXatzixristos	2	PeterMarkRichman	3
+KostasXatzixristos	4	WilliamShatner	2
+KrisKristofferson	17	RobertMitchum	23
+KrisKristofferson	29	SamNeill	19
+LeifErickson	32	SteveMartin	14
+LeslieCaron	11	MaggieSmith	31
+LeslieCaron	21	RandolphScott	14
+LexBarker	25	VittorioGassman	33
+LiamNeeson	21	PeterGraves	3
+LouCostello	20	MarcelloMastroianni	13
+MargeChampion	9	MickeyRooney	32
+MariaCallas	22	TanyaRoberts	8
+MariaCallas	7	RobertDuvall	28
+MarieCurie	14	VirnaLisi	6
+MarisaPavan	19	RaquelWelch	19
+MarleneDietrich	10	VictorMature	6
+MartinLutherKing	14	NormaShearer	12
+MartinSheen	2	StevenSeagal	13
+MaximilianShell	17	PeggyAshcroft	11
+MegRyan	17	Mparkoulis	14
+MerylStreep	9	VincentPrice	19
+MichaelBloomberg	5	merrillcharles	5
+MichellePfeiffer	8	TerryMoore	22
+MuhammadAli	13	WarrenBeatty	21
+MyrnaLoy	6	RuthGordon	23
+NicolasSarkozy	30	ShirleyMacLaine	1
+OrsonWelles	6	RafVallone	26
+PamelaSueMartin	27	VeraEllen	23
+PeterMarkRichman	21	SophiaLoren	22
+PeterMarkRichman	30	SimoneSignoret	38
+RafVallone	23	cambell	1
+RafVallone	7	SteveJobsb	13
+RalphMacchio	12	ThomasTerry	24
+RandolphScott	6	SusanHayward	10
+RichardBoone	15	SigourneyWeaver	19
+RichardCrenna	6	SerenaWilliams	17
+RitaLeviMontalcini	5	cambell	1
+RomySchneider	18	WEBDuBois	3
+RuthGordon	2	TippiHedren	7
+SamNeill	17	YvesMontand	7
+ShirleyJones	32	SigourneyWeaver	12
+ShirleyMacLaine	22	WEBDuBois	12
+SpencerTracy	2	WarrenBeatty	29
+StevenBerkoff	13	VanessaRedgrave	9
+SusanSarandon	30	TimCurry	9
+TimCurry	24	WinstonChurchill	4
+TomJones	70	UgoTognazzi	28
+UrsulaAndress	12	ZsaZsaGabor	28
+AlPacino	14	18
+AlainDelon	6	19
+AlanYoung	3	14
+AlbertCamus	9	19
+AlbertoSordi	4	14
+AlexanderGrahamBell	1	10
+AmandaBlake	11	21
+AndreMarieAmpКre	1	5
+AndyGriffith	12	24
+AngelaLansbury	1	26
+AnitaEkberg	1	26
+AnitaEkberg	6	23
+AnjelicaHuston	9	31
+AnnMargret	11	29
+AnnMiller	33	36
+AnneBaxter	28	43
+AnnieGirardot	12	36
+AnthonyAndrews	15	30
+ArnoldSchwarzenegger	5	19
+AudreyHepburn	5	30
+BarbraStreisand	9	18
+BernadetteLafont	15	16
+BerryGordy	6	12
+BettyGarrett	31	35
+BeverlyRoberts	7	12
+BillCosby	24	25
+BillMurray	5	23
+BillMurray	7	27
+BobDylan	2	13
+BobDylan	28	42
+Bono	6	20
+BrianDennehy	16	20
+BurtLancaster	22	24
+BurtReynolds	2	25
+CHARLIERUGGLES	26	30
+CarlMarx	1	6
+Carroll	11	19
+CelesteHolm	1	8
+CelesteHolm	23	29
+CharlesBronson	10	14
+CharlesBronson	2	8
+CharlesGrodin	6	22
+ChevyChase	12	25
+ChristopherEccleston	20	24
+ClintEastwood	1	11
+ConnieBooth	16	25
+ConradHilton	5	6
+CydCharisse	15	27
+DanaAndrews	6	34
+DanaAndrews	9	21
+DannyDeVito	10	11
+DannyDeVito	5	15
+DannyDeVito	7	11
+DavidCarradine	18	31
+DavidCarradine	7	31
+DavidMcCallum	8	22
+DavidNiven	2	23
+DavidNiven	3	9
+DebbieReynolds	23	26
+DebraPaget	1	4
+Dench	2	8
+Dench	9	19
+DickVanDyke	5	26
+DirkBogarde	20	22
+DonnaDouglas	16	18
+DorisDay	33	43
+DustinHoffman	4	21
+DyanCannon	4	5
+EdwardTeller	7	17
+ElizabethTaylor	10	12
+ElkeSommer	17	27
+ElsaMartinelli	3	23
+EmmaThompson	6	9
+ErnestHemingway	2	17
+ErnestRutherford	3	20
+EsteeLauder	4	12
+EstherWilliams	8	10
+EvaMarieSaint	12	36
+FaradayMichael	2	9
+FayeDunaway	20	21
+Fernandel	8	27
+FidelCastro	2	5
+FidelCastro	4	6
+FlemingAlex	1	3
+FrancesDee	17	21
+FrancescaAnnis	15	30
+FrankSinatra	13	15
+FrankSinatra	4	10
+FrederickSanger	3	5
+FriedrichNietzsche	16	19
+FriedrichNietzsche	5	6
+GaryOldman	13	24
+Garycooper	3	13
+GeneHackman	16	24
+GeneHackman	7	25
+GeneWilder	2	10
+GeneWilder	2	18
+GeorgeCScott	20	22
+GeorgesMarchal	17	25
+GeorgesMarchal	8	13
+GeraldineChaplin	2	43
+GeraldinePage	5	30
+GiorgosSeferis	2	4
+GiorgosSeferis	3	6
+GiorgosSeferis	4	6
+GlendaJackson	16	24
+GoldieHawn	7	12
+Gorbachev	8	21
+GordonThomson	11	14
+HarrySTruman	1	16
+HedyLamarr	11	16
+HeinrichHertz	8	9
+HelenHayes	2	13
+HelenHunt	31	35
+HelmutBerger	1	8
+HenryFonda	6	10
+HerbertLom	18	21
+HerbertLom	29	33
+HorstBuchholz	10	19
+HowardKeel	12	14
+HumphreyBogard	12	15
+IanHolm	6	34
+IlyaPrigogine	4	12
+ImeldaStaunton	19	22
+ImeldaStaunton	23	26
+IreneDunne	7	22
+IsabelleAdjani	15	25
+IsabelleAdjani	3	8
+JWMarriott	9	10
+JackNicolson	14	20
+JamesCagney	4	18
+JamesStewart	4	17
+JamesWoods	15	19
+JamesWoods	21	29
+JaneAsher	4	23
+JaneBirkin	20	39
+JaneRussell	8	11
+JanetEllis	6	8
+JanetGaynor	14	15
+JeanClaudeVanDamme	10	16
+JeanGabin	6	7
+JeanPaulBelmondo	13	29
+JeffDaniels	12	18
+JhonLenon	18	30
+JoanCollins	14	23
+JoanCusack	13	28
+JohnDerek	4	20
+JohnJames	6	9
+JohnTravolta	10	15
+JohnnyCash	8	17
+JonFinch	7	14
+JosephCotten	6	9
+JosephStalin	4	14
+JudyGarland	14	17
+JulieBishop	6	9
+KatharineHepburn	5	7
+KathleenTurner	4	17
+KathrynHays	13	18
+KevinBacon	15	37
+KevinBacon	9	35
+KevinCostner	6	16
+KevinSpacey	17	19
+KimNovak	12	18
+KirkDouglas	6	12
+KlausKinski	15	22
+Konstantaras	18	19
+KristinScottThomas	3	18
+KristinScottThomas	5	15
+LarryEllison	2	4
+LarryEllison	2	5
+LauraDern	7	9
+LawrenceTierney	15	24
+LeeJCobb	22	25
+LeeJCobb	9	11
+LexBarker	8	13
+LiamNeeson	8	11
+LilliPalmer	2	16
+LinoVentura	4	22
+MarcelloMastroianni	5	21
+MargaretOBrien	2	17
+MargaretThatcher	4	5
+MargeChampion	1	11
+MarisaPavan	19	28
+MarleneDietrich	10	32
+MarleneDietrich	14	21
+MarlonBrando	14	16
+MartinScorsese	24	30
+MartinSheen	25	30
+MaximilianShell	4	21
+MelGibson	11	27
+MelGibson	4	9
+MelindaDillion	2	5
+MichaelCaine	6	8
+MichaelKeaton	10	31
+MichaelPalin	1	20
+MichaelSarrazin	3	6
+MickJagger	11	17
+MickeyRooney	21	31
+MorganFreeman	30	51
+Mparkoulis	8	15
+MurrayHamilton	11	21
+MylКneDemongeot	21	22
+NelsonMandela	16	28
+NicolasSarkozy	22	29
+NielsBohr	2	11
+OliviaHussey	6	19
+OmarSharif	25	28
+Onasis	13	16
+OrnellaMuti	12	15
+PatriciaNeal	12	32
+PatriciaNeal	2	27
+PatriciaNeal	9	21
+PatrickSwayze	5	6
+PatrickSwayze	8	12
+PaulAnka	5	33
+PeggyAshcroft	13	37
+Pele	12	23
+Pele	9	12
+Pele	9	13
+PeterOToole	10	17
+PeterOToole	5	17
+PeterUstinov	2	28
+QueenElizabet	10	23
+RafVallone	8	18
+RaquelWelch	3	11
+RexHarrison	8	28
+RichardBoone	10	13
+RichardChamberlain	10	14
+RichardCrenna	12	37
+RichardPryor	15	23
+RichardPryor	21	24
+RichardPryor	4	12
+RobertMitchum	2	21
+RobertOppenheimer	5	14
+RobertPowell	2	21
+RobertPowell	7	14
+RodTaylor	19	27
+RodTaylor	5	27
+RogerAllam	1	16
+RomanPolanski	13	51
+RomySchneider	20	29
+RonPerlman	12	21
+Ross	3	10
+RowanAtkinson	1	10
+SamElliott	7	16
+SamNeill	6	17
+SarahDouglas	4	27
+ScottGlenn	20	27
+SeanConnery	5	17
+ShelleyWinters	3	22
+ShelleyWinters	32	34
+ShelleyWinters	5	9
+ShirleyMacLaine	2	3
+SigourneyWeaver	10	18
+SigourneyWeaver	7	11
+SilvanaMangano	13	32
+SilvanaMangano	8	10
+Soljenitsyne	5	11
+SophiaLoren	12	24
+SpencerTracy	2	15
+StephenHawking	7	14
+SteveJobsb	9	14
+SteveKanaly	3	5
+SteveMcQueen	1	3
+StevenSpielberg	4	13
+StВphaneAudran	4	43
+SusanHayward	5	7
+SusanHayward	6	10
+SusannahYork	10	22
+SusannahYork	5	8
+TellySavalas	5	24
+TheodorakisMikis	7	25
+TheodoreRoosevelt	8	13
+ThomasTerry	5	26
+TildaSwinton	4	8
+TimothyDalton	18	25
+TomHulce	22	28
+TomHulce	6	16
+TonyBlair	6	26
+TonyCurtis	18	23
+Turner	6	20
+Tyson	1	26
+UrsulaAndress	10	14
+ValerieHarper	15	19
+VeraEllen	18	19
+VeronicaLake	2	20
+VeronicaLake	4	23
+VivienLeigh	5	11
+WalterPidgeon	9	29
+WarrenBeatty	18	20
+WoodyAllen	16	17
+YvonneDeCarlo	11	16
+YvonneDeCarlo	15	24
+angelamerkel	4	12
+campbell	5	14
+merrillcharles	2	3
+merrillcharles	2	4
+mitsotakis	9	17
+motherTereza	1	22
+motherTereza	14	17
+AbeVigoda	4	HowardKeel	18
+AdolfHitlerr	3	BeaArthur	1
+AdolfHitlerr	7	HelmutBerger	7
+AlCorley	12	AnnaMassey	6
+AlCorley	22	JaneFonda	29
+AlPacino	27	AlanRickman	17
+AlPacino	3	FrancesDee	4
+AlainDelon	5	TomHulce	25
+AlainDelon	7	ElkeSommer	18
+AlanRickman	16	TonyBlair	13
+AlanYoung	9	LauraAntonelli	3
+AlbertCamus	1	JhonLenon	12
+AlbertCamus	1	WilliamShatner	24
+AlbertCamus	12	Carroll	9
+AlbertSchweitzer	9	PeterFalk	27
+AlecGuinness	22	KennethBranagh	17
+AlejandroRey	7	KevinBacon	21
+AlexanderGrahamBell	14	BeverlyRoberts	11
+AlexandrakisAlekos	8	LawrenceTierney	9
+AmandaBlake	17	RobertMorley	11
+AndreMarieAmpКre	2	HelenHunt	37
+AndreMarieAmpКre	4	JodieFoster	28
+AndreasPapantreou	25	BertrandRussell	19
+AndreasPapantreou	7	ElkeSommer	20
+AngieDickinson	36	TomJones	41
+AnitaEkberg	32	MireilleDarc	20
+AnitaEkberg	8	GoldieHawn	16
+AnjelicaHuston	4	KostasXatzixristos	3
+AnnJillian	2	ThomasTerry	13
+AnnJillian	26	JuneAllyson	23
+AnnJillian	3	JamesBest	27
+AnnMiller	25	HorstBuchholz	5
+AnneBancroft	12	TomJones	15
+AnnieGirardot	17	EnricoFermi	11
+AnnieGirardot	21	MargeChampion	8
+AnnieGirardot	30	MartinScorsese	8
+AnthonyAndrews	7	JohnMalkovich	23
+AnthonyHopkins	42	RobertMorley	7
+AnthonyPerkins	31	MartinScorsese	5
+Arletty	17	RaquelWelch	13
+Arletty	4	SidneyPoitier	10
+AvaGardner	25	SeanConnery	11
+BarbaraBouchet	9	ClaudetteColbert	21
+BeaArthur	27	FrankSinatra	4
+BetteDavis	19	LawrenceTierney	19
+BettyGarrett	15	BorisKarloff	13
+BeverlyRoberts	14	Dench	16
+BillCosby	17	IanMcKellen	30
+BillMurray	15	KateOMara	31
+BillMurray	19	WEBDuBois	8
+BillMurray	24	JeffDaniels	5
+BillNighy	19	MelindaDillion	2
+BobDylan	11	MarcelloMastroianni	34
+BobHope	19	MarisaPavan	15
+Bono	30	IlyaPrigogine	13
+Bono	30	JosephStalin	2
+Bono	7	LeslieNielsen	1
+BruceWillis	15	EstherWilliams	3
+BurtLancaster	26	RitaHayworth	21
+BurtLancaster	4	Konstantaras	7
+BurtReynolds	3	DustinHoffman	21
+CHARLIERUGGLES	30	LorettaYoung	1
+CarlMarx	2	GeneWilder	6
+CarlMarx	9	FriedrichNietzsche	10
+Carroll	14	OrsonWelles	6
+Carroll	2	KlausKinski	9
+CaryGrant	12	LizaMinelli	9
+CaryGrant	5	PeterGraves	24
+CatherineDeneuve	22	ChuckNorris	7
+CatherineSchell	24	SigourneyWeaver	16
+CatherineSpaak	22	KrisKristofferson	21
+CharlieChaplin	17	EliWallach	26
+CharlieSheen	4	RichardAttenborough	7
+CharltonHeaston	9	DickVanDyke	31
+ChristopherPlummer	24	QueenElizabet	13
+ChuckNorris	1	JoanCusack	9
+ChuckNorris	1	WarrenBeatty	27
+ClarkGable	15	mahatmagandhi	3
+ClaudeLВviStrauss	1	Fotopoulos	3
+ClaudeLВviStrauss	3	GloriaSwanson	5
+ClaudeRich	29	RaquelWelch	2
+ClaudeRich	30	ThelmaRitter	12
+ClaudetteColbert	21	LyleTalbot	33
+ClaudetteColbert	26	JoanCollins	7
+ClaudiaCardinale	28	GreerGarson	23
+CliffRobertson	11	IngridBergman	19
+CliffRobertson	5	JulieChristie	6
+ClintWalker	28	MylКneDemongeot	1
+ClintWalker	31	FernandoRey	6
+ClintWalker	31	JamesCagney	26
+CybillShepherd	1	MarlonBrando	9
+CybillShepherd	18	StВphaneAudran	24
+CybillShepherd	21	GeorgesMarchal	11
+CydCharisse	5	LindsayWagner	3
+DanaAndrews	3	HowardKeel	21
+DanaAndrews	37	VanessaRedgrave	19
+DanielleDarrieux	10	ElkeSommer	32
+DannyDeVito	11	IanMcKellen	7
+DannyDeVito	11	YvonneDeCarlo	4
+DavidCarradine	25	EnricoFermi	6
+DavidCarradine	9	Ross	7
+DavidMcCallum	16	JackLemon	18
+DavidMcCallum	21	LeeJCobb	2
+DavidNiven	12	RobertOppenheimer	2
+DavidNiven	34	RobertPowell	23
+DavidSarnoff	15	PeterSellers	25
+Davis	5	ScottGlenn	3
+DeborahKerr	28	StephenHawking	17
+DebraPaget	9	SilvanaMangano	8
+Dee	14	VictorMature	7
+Dench	15	MerkouriMelina	9
+DerekJacobi	27	TheodoreRoosevelt	1
+DianneWiest	15	MariaCallas	21
+DickVanDyke	26	JoanCrawford	25
+DickieMoore	32	LelandStanford	5
+DonnaReed	2	JohnCassavetes	13
+DonnaReed	22	SteveMcQueen	19
+DorisDay	2	RobertRedford	12
+DyanCannon	39	GaryOldman	7
+DyanCannon	42	ErnestRutherford	3
+EdHarris	29	ImeldaStaunton	19
+EdHarris	29	SteveKanaly	15
+EdwigeFenech	3	WilliamShatner	1
+Einstain	1	JanetEllis	2
+EliWallach	27	IanMcKellen	12
+EliWallach	3	ThomasTerry	17
+EllenBurstyn	10	MichelPiccoli	20
+EllenBurstyn	25	KlausKinski	12
+ElliottGould	3	MichaelBloomberg	6
+ElliottGould	5	GalileoGalilei	8
+ElsaMartinelli	8	JaneBirkin	10
+EmmaThompson	19	JoanLorring	3
+EmmaThompson	19	Turner	6
+ErnestHemingway	10	MurrayHamilton	19
+ErnestHemingway	8	Konstantaras	19
+ErrolFlynn	26	ValerieHarper	4
+EstherWilliams	15	MartinScorsese	19
+FernandoRey	31	MonicaVitti	22
+FernandoRey	8	RexHarrison	8
+FidelCastro	10	MuhammadAli	18
+FlemingAlex	11	JerryLewis	14
+FrancesDee	24	campbell	19
+FrancescaAnnis	29	MichaelCaine	12
+FranklinDRoosevelt	14	LouCostello	9
+FranklinDRoosevelt	2	OliviadeHavilland	22
+FredAstaire	10	MelFerrer	11
+FredAstaire	17	GiorgosSeferis	6
+FredMacMurray	8	SidneyPoitier	4
+FriedrichNietzsche	2	StevenSpielberg	13
+GabrielGarciaMarquez	15	GingerRogers	4
+Gaddafi	21	HelmutBerger	5
+Gaddafi	29	MaryTylerMoore	37
+GaryOldman	5	PeterOToole	21
+Garycooper	11	motherTereza	22
+GenaRowlands	39	HerbertLom	43
+GeneWilder	11	RobertDeNiro	11
+GeorgeMontgomery	18	GeorgesMarchal	16
+GeorgesMarchal	5	JudyHolliday	2
+GeraldineChaplin	22	JohnForsythe	20
+GeraldineChaplin	27	GoldieHawn	4
+GingerRogers	16	KevinCostner	5
+GiulianoGemma	35	JackLarson	10
+GiulianoGemma	36	cambell	1
+GladysCooper	33	SigourneyWeaver	18
+GlendaJackson	24	SpencerTracy	13
+GlendaJackson	4	MurrayHamilton	8
+GloriaSwanson	30	MylКneDemongeot	6
+GoldieHawn	21	MargaretNolan	7
+GraceKelly	28	JanetLeigh	11
+GregoryPeck	21	PabloPicasso	14
+GretaGarbo	25	PatriciaNeal	12
+HenryFonda	11	ValerieHarper	26
+HorstBuchholz	13	JanetEllis	35
+HorstBuchholz	26	NelsonMandela	2
+HumphreyBogard	16	MickJagger	41
+IanHolm	24	RoyRogers	4
+IanMcKellen	7	TanyaRoberts	13
+IlyaPrigogine	1	KathrynHays	17
+IlyaPrigogine	14	RingoStarr	18
+IreneDunne	16	TonyCurtis	3
+IreneDunne	17	RabindranathTagore	19
+IsabelleAdjani	22	MichaelYork	22
+IsabelleAdjani	28	MartinLutherKing	13
+JPaulGetty	1	StevenSeagal	19
+JackColeman	15	SylvesterStallone	3
+JackLarson	13	VivienLeigh	14
+JackLemon	1	SylvesterStallone	7
+JackLemon	24	JuneAllyson	11
+JamesArness	25	PeggyAshcroft	22
+JamesArness	7	MichaelCaine	4
+JamesBest	19	MickeyRooney	5
+JamesCaan	6	KostasXatzixristos	6
+JamieLeeCurtis	27	MendeleievDmitri	11
+JaneAsher	11	LeslieCaron	2
+JaneBirkin	7	RichardBoone	15
+JanePowell	30	SteveMcQueen	15
+JanePowell	41	JeffreyJones	12
+JaneWyman	27	motherTereza	4
+JaneWyman	3	RogerMoore	1
+JanetEllis	20	StefaniePowers	18
+JanetGaynor	27	RitaHayworth	17
+JanetLeigh	10	MaryTylerMoore	24
+JanetLeigh	8	TildaSwinton	9
+JeanClaudeVanDamme	28	YannisRitsos	2
+JeanGabin	1	JosephStalin	11
+JeanMarais	20	MelGibson	12
+JeanPeters	1	NielsBohr	3
+JeffBridges	25	JoanCollins	12
+JeffDaniels	14	StacyKeach	14
+JeffreyJones	17	LeeJCobb	26
+JeremyKemp	8	JohnDRockefeller	4
+JerryLewis	1	MarietteHartley	16
+JessicaTandy	28	ZsaZsaGabor	1
+JhonLenon	22	RobertMitchum	22
+JoanCollins	22	LaurenBacall	25
+JoanCrawford	6	LexBarker	9
+JoanCusack	10	RogerAllam	14
+JoanCusack	24	MaureenOHara	13
+JoanFontaine	25	NormaShearer	16
+JoanLorring	15	PiaLindstrom	6
+JoanneWoodward	7	LuiseRainer	44
+JohnCassavetes	17	OliviadeHavilland	4
+JohnCleese	7	YvonneDeCarlo	4
+JohnDerek	7	JulieAdams	2
+JohnTravolta	26	mitsotakis	1
+JohnVernon	13	RandolphScott	18
+JohnVernon	4	MarleneDietrich	20
+JohnWayne	12	RichardBoone	23
+JohnWayne	13	RobertOppenheimer	12
+JohnWayne	24	NeildeGrasseTyson	12
+JohnnyCash	8	JulieBishop	24
+JonVoight	33	MarlonBrando	3
+JonVoight	6	WillSmith	24
+JudyDavis	13	LinoVentura	13
+JudyGarland	19	merrillcharles	3
+JudyHolliday	4	RichardBoone	27
+JulieAdams	4	RandolphScott	1
+JulieAndrews	13	RowanAtkinson	5
+JulieBishop	28	PierceBrosnan	34
+JulieChristie	23	SimonMacCorkindale	22
+JuneLockhart	30	KimBasinger	9
+JuneLockhart	34	PeggyAshcroft	13
+KateOMara	28	PeterMarkRichman	23
+KateOMara	33	RichardAttenborough	13
+KatharineHepburn	22	RobertOppenheimer	5
+KatharineHepburn	25	MickeyRooney	39
+KatharineHepburn	4	PeterSellers	29
+KathrynGrayson	15	RonaldReagan	2
+KathrynHays	13	SigourneyWeaver	16
+KathrynHays	8	MylКneDemongeot	27
+Konstantaras	2	RalphMacchio	11
+KrisKristofferson	13	PatrickSwayze	5
+LawrenceTierney	10	PamelaSueMartin	4
+LeslieCaron	21	MichaelCaine	3
+LeslieNielsen	19	OrnellaMuti	30
+LilliPalmer	7	RobertPowell	23
+LilliPalmer	7	SimoneSignoret	4
+LinoVentura	1	RicardoMontalbаn	19
+MarcelloMastroianni	40	MerkouriMelina	10
+MargaretOBrien	20	RichardAttenborough	28
+MargaretThatcher	4	Pele	22
+MariaCallas	12	MurrayHamilton	14
+MarietteHartley	14	WinstonChurchill	13
+MarlonBrando	4	WalterPidgeon	18
+MartinLutherKing	17	PeterFalk	43
+MartinSheen	24	MendeleievDmitri	1
+MegRyan	33	TheodorakisMikis	22
+MegRyan	7	PeterSellers	16
+MelFerrer	2	RoyRogers	2
+MelFerrer	29	RayLiotta	2
+MelGibson	30	TomJones	35
+MendeleievDmitri	6	NelsonMandela	4
+MichaelSarrazin	22	RomanPolanski	38
+MichelPiccoli	5	RoseMarie	6
+MickeyRooney	8	RodTaylor	12
+MurrayHamilton	12	RobertRedford	15
+NeildeGrasseTyson	14	RichardAttenborough	2
+NelsonMandela	15	ScottGlenn	16
+NickNolte	25	RichardAttenborough	22
+NicolasSarkozy	36	ShirleyJones	32
+OliviadeHavilland	2	TommySands	6
+OrsonWelles	16	YvesMontand	16
+PatriciaNeal	30	YvesMontand	19
+PaulAnka	42	Pele	14
+RabindranathTagore	4	RalphMacchio	21
+RexHarrison	5	RichardAttenborough	29
+RichardCrenna	39	TomHanks	18
+RitaHayworth	29	SamElliott	32
+RitaHayworth	5	cambell	1
+RobertMitchum	26	RoseMarie	2
+RobertRedford	6	SeanConnery	17
+RonPerlman	6	WalterPidgeon	13
+RonPerlman	6	motherTereza	8
+RoseMarie	13	motherTereza	22
+RuthGordon	15	TellySavalas	17
+Soljenitsyne	14	VanessaRedgrave	7
+SophiaLoren	8	angelamerkel	7
+TellySavalas	18	Turner	5
+UgoTognazzi	13	WilliamDafoe	23
+YannisRitsos	9	YvesMontand	19
+AdolfHitlerr	9	11
+AlPacino	2	11
+AlanRickman	4	16
+AlbertCamus	5	13
+AlbertSchweitzer	7	10
+AlbertSchweitzer	7	14
+AlbertSchweitzer	8	10
+AlecGuinness	23	35
+AlecGuinness	4	32
+AlejandroRey	10	16
+AlexanderGrahamBell	8	11
+AmandaRedman	14	20
+AmandaRedman	2	23
+AmandaRedman	3	9
+AmandaRedman	4	17
+AndreasPapantreou	12	13
+AndreasPapantreou	16	21
+AngieDickinson	2	24
+AngieDickinson	30	36
+AnitaEkberg	19	33
+AnjelicaHuston	9	27
+AnthonyAndrews	2	28
+AnthonyQuayle	3	5
+BarbaraBain	16	32
+BarbaraStanwyck	12	14
+BarbaraStanwyck	21	31
+BarbraStreisand	20	31
+BeaArthur	11	37
+BenGazzara	3	31
+BerryGordy	1	9
+BertrandRussell	6	21
+BetteMidler	18	32
+BettyGrable	29	31
+BettyGrable	3	11
+BettyGrable	6	8
+BobHope	17	19
+Bono	8	18
+BorisKarloff	2	33
+BorisKarloff	4	17
+BrianDennehy	16	25
+BruceWillis	18	27
+BruceWillis	25	29
+CHARLIERUGGLES	13	15
+CarlSagan	3	12
+CaryGrant	9	16
+CatherineDeneuve	28	35
+CatherineSpaak	11	19
+CharlesGrodin	17	18
+CharlieChaplin	9	21
+CharltonHeaston	1	17
+CharltonHeaston	11	12
+CharltonHeaston	5	10
+ClarkGable	5	7
+ClaudeLВviStrauss	10	15
+ClaudiaCardinale	1	11
+CliffRobertson	6	17
+CliffRobertson	6	24
+CybillShepherd	3	16
+CybillShepherd	5	10
+CydCharisse	25	30
+CyndiLauper	6	16
+DaliahLavi	14	28
+DanielleDarrieux	18	20
+DavidMcCallum	15	29
+Davis	6	9
+DebbieReynolds	22	34
+DeborahKerr	16	24
+Dee	7	22
+DenzelWashington	7	11
+DerekJacobi	19	32
+DirkBogarde	11	28
+DirkBogarde	5	19
+DirkBogarde	7	16
+DonnaDouglas	23	24
+DustinHoffman	12	25
+EdwardFox	3	22
+Einstain	2	5
+Einstain	3	8
+Einstain	4	6
+ElVenizelos	8	12
+ElliottGould	2	4
+ElvisPresley	1	3
+ElvisPresley	6	10
+ErinGray	6	19
+ErnestHemingway	10	17
+ErnestHemingway	12	17
+ErnestRutherford	9	13
+EsteeLauder	11	15
+EsteeLauder	3	16
+EstherWilliams	1	24
+EvaMarieSaint	29	41
+Fernandel	11	26
+FernandoRey	14	26
+FernandoRey	6	27
+FlemingAlex	6	10
+Fotopoulos	11	17
+FrancesDee	2	37
+FrancesDee	7	19
+FranklinDRoosevelt	9	12
+FredAstaire	2	15
+FredAstaire	8	21
+FredMacMurray	21	35
+FrederickSanger	5	7
+FriedrichNietzsche	6	13
+GabrielGarciaMarquez	1	15
+GabrielGarciaMarquez	15	17
+GabrielGarciaMarquez	9	22
+Gaddafi	12	30
+Gaddafi	6	19
+GalileoGalilei	1	6
+GalileoGalilei	1	8
+GeorgesMarchal	13	24
+GeraldinePage	11	30
+GeraldinePage	25	31
+GiulianoGemma	20	28
+GlendaJackson	13	24
+GraceKelly	10	18
+GreerGarson	13	18
+GretaGarbo	7	12
+HowardKeel	2	38
+IlyaPrigogine	5	8
+ImeldaStaunton	1	16
+IngridBergman	7	11
+IreneDunne	2	9
+IsabelleAdjani	4	17
+JPaulGetty	6	7
+JWMarriott	9	11
+JackLarson	3	11
+JackNicolson	10	23
+JamesArness	12	26
+JamesCoburn	19	27
+JamesCoburn	6	28
+JamesGarner	27	34
+JamesWoods	17	28
+JanePowell	27	30
+JanetLeigh	2	17
+JeanMarais	2	14
+JeanetteMacDonald	21	35
+JeanetteMacDonald	34	42
+JeffGoldblum	14	22
+JenniferAniston	4	16
+JenniferJones	24	30
+JerryLewis	12	16
+JessicaTandy	19	21
+JessicaTandy	9	22
+JhonLenon	16	28
+JoanCollins	15	17
+JoanCollins	20	21
+JoanLeslie	11	17
+JoanLeslie	7	11
+JohnGarfield	7	8
+JohnLithgow	1	4
+JohnWayne	6	7
+JohnnyCash	7	41
+JosephStalin	6	8
+JudyDavis	22	25
+JudyGarland	2	8
+JudyHolliday	4	17
+JulieHagerty	11	24
+JuneAllyson	4	11
+JuneLockhart	24	31
+JuneLockhart	30	34
+KateOMara	10	32
+KathleenTurner	13	16
+KathrynGrayson	13	18
+KathyBates	10	12
+KevinBacon	1	18
+KevinCostner	4	23
+KimNovak	4	9
+KlausKinski	7	27
+LaurenBacall	17	30
+LawrenceTierney	20	24
+LelandStanford	1	9
+LelandStanford	5	7
+LivUllmann	2	22
+LivUllmann	2	27
+LorneGreene	11	17
+LyleTalbot	7	33
+MaggieSmith	23	33
+MarcelloMastroianni	41	44
+MarcelloMastroianni	7	43
+MargaretNolan	14	23
+MargaretOBrien	3	27
+MarietteHartley	2	20
+MarietteHartley	20	27
+MarietteHartley	8	29
+MarlonBrando	2	4
+MartinLutherKing	15	18
+MartinLutherKing	2	12
+MartinSheen	10	29
+MaryTylerMoore	11	28
+MelindaDillion	5	16
+MichaelBloomberg	4	19
+MichaelBloomberg	8	11
+MichaelKeaton	13	18
+MichaelPalin	23	30
+MichaelPalin	4	31
+MichaelYork	14	38
+MichaelYork	4	37
+MickJagger	24	27
+MickeyRooney	17	44
+MikeConnors	9	39
+MuhammadAli	6	14
+MurrayHamilton	7	23
+NewmanPaul	1	20
+NormaShearer	4	17
+NormaShearer	7	25
+OliviadeHavilland	17	23
+Onasis	8	13
+OrnellaMuti	4	9
+OrsonWelles	9	17
+PatrickStewart	17	30
+PatrickStewart	21	29
+PeggyAshcroft	14	17
+PeggyLipton	13	15
+PeggyLipton	21	24
+PeggyLipton	4	7
+PeterFalk	3	32
+PeterFalk	7	41
+PeterFonda	12	13
+PeterFonda	5	10
+PeterGraves	17	18
+RabindranathTagore	21	23
+RafVallone	12	24
+RandolphScott	15	16
+RichardAttenborough	25	26
+RichardBurton	5	7
+RichardChamberlain	21	22
+RitaHayworth	18	24
+RobertDuvall	11	31
+RobertMitchum	6	31
+RobertMorley	4	11
+RobertMorley	5	28
+RobertOppenheimer	3	12
+RobertRedford	12	25
+RobertRedford	28	29
+RockHudson	3	33
+RogerAllam	2	11
+RogerMoore	14	15
+RomanPolanski	21	46
+RomanPolanski	22	31
+RomySchneider	2	24
+RonPerlman	15	25
+RonaldReagan	4	17
+RoseMarie	15	19
+RoseMarie	2	17
+RoyScheider	9	25
+RuthGordon	5	21
+RyanONeal	14	23
+SamNeill	13	20
+SerenaWilliams	12	15
+ShirleyJones	15	18
+ShirleyMacLaine	2	15
+Soljenitsyne	4	9
+SophiaLoren	14	15
+StefaniePowers	7	25
+SteveJobsb	8	10
+StevenSeagal	4	14
+StevenSeagal	5	8
+StevenSpielberg	1	11
+StevenSpielberg	9	12
+SusanSarandon	4	21
+SusannahYork	14	23
+SusannahYork	18	22
+TanyaRoberts	10	12
+TellySavalas	10	20
+Thanasisveggos	1	14
+Thanasisveggos	1	2
+TheodorakisMikis	10	11
+TimCurry	11	36
+TimCurry	7	10
+TippiHedren	1	18
+TippiHedren	12	16
+TomJones	2	11
+TomJones	58	72
+TomasMilian	1	11
+TommyLeeJones	13	35
+UgoTognazzi	9	34
+ValerieHarper	21	22
+VeraEllen	4	16
+VictorMature	12	21
+VictorMature	9	16
+VirnaLisi	2	20
+WalterPidgeon	1	23
+WillSmith	17	45
+WilliamHolden	2	27
+WilliamHolden	20	22
+WilliamHolden	5	22
+WilliamShatner	13	19
+WoodyAllen	11	14
+WoodyAllen	5	14
+ZsaZsaGabor	3	16
+angelamerkel	8	24
+campbell	5	24
+mahatmagandhi	13	17
+mahatmagandhi	16	19
+mahatmagandhi	6	16
+michaeljackson	2	3
+mitsotakis	5	17
+tomselleck	14	30
+AlCorley	4	JoanneWoodward	25
+AlCorley	7	WarrenBeatty	19
+AlPacino	19	LilliPalmer	17
+AlanRickman	1	DavidNiven	34
+AlanRickman	27	CharlesDarwin	1
+AlanYoung	8	RobertOppenheimer	2
+AlbertCamus	1	BurtReynolds	23
+AlbertCamus	7	BrianDennehy	7
+AlbertSchweitzer	2	PeterSellers	34
+AlbertSchweitzer	8	PiaLindstrom	5
+AlbertoSordi	15	OrnellaMuti	19
+AlejandroRey	12	Dench	3
+AlexanderGrahamBell	12	GeorgeHWBush	3
+AmandaBlake	31	JaneFonda	23
+AndreMarieAmpКre	5	MelindaDillion	26
+AndreasPapantreou	17	JudyDavis	27
+AndyGriffith	14	KathyBates	25
+AndyGriffith	27	RitaLeviMontalcini	7
+AngelaLansbury	21	AnnMiller	30
+AngelaLansbury	37	SusanGeorge	20
+AngelaLansbury	42	TimothyDalton	12
+AngieDickinson	22	CharlieSheen	31
+AngieDickinson	37	OrnellaMuti	5
+AnnJillian	23	PatrickStewart	14
+AnnaMassey	23	HowardKeel	17
+AnneBancroft	25	MegRyan	12
+AnnetteBening	11	IreneDunne	2
+AnnieGirardot	3	WillSmith	44
+AnnieGirardot	35	JackLemon	18
+AnthonyHopkins	6	JohnForsythe	6
+AnthonyPerkins	37	JudyDavis	24
+AnthonyQuayle	19	IanMcKellen	3
+AnthonyQuayle	7	MarleneDietrich	2
+AvaGardner	1	JWMarriott	4
+BarbaraBouchet	26	RobertPowell	16
+BarbaraStanwyck	3	DonnaReed	15
+BarbraStreisand	26	MichaelKeaton	11
+BeaArthur	30	ClintWalker	1
+BenGazzara	18	PierceBrosnan	7
+BenGazzara	9	JeremyKemp	9
+BernadetteLafont	25	PaulAnka	10
+BetteDavis	15	JackLemon	3
+BetteMidler	31	TheodoreRoosevelt	8
+BettyGarrett	11	ChristopherEccleston	25
+BettyGarrett	11	PatrickSwayze	2
+BettyGarrett	18	GreerGarson	26
+BettyGarrett	3	MelFerrer	28
+BeverlyRoberts	6	GordonThomson	10
+BillCosby	20	JaneRussell	31
+BillCosby	7	DanielleDarrieux	34
+BillMurray	27	SimoneSignoret	28
+BillMurray	36	JackLarson	4
+BoDerek	15	MarleneDietrich	25
+BobDylan	22	MorganFreeman	50
+BobDylan	23	TippiHedren	10
+BobDylan	34	JohnMalkovich	23
+BobHope	10	EdwigeFenech	29
+BonnieHunt	14	SartreJeanPaul	5
+Bono	27	JohnMalkovich	32
+Bono	8	LivUllmann	9
+BorisKarloff	28	JamesCaan	9
+BorisKarloff	38	MickeyRooney	38
+BorisKarloff	6	GraceKelly	16
+BurtLancaster	35	EdwigeFenech	8
+BurtLancaster	35	JudyDavis	8
+BurtLancaster	7	Konstantaras	12
+BurtReynolds	34	JohnTravolta	25
+CHARLIERUGGLES	8	DorisDay	18
+CarlSagan	7	JeffreyJones	15
+CarlosSantana	18	JaneWyman	11
+CarlosSantana	25	JhonLenon	1
+Carroll	13	JudyGarland	16
+Carroll	7	TheodorakisMikis	11
+CaryGrant	21	JaneRussell	20
+CatherineDeneuve	10	ChristopherPlummer	13
+CatherineSpaak	18	VeraEllen	14
+CatherineSpaak	25	michaeljackson	2
+CharlesBoyer	12	LouisJourdan	14
+CharlesBoyer	14	WaltDisney	5
+CharlesBoyer	34	JeanPaulBelmondo	16
+CharlesBronson	1	LorneGreene	14
+CharlesGrodin	2	WaltDisney	8
+CharlesGrodin	21	FrancesDee	26
+CharlieChaplin	21	DonnaDouglas	8
+CharlieChaplin	9	DavidSarnoff	3
+CharlieSheen	10	ClintWalker	34
+CharlieSheen	3	RowanAtkinson	5
+CharltonHeaston	9	mitsotakis	16
+ChevyChase	15	LauraDern	12
+ChristopherEccleston	12	JamesCaan	10
+ChristopherPlummer	16	WoodyAllen	7
+ChristopherWalken	26	StephenHawking	14
+ChuckNorris	4	RandolphScott	13
+ClaudeLВviStrauss	3	HeinrichHertz	2
+ClaudeRich	24	JosephCotten	2
+ClaudeRich	25	FredAstaire	15
+ClaudeRich	38	DavidNiven	30
+ClaudeRich	6	MuhammadAli	26
+ClaudiaCardinale	19	ElvisPresley	22
+CliffRobertson	12	RuthGordon	11
+ClintWalker	25	KimBasinger	6
+ClintWalker	32	JoanCrawford	3
+ConradHilton	2	PeterSellers	7
+ConradHilton	2	TomJones	63
+ConradHilton	8	JohnLithgow	10
+CydCharisse	18	MargeChampion	5
+DanaAndrews	24	IreneDunne	14
+DannyDeVito	17	SigourneyWeaver	14
+DavidMcCallum	10	JaneWyman	22
+DavidNiven	12	FrancescaAnnis	2
+DavidNiven	15	EstherWilliams	4
+DavidNiven	21	HatzidakisManos	10
+DavidNiven	29	MaureenOHara	8
+DavidNiven	34	MikeConnors	5
+DebbieReynolds	35	TheodoreRoosevelt	13
+Dee	20	HedyLamarr	3
+Dench	2	PaulAnka	10
+Dench	5	GeorgesMarchal	4
+DenzelWashington	14	JohnDerek	22
+DenzelWashington	16	RabindranathTagore	5
+DonJohnson	1	campbell	26
+DonnaDouglas	8	MarcelloMastroianni	21
+DonnaReed	12	LeslieCaron	10
+DonnaReed	13	PeterOToole	12
+DonnaReed	15	RayDanton	18
+DyanCannon	19	FlemingAlex	11
+DyanCannon	24	RayLiotta	9
+EdwardGRobinson	43	JamesCoburn	24
+Einstain	12	GeneWilder	22
+Einstain	3	OliviadeHavilland	6
+ElVenizelos	2	JWMarriott	10
+EliWallach	21	SylvesterStallone	19
+EllenBurstyn	23	LorettaYoung	1
+ElsaMartinelli	22	MargaretOBrien	17
+ElsaMartinelli	29	YvesMontand	29
+ElvisPresley	21	ErnestRutherford	11
+EmmaThompson	12	JulieChristie	10
+ErnestHemingway	15	JulieAndrews	24
+EsteeLauder	18	OmarSharif	4
+EstherWilliams	15	LinoVentura	9
+EstherWilliams	15	SpencerTracy	21
+FayeDunaway	22	LeeJCobb	19
+FernandoRey	26	MargaretThatcher	7
+FessParker	6	RobertPowell	31
+FlemingAlex	11	SimonMacCorkindale	29
+FlemingAlex	8	GenaRowlands	35
+FrancescaAnnis	12	MylКneDemongeot	11
+FranklinDRoosevelt	11	SteveJobsb	14
+FranklinDRoosevelt	17	KlausKinski	1
+FranklinDRoosevelt	19	JohnLithgow	16
+FranklinDRoosevelt	9	RichardCrenna	38
+FredAstaire	11	MichelPiccoli	26
+FredMacMurray	9	NeildeGrasseTyson	10
+FrederickSanger	10	HeinrichHertz	10
+FrederickSanger	3	TimCurry	18
+FriedrichNietzsche	9	VeraEllen	6
+Gaddafi	9	PierceBrosnan	33
+GaryOldman	28	HumphreyBogard	15
+Garycooper	4	WilliamShatner	26
+GenaRowlands	32	LouCostello	6
+GeneHackman	13	JackNicolson	8
+GeneWilder	29	LuiseRainer	3
+GeorgeCScott	17	PaulmcCartney	18
+GeorgeCScott	7	GeorgeMontgomery	16
+GeorgeHWBush	12	JulieBishop	27
+GeorgeHWBush	12	MarieCurie	6
+GeorgeMontgomery	10	KostasXatzixristos	11
+GeorgeMontgomery	19	LeslieNielsen	11
+GeorgePeppard	29	LelandStanford	10
+GeorgesMarchal	16	WilliamDafoe	7
+GeraldineChaplin	6	OliviaHussey	13
+GilbertRoland	29	michaeljackson	2
+GingerRogers	14	JuneAllyson	6
+GingerRogers	21	MichaelSarrazin	6
+GiulianoGemma	26	JhonLenon	19
+GiulianoGemma	36	LiamNeeson	20
+GladysCooper	58	QueenElizabet	4
+GlendaJackson	11	MaggieSmith	30
+GlennClose	21	WilliamDafoe	21
+GordonThomson	11	PeggyAshcroft	11
+GordonThomson	17	MargeChampion	2
+GordonThomson	17	MendeleievDmitri	4
+GordonThomson	2	RichardPryor	5
+GordonThomson	25	JoanCrawford	5
+GraceKelly	28	JhonLenon	21
+GreerGarson	20	PeterMarkRichman	25
+GregoryPeck	18	JuneAllyson	22
+GretaGarbo	1	UrsulaAndress	2
+GretaGarbo	14	JohnVernon	16
+HarveyKeitel	16	LauraAntonelli	24
+HedyLamarr	18	TerryMoore	4
+HelenHayes	10	NielsBohr	19
+HelenHayes	28	JPMorgan	7
+HerbertLom	37	JanetGaynor	8
+HerbertLom	40	HorstBuchholz	18
+Houston	8	RobertMorley	34
+IanMcKellen	30	MaureenOHara	26
+ImeldaStaunton	7	JamesCoburn	13
+ImeldaStaunton	7	StevenBerkoff	24
+IngridBergman	9	ThomasTerry	22
+IreneDunne	15	RitaLeviMontalcini	14
+IreneDunne	21	JeanPaulBelmondo	21
+JPMorgan	1	RichardCrenna	23
+JPMorgan	5	YannisRitsos	9
+JackLemon	2	MargaretOBrien	15
+JackNicolson	14	ZsaZsaGabor	13
+JamesArness	37	MickeyRooney	14
+JamesCaan	11	Mparkoulis	8
+JamesCoburn	2	ScottGlenn	9
+JamesGarner	3	SylvesterStallone	17
+JamesWoods	21	LexBarker	9
+JaneBirkin	16	RichardPryor	2
+JaneRussell	7	MerkouriMelina	3
+JanetEllis	37	TanyaRoberts	2
+JanetLeigh	4	ShirleyMacLaine	14
+JeanGabin	3	RexHarrison	1
+JeanGabin	3	RobertMitchum	4
+JeanMarais	12	KevinBacon	31
+JeanPaulBelmondo	13	cambell	1
+JeanetteMacDonald	29	SimonMacCorkindale	22
+JeanneMoreau	37	MarleneDietrich	27
+JeffBridges	14	michaeljackson	9
+JeffBridges	26	WalterPidgeon	28
+JeffDaniels	2	RitaLeviMontalcini	15
+JeffGoldblum	10	PhilHartman	8
+JeffreyJones	3	JenniferJones	11
+JenniferAniston	11	JulieChristie	13
+JenniferAniston	6	RafVallone	27
+JessicaTandy	22	MichaelPalin	19
+JessicaTandy	23	Konstantaras	18
+JhonLenon	6	KevinSpacey	28
+JoanCrawford	29	JohnVernon	7
+JoanFontaine	3	JonFinch	20
+JoanLeslie	18	JulieChristie	9
+JoanLeslie	18	RichardAttenborough	16
+JoanLeslie	3	TommyLeeJones	3
+JohnCassavetes	7	RonPerlman	21
+JohnJames	23	WillSmith	28
+JohnJames	7	MyrnaLoy	2
+JohnLithgow	14	TomasMilian	12
+JohnVernon	3	MartinLutherKing	1
+JonVoight	2	MargaretOBrien	7
+JosephCotten	32	StephenHawking	9
+JudyDavis	15	LouisJourdan	24
+KateOMara	30	MarietteHartley	12
+KatharineHepburn	11	VictorMature	19
+KatharineRoss	10	cambell	1
+KathrynHays	25	RonaldReagan	34
+KennethBranagh	21	MargeChampion	30
+KevinSpacey	4	SerenaWilliams	4
+KimNovak	1	PeggyAshcroft	35
+KrisKristofferson	2	LelandStanford	2
+KristinScottThomas	21	WaltDisney	2
+KristinScottThomas	24	StefaniePowers	25
+LiamNeeson	23	TimCurry	14
+LiamNeeson	6	OrnellaMuti	7
+LiamNeeson	8	PeterMarkRichman	30
+LorneGreene	29	MylКneDemongeot	18
+MaggieSmith	12	VeronicaLake	23
+MarlonBrando	16	RutgerHauer	27
+MartinSheen	34	SteveMartin	8
+MartinSheen	9	MurrayHamilton	20
+MaryTylerMoore	33	TildaSwinton	4
+MaureenOHara	10	TimCurry	6
+MaureenOHara	29	RonaldReagan	26
+MaximilianShell	12	SusanGeorge	18
+MaximilianShell	9	MichaelKeaton	36
+MegRyan	9	ReginaldOwen	18
+MichaelKeaton	33	SeanConnery	15
+MichaelYork	36	RichardAttenborough	6
+MichelPiccoli	26	RobertMitchum	5
+MurrayHamilton	19	QueenElizabet	2
+NicolasSarkozy	2	TildaSwinton	20
+OliviadeHavilland	9	PeterSellers	30
+OrnellaMuti	4	RaquelWelch	3
+PatrickStewart	12	RichardBurton	9
+PatrickStewart	36	ThomasTerry	21
+PeggyLipton	21	RuthGordon	30
+PeterFalk	23	StevenSeagal	14
+PhilHartman	11	StacyKeach	31
+PiaLindstrom	19	mitsotakis	3
+QueenElizabet	1	RichardBurton	15
+RitaHayworth	4	StevenSpielberg	23
+RitaLeviMontalcini	3	RoseMarie	4
+RobertOppenheimer	11	ThomasTerry	9
+RobertOppenheimer	3	mitsotakis	15
+RobertRedford	21	SpencerTracy	7
+RonPerlman	23	SusanGeorge	4
+RowanAtkinson	4	StevenBerkoff	11
+SeanConnery	3	VivienLeigh	12
+SerenaWilliams	3	TommyLeeJones	31
+SidneyPoitier	20	VittorioGassman	22
+SophiaLoren	5	cambell	1
+StephenHawking	15	VanessaRedgrave	9
+SteveMartin	12	TomHulce	29
+StevenBerkoff	15	TonyBlair	9
+TimCurry	31	WEBDuBois	7
+Turner	6	angelamerkel	10
+VictorMature	12	VittorioGassman	2
+WEBDuBois	12	WaltDisney	8
+AlCorley	9	25
+AlKapone	14	19
+AlKapone	2	17
+AlainDelon	1	3
+AlanRickman	9	28
+AlbertCamus	3	8
+AlbertSchweitzer	1	14
+AliMacGraw	12	33
+AliMacGraw	4	9
+AliMacGraw	9	22
+AlikiBoug	12	24
+AndreMarieAmpКre	2	3
+AndreasPapantreou	5	12
+AngieDickinson	29	36
+AnjelicaHuston	12	26
+AnjelicaHuston	18	23
+AnnMargret	12	21
+AnnMiller	2	24
+AnneBancroft	17	31
+AnneBancroft	2	16
+AnneBancroft	8	23
+AnneBaxter	11	18
+AnneBaxter	12	25
+AnnetteBening	16	26
+AnnetteBening	25	26
+AnthonyHopkins	3	44
+AnthonyQuayle	1	11
+Arletty	17	32
+ArnoldSchwarzenegger	24	41
+AudreyHepburn	3	23
+AvaGardner	17	20
+BenGazzara	3	15
+BenGazzara	36	40
+BerryGordy	9	18
+BertrandRussell	9	20
+BetteDavis	12	27
+BetteMidler	24	29
+BettyGarrett	21	29
+BillMurray	8	17
+BobDylan	8	19
+BonnieHunt	3	21
+BonnieHunt	3	23
+BonnieHunt	7	21
+BrianDennehy	16	19
+BruceWillis	11	21
+BurtLancaster	11	14
+BurtReynolds	23	37
+CarlMarx	3	5
+CaryGrant	13	20
+CaryGrant	2	16
+CatherineDeneuve	3	21
+CatherineSchell	10	25
+CatherineSpaak	8	13
+CharlesBoyer	12	34
+CharlesBoyer	21	26
+CharlesBoyer	9	10
+CharlesDarwin	2	5
+CharlesGrodin	4	10
+ChristopherEccleston	8	23
+ChristopherPlummer	14	20
+ChristopherPlummer	4	8
+ClaudeLВviStrauss	11	17
+ClaudeRich	5	40
+ClaudetteColbert	1	30
+ClintWalker	16	35
+ClintWalker	19	27
+ConradHilton	4	7
+CybillShepherd	2	18
+CybillShepherd	8	18
+DaliahLavi	16	17
+DanaAndrews	10	39
+DannyDeVito	14	24
+DannyGlover	10	27
+DavidNiven	7	27
+DavidSarnoff	18	20
+Davis	6	10
+Davis	6	11
+DeborahKerr	7	24
+DebraPaget	27	31
+DebraPaget	3	11
+DerekJacobi	19	23
+DianneWiest	11	25
+DianneWiest	13	25
+DonnaDouglas	20	22
+DorisDay	17	46
+DustinHoffman	4	8
+DyanCannon	10	39
+EdwardFox	12	41
+EdwigeFenech	22	23
+EliWallach	13	14
+ElkeSommer	5	28
+EllenBurstyn	23	33
+EllenBurstyn	27	28
+EllenBurstyn	3	5
+EmmaThompson	15	16
+ErnestBorgnine	9	29
+ErrolFlynn	13	32
+FaradayMichael	4	10
+Fernandel	17	29
+FessParker	11	12
+FessParker	11	13
+FidelCastro	7	9
+FrancesDee	24	40
+FredAstaire	5	8
+FredMacMurray	2	26
+Gaddafi	8	20
+GalileoGalilei	3	8
+GeorgeMontgomery	14	24
+GeorgePeppard	5	28
+GeorgePeppard	5	31
+GilbertRoland	13	34
+GingerRogers	6	31
+GiorgosSeferis	1	3
+GiulianoGemma	21	39
+GregoryPeck	13	19
+HarrisonFord	1	11
+HedyLamarr	1	16
+HelmutBerger	5	11
+HowardKeel	4	15
+HowardKeel	9	13
+HumphreyBogard	13	26
+IlyaPrigogine	10	12
+IreneDunne	17	18
+IreneDunne	5	19
+IsabelleAdjani	5	31
+JPMorgan	2	9
+JackNicolson	7	12
+JamesCaan	13	24
+JamesCaan	3	12
+JamesCaan	8	20
+JamesCagney	1	25
+JamesCagney	6	14
+JamesCoburn	16	22
+JamesCoburn	17	25
+JamesGarner	3	6
+JamesStewart	2	17
+JaneAsher	3	19
+JaneAsher	7	8
+JaneFonda	22	28
+JaneFonda	7	8
+JaneRussell	15	23
+JanetEllis	4	10
+JanetLeigh	6	29
+JeanPaulBelmondo	3	30
+JeanPeters	16	21
+JeanneMoreau	10	36
+JeanneMoreau	2	32
+JeffDaniels	11	27
+JeremyKemp	16	18
+JodieFoster	12	17
+JodieFoster	5	12
+JohnForsythe	1	9
+JohnForsythe	14	22
+JohnHuston	18	32
+JohnHuston	5	30
+JohnHuston	8	33
+JohnJames	5	15
+JohnLithgow	12	15
+JohnLithgow	3	16
+JohnLithgow	7	18
+JohnMalkovich	19	30
+JohnMalkovich	4	24
+JosephCotten	11	16
+JosephStalin	2	3
+JulieBishop	18	30
+JulieBishop	24	31
+JulieBishop	3	4
+JulieHagerty	4	11
+JuneAllyson	19	29
+KatharineHepburn	5	20
+KatharineHepburn	8	25
+KathrynHays	5	15
+KathyBates	1	23
+KennethBranagh	2	23
+KevinBacon	16	32
+KevinBacon	21	27
+KimBasinger	9	16
+LauraDern	2	16
+LeslieCaron	13	31
+LeslieNielsen	2	3
+LexBarker	10	15
+LexBarker	16	17
+LexBarker	8	24
+LilliPalmer	2	13
+LindsayWagner	2	10
+LindsayWagner	7	15
+LinoVentura	6	31
+LivUllmann	7	14
+LorettaYoung	4	14
+LorneGreene	8	29
+MaggieSmith	16	25
+MaggieSmith	18	21
+MaggieSmith	9	34
+MarcelloMastroianni	2	29
+MargaretOBrien	5	8
+MargeChampion	31	32
+MariaCallas	11	13
+MariaCallas	2	16
+MarisaPavan	15	24
+MarlonBrando	9	15
+MartinSheen	3	37
+MaryTamm	2	10
+MegRyan	13	17
+MelBrooks	10	27
+MelindaDillion	6	22
+MerkouriMelina	7	17
+MichaelCaine	3	7
+MichaelSarrazin	13	19
+MichaelSarrazin	3	12
+MichelPiccoli	14	45
+MichellePfeiffer	3	18
+MonicaVitti	20	32
+MorganFreeman	36	52
+MyrnaLoy	2	28
+MyrnaLoy	27	29
+NickNolte	17	40
+NielsBohr	3	8
+OdysseasElytis	5	11
+OliviaHussey	6	25
+Onasis	15	16
+OrnellaMuti	13	14
+OrsonWelles	7	8
+PamelaSueMartin	1	13
+PatrickStewart	15	29
+PatrickStewart	3	19
+PatrickSwayze	2	15
+PeterGraves	1	9
+PeterOToole	2	10
+PeterUstinov	8	24
+PhilHartman	6	16
+PierceBrosnan	21	32
+RaquelWelch	7	14
+RayLiotta	8	22
+ReginaldOwen	5	20
+RicardoMontalbаn	22	25
+RichardChamberlain	14	22
+RichardCrenna	15	24
+RichardCrenna	15	35
+RitaLeviMontalcini	2	12
+RobertDuvall	5	30
+RobertMorley	22	23
+RobertPowell	1	14
+RockHudson	7	18
+RodTaylor	24	40
+RonaldReagan	25	28
+RonaldReagan	6	12
+RoseMarie	5	19
+RoyRogers	16	33
+RutgerHauer	2	26
+SamElliott	3	8
+SamNeill	1	17
+SamuelJacksonn	11	25
+SamuelJacksonn	3	28
+SarahDouglas	19	27
+SartreJeanPaul	6	10
+ShelleyWinters	28	31
+SimonMacCorkindale	1	3
+SimoneSignoret	27	33
+SophiaLoren	15	24
+SpencerTracy	14	16
+SpencerTracy	17	23
+StacyKeach	13	18
+SteveJobsb	5	8
+SteveKanaly	1	16
+SteveKanaly	15	27
+SteveMartin	2	3
+SteveMcQueen	13	27
+StВphaneAudran	15	19
+SusanGeorge	10	18
+SusanGeorge	5	16
+SusanHayward	11	26
+SylvesterStallone	1	23
+TanyaRoberts	11	14
+TanyaRoberts	7	15
+TellySavalas	10	23
+ThelmaRitter	1	14
+ThelmaRitter	6	13
+ThomasTerry	10	20
+TildaSwinton	5	13
+TomasMilian	7	11
+TommyLeeJones	5	18
+TommySands	1	10
+TommySands	1	17
+Turner	1	18
+Turner	2	9
+Tyson	11	26
+UgoTognazzi	3	15
+UrsulaAndress	4	15
+ValerieHarper	15	20
+VeronicaLake	8	16
+WalterPidgeon	5	28
+WarrenBeatty	7	19
+ZsaZsaGabor	13	14
+ZsaZsaGabor	17	32
+akistsoxatzopoulos	2	10
+akistsoxatzopoulos	4	21
+campbell	3	20
+mahatmagandhi	1	7
+michaeljackson	2	11
+tomselleck	16	30
+AdolfHitlerr	2	MartinSheen	6
+AlCorley	5	PaulAnka	39
+AlKapone	3	CydCharisse	22
+AlPacino	24	FrederickSanger	4
+AlPacino	8	IlyaPrigogine	8
+AlbertCamus	23	RockHudson	26
+AlbertSchweitzer	4	StephenHawking	8
+AlbertoSordi	10	AlexanderGrahamBell	8
+AlecGuinness	12	SarahDouglas	6
+AlejandroRey	13	AnnMiller	6
+AlejandroRey	4	MendeleievDmitri	11
+AlejandroRey	8	TomHulce	25
+AlexanderGrahamBell	14	FredMacMurray	27
+AlexanderGrahamBell	15	ClerkMaxwell	2
+AlikiBoug	11	WalterPidgeon	24
+AlikiBoug	37	DaliahLavi	22
+AmandaRedman	6	JaneWyman	7
+AndreMarieAmpКre	1	CarlSagan	6
+AndreMarieAmpКre	2	KathyBates	2
+AndreMarieAmpКre	5	SteveJobsb	4
+AndreasPapantreou	17	AnnMiller	18
+AndyGriffith	24	MarlonBrando	12
+AngelaLansbury	35	VeraEllen	10
+AngieDickinson	5	SartreJeanPaul	11
+AnitaEkberg	1	DenzelWashington	2
+AnnJillian	20	TomHulce	8
+AnnJillian	22	DickVanDyke	17
+AnnJillian	26	ThelmaRitter	17
+AnnMargret	15	JudyGarland	8
+AnnMargret	28	KostasXatzixristos	4
+AnnMiller	22	RogerAllam	25
+AnnMiller	29	JPMorgan	2
+AnthonyAndrews	20	LeifErickson	6
+AnthonyHopkins	22	Arletty	23
+AnthonyPerkins	21	BarbraStreisand	18
+AnthonyPerkins	21	JenniferAniston	3
+AnthonyQuayle	30	DonnaDouglas	21
+AnthonyQuayle	5	KathyBates	17
+ArmandAssante	6	DianneWiest	13
+ArmandAssante	6	KateOMara	36
+AvaGardner	12	JonFinch	10
+BarbaraBain	37	LeifErickson	20
+BarbraStreisand	12	DianneWiest	15
+BarbraStreisand	13	JosephStalin	9
+BerryGordy	18	PeterFalk	8
+BertrandRussell	4	RalphMacchio	7
+BertrandRussell	7	TomJones	23
+BetteDavis	19	KostasXatzixristos	1
+BetteMidler	19	NickNolte	23
+BetteMidler	37	GretaGarbo	13
+BettyGarrett	1	RayDanton	14
+BettyGarrett	18	FredMacMurray	5
+BettyGarrett	37	JohnForsythe	24
+BettyGrable	15	UrsulaAndress	14
+BettyGrable	26	JoanLorring	23
+BeverlyRoberts	10	CatherineSpaak	7
+BillCosby	11	MartinScorsese	12
+BillCosby	29	JenniferJones	11
+BillMurray	13	FrankSinatra	14
+BoDerek	2	MelBrooks	11
+BoDerek	22	PeterSellers	30
+BobDylan	31	VeraEllen	6
+BobDylan	34	SusanSarandon	38
+BorisKarloff	14	MaryTylerMoore	19
+BruceWillis	20	SusanHayward	16
+BurtReynolds	1	IanMcKellen	9
+BurtReynolds	1	RyanONeal	13
+CarlMarx	13	LarryEllison	3
+CarlMarx	13	StВphaneAudran	20
+CarlSagan	3	cambell	1
+CarlosSantana	20	JWMarriott	11
+CaryGrant	17	KatharineHepburn	13
+CatherineDeneuve	31	MichelPiccoli	31
+CatherineDeneuve	37	HerbertLom	37
+CatherineSchell	36	KevinBacon	25
+CharlesBoyer	26	IsabelleHuppert	2
+CharlesBoyer	32	WilliamDafoe	16
+CharlesGrodin	9	IsabelleAdjani	11
+CharlieChaplin	5	RicardoMontalbаn	1
+CharlieChaplin	6	JeanPeters	13
+CharlieChaplin	8	HumphreyBogard	27
+CharlieSheen	8	JosephStalin	4
+CharltonHeaston	20	MerkouriMelina	16
+ChristopherPlummer	14	ElsaMartinelli	24
+ChristopherWalken	22	FrancescaAnnis	30
+ChristopherWalken	26	MendeleievDmitri	7
+ClarkGable	2	JudyGarland	23
+ClarkGable	4	VittorioGassman	29
+ClarkGable	5	ErrolFlynn	32
+ClarkGable	8	VittorioGassman	29
+ClaudeLВviStrauss	2	JamieLeeCurtis	11
+ClaudeRich	1	KostasXatzixristos	5
+CliffRobertson	20	JessicaTandy	7
+CliffRobertson	21	GenaRowlands	1
+CliffRobertson	27	SusannahYork	4
+ClintEastwood	7	JamesArness	9
+ConnieBooth	30	HumphreyBogard	24
+CybillShepherd	15	MichaelCaine	11
+CybillShepherd	20	TommyLeeJones	32
+DanaAndrews	4	EliWallach	8
+DannyDeVito	23	RaquelWelch	8
+DavidCarradine	13	KevinBacon	43
+DavidCarradine	2	PabloPicasso	7
+DavidNiven	3	MarlonBrando	5
+Dee	17	RayLiotta	11
+Dee	4	KevinSpacey	11
+Dench	16	VincentPrice	17
+DianneWiest	15	WilliamShatner	28
+DianneWiest	24	JamesStewart	5
+DickVanDyke	4	VincentPrice	36
+DirkBogarde	9	WilliamShatner	25
+DonnaDouglas	17	TommySands	2
+DonnaDouglas	18	PeggyAshcroft	27
+DorisDay	30	GlennClose	1
+DorisDay	45	PatriciaNeal	3
+DyanCannon	23	QueenElizabet	10
+EdwigeFenech	34	SimonMacCorkindale	12
+Einstain	1	JulieAndrews	30
+Einstain	10	GeorgeMontgomery	11
+Einstain	7	IsabelleHuppert	21
+ElVenizelos	4	JaneBirkin	5
+EliWallach	20	OliviaHussey	7
+EliWallach	23	RobertDuvall	24
+EllenBurstyn	14	MuhammadAli	26
+EllenBurstyn	29	Konstantaras	4
+ElliottGould	1	MaryTylerMoore	8
+ElliottGould	2	FredAstaire	23
+ElliottGould	3	GordonThomson	26
+ElsaMartinelli	10	MaryTamm	4
+ErnestHemingway	18	SteveMcQueen	26
+ErnestRutherford	3	PeterOToole	7
+ErnestRutherford	9	GraceKelly	15
+FernandoRey	5	KostasVoutsas	15
+FessParker	13	TimCurry	10
+FidelCastro	2	LindsayWagner	1
+FidelCastro	9	PeggyAshcroft	20
+Fotopoulos	7	MarcelloMastroianni	40
+FrancescaAnnis	1	JudyHolliday	2
+FrancescaAnnis	14	RockHudson	36
+FredMacMurray	11	MargeChampion	1
+FredMacMurray	5	GaryOldman	19
+FrederickSanger	1	PatrickSwayze	15
+GabrielGarciaMarquez	20	JuneAllyson	7
+GabrielGarciaMarquez	21	JamesWoods	21
+GabrielGarciaMarquez	4	VirnaLisi	14
+Gaddafi	24	TomHanks	6
+GaryOldman	32	KirkDouglas	8
+Garycooper	1	WoodyAllen	16
+Garycooper	5	TildaSwinton	8
+GenaRowlands	26	GladysCooper	14
+GenaRowlands	30	JohnDRockefeller	13
+GenaRowlands	42	GraceKelly	6
+GenaRowlands	6	KimNovak	2
+GeneHackman	11	RobertPowell	12
+GeneHackman	13	JuneAllyson	11
+GeneHackman	4	mitsotakis	15
+GeorgeCScott	19	LawrenceTierney	18
+GeorgeHWBush	10	JohnForsythe	2
+GeorgeMontgomery	23	campbell	22
+GeraldineChaplin	10	IsabelleHuppert	4
+GiulianoGemma	20	RayDanton	5
+GladysCooper	46	MikeConnors	15
+GlendaJackson	14	PeggyAshcroft	24
+GlendaJackson	9	RayLiotta	27
+GloriaSwanson	17	VeronicaLake	7
+GloriaSwanson	7	NielsBohr	9
+GreerGarson	6	MariaCallas	16
+GregorMendel	8	LeslieNielsen	1
+GregoryPeck	13	YvonneDeCarlo	9
+GregoryPeck	19	MerylStreep	25
+GretaGarbo	20	JamesWoods	7
+GretaGarbo	6	MaryTamm	23
+HarrisonFord	10	michaeljackson	4
+HarrisonFord	14	PhilHartman	7
+HatzidakisManos	7	MikeConnors	19
+HeinrichHertz	5	MendeleievDmitri	8
+HelenHayes	15	SophiaLoren	25
+HelenHunt	34	SamuelJacksonn	17
+HelmutBerger	16	VeronicaLake	5
+HelmutBerger	22	PatriciaNeal	18
+HerbertLom	11	LauraAntonelli	7
+HerbertLom	11	Pele	7
+Houston	17	MaryTylerMoore	28
+HumphreyBogard	25	JuneLockhart	3
+IanMcKellen	1	MichellePfeiffer	29
+IanMcKellen	5	JPMorgan	9
+IlyaPrigogine	1	TheodorakisMikis	21
+IlyaPrigogine	8	TheodoreRoosevelt	10
+IngridBergman	12	RayDanton	6
+IngridBergman	16	MegRyan	16
+IsabelleAdjani	16	JanetLeigh	3
+JPMorgan	6	SteveKanaly	6
+JPaulGetty	3	SteveJobsb	14
+JackLarson	1	StevenSpielberg	7
+JamesCagney	4	PeterUstinov	6
+JamesGarner	28	StephenHawking	9
+JamesStewart	20	SigourneyWeaver	19
+JamesWoods	20	JohnCassavetes	24
+JamieLeeCurtis	26	KimBasinger	15
+JaneBirkin	17	OliviadeHavilland	1
+JeanPeters	3	KathyBates	24
+JeanetteMacDonald	11	WilliamHolden	30
+JeanneMoreau	22	JeffDaniels	12
+JeanneMoreau	3	JessicaTandy	28
+JeffDaniels	3	MaximilianShell	21
+JeffGoldblum	15	LelandStanford	4
+JeffGoldblum	21	Thanasisveggos	17
+JenniferAniston	3	LeifErickson	20
+JenniferJones	14	MonicaVitti	2
+JenniferJones	16	StevenSpielberg	23
+JoanCollins	16	RichardChamberlain	31
+JoanCrawford	18	RexHarrison	22
+JodieFoster	25	StevenBerkoff	9
+JohnCassavetes	3	JohnJames	11
+JohnDRockefeller	7	campbell	20
+JohnDerek	13	StephenHawking	1
+JohnForsythe	24	RoyScheider	15
+JohnGarfield	26	MichaelSarrazin	12
+JohnHuston	11	TonyCurtis	21
+JonFinch	16	SigourneyWeaver	12
+JonVoight	41	QueenElizabet	15
+JudyDavis	17	RodTaylor	30
+JudyGarland	3	TommySands	23
+JudyHolliday	21	Turner	11
+JulieAndrews	27	MargaretNolan	17
+JulieChristie	27	VanessaRedgrave	40
+JuneAllyson	1	TellySavalas	1
+JuneAllyson	16	ZsaZsaGabor	20
+JuneAllyson	24	MargaretThatcher	5
+KatharineHepburn	19	TanyaRoberts	7
+KatharineRoss	3	ThomasTerry	1
+KathleenTurner	11	SidneyPoitier	10
+KathrynHays	23	WaltDisney	11
+KathrynHays	24	PierceBrosnan	30
+KevinCostner	15	SimoneSignoret	3
+KevinSpacey	23	Soljenitsyne	13
+KirkDouglas	10	TonyBlair	8
+KlausKinski	20	MaggieSmith	24
+KlausKinski	8	Ross	5
+KristinScottThomas	24	RobertMorley	13
+LauraDern	10	RogerAllam	4
+LaurenBacall	31	StacyKeach	15
+LawrenceTierney	11	SamNeill	26
+LeifErickson	6	TheodoreRoosevelt	11
+LelandStanford	3	PaulmcCartney	18
+LeslieCaron	33	RalphMacchio	3
+LeslieNielsen	17	SeanConnery	10
+LexBarker	4	RobertRedford	24
+LindsayWagner	2	RichardChamberlain	17
+LindsayWagner	6	WilliamHolden	3
+LorneGreene	24	merrillcharles	1
+MargaretThatcher	22	NielsBohr	15
+MargeChampion	24	MichaelBloomberg	4
+MarisaPavan	27	WaltDisney	5
+MartinScorsese	11	MickeyRooney	2
+MartinScorsese	4	WillSmith	25
+MaryPickford	13	PamelaSueMartin	19
+MaryTamm	2	campbell	3
+MaryTylerMoore	11	TheodoreRoosevelt	5
+MerkouriMelina	3	SidneyPoitier	37
+MerylStreep	19	StacyKeach	35
+MichaelBloomberg	10	ShirleyJones	10
+MichaelKeaton	10	RayLiotta	17
+MickJagger	1	PierceBrosnan	1
+MickJagger	39	TheodorakisMikis	25
+MickeyRooney	22	VeraEllen	21
+MuhammadAli	4	SophiaLoren	18
+MyrnaLoy	11	VeronicaLake	1
+MyrnaLoy	5	WillSmith	49
+NickNolte	16	Pele	17
+NormaShearer	17	RockHudson	18
+OliviaHussey	27	OrsonWelles	18
+PatriciaNeal	33	WaltDisney	1
+PatriciaNeal	7	TildaSwinton	10
+PatrickSwayze	18	RandolphScott	11
+PaulmcCartney	19	SimonMacCorkindale	20
+PeterOToole	9	ScottGlenn	20
+QueenElizabet	9	RaquelWelch	14
+RafVallone	34	ZsaZsaGabor	28
+RichardBurton	16	SophiaLoren	17
+RichardBurton	3	VeronicaLake	2
+RichardChamberlain	31	cambell	1
+RingoStarr	29	StevenSpielberg	9
+RobertRedford	9	WilliamDafoe	3
+RogerAllam	15	VanessaRedgrave	16
+RonaldReagan	3	TippiHedren	24
+RonaldReagan	30	TonyCurtis	29
+Ross	3	YannisRitsos	6
+RowanAtkinson	13	TanyaRoberts	18
+RoyScheider	16	TonyBlair	10
+SarahDouglas	14	SteveJobsb	3
+ShelleyWinters	10	StefaniePowers	26
+SpencerTracy	7	cambell	1
+StefaniePowers	9	TonyCurtis	27
+ThomasTerry	28	mitsotakis	10
+TildaSwinton	16	WilliamDafoe	1
+TomHulce	5	WillSmith	12
+TommySands	6	YvesMontand	10
+VivienLeigh	2	mahatmagandhi	18
+cambell	1	campbell	11
+AlCorley	10	15
+AlCorley	16	21
+AlKapone	14	15
+AlPacino	11	21
+AlanRickman	14	17
+AlanRickman	9	15
+AlanRickman	9	27
+AlbertoSordi	3	5
+AlexanderGrahamBell	7	9
+AliMacGraw	18	31
+AmandaBlake	3	31
+AndreMarieAmpКre	4	5
+AndreasPapantreou	14	16
+AnitaEkberg	15	20
+AnjelicaHuston	12	15
+AnneBancroft	8	13
+AnnieGirardot	19	35
+AnthonyQuayle	2	28
+Arletty	11	22
+Arletty	26	27
+ArmandAssante	3	9
+ArnoldSchwarzenegger	2	5
+AudreyHepburn	37	38
+BarbaraBain	11	13
+BarbaraBouchet	2	33
+BarbaraBouchet	3	22
+BarbaraStanwyck	22	25
+BarbraStreisand	5	11
+BeaArthur	14	32
+BernadetteLafont	2	29
+BerryGordy	1	6
+BerryGordy	3	11
+BertrandRussell	2	19
+BetteDavis	4	23
+BetteMidler	7	32
+BettyGarrett	4	32
+BettyGarrett	5	24
+BeverlyRoberts	10	12
+BillCosby	18	26
+BillCosby	7	18
+BillCosby	7	19
+BillNighy	18	30
+BoDerek	12	15
+BoDerek	13	22
+BoDerek	4	12
+BoDerek	5	10
+Bono	6	28
+BurtReynolds	16	27
+CelesteHolm	3	19
+CharlesBronson	11	13
+CharlieChaplin	5	6
+CharlieChaplin	6	18
+CharlieSheen	3	12
+CharlieSheen	8	11
+ClaudeLВviStrauss	6	16
+ClaudetteColbert	15	23
+ClaudetteColbert	4	30
+ClaudiaCardinale	19	25
+CliffRobertson	4	23
+ClintWalker	28	33
+CydCharisse	5	33
+CyndiLauper	3	15
+DaliahLavi	11	23
+DavidSarnoff	11	15
+DavidSarnoff	4	11
+DavidSarnoff	6	19
+DeborahKerr	19	27
+Dee	6	7
+DenzelWashington	7	16
+DianneWiest	2	24
+DianneWiest	7	20
+DickieMoore	6	7
+DonnaReed	14	22
+DorisDay	5	15
+DyanCannon	43	47
+EdHarris	10	30
+EdwardFox	2	4
+EdwardGRobinson	15	42
+EdwardTeller	10	21
+EdwardTeller	11	15
+Einstain	4	7
+ElizabethTaylor	2	12
+ElizabethTaylor	8	11
+ElkeSommer	21	26
+ElkeSommer	3	24
+ElsaMartinelli	17	22
+ElvisPresley	4	7
+EnricoFermi	8	9
+ErnestBorgnine	12	17
+ErnestBorgnine	33	37
+ErnestRutherford	5	19
+ErrolFlynn	13	29
+EsteeLauder	1	7
+EsteeLauder	2	12
+FaradayMichael	2	15
+FayeDunaway	1	12
+FayeDunaway	1	5
+FernandoRey	10	26
+FlemingAlex	1	12
+Fotopoulos	1	8
+Fotopoulos	7	12
+FrancescaAnnis	17	32
+GaryOldman	10	11
+GaryOldman	14	27
+GaryOldman	3	36
+Garycooper	3	8
+Garycooper	4	6
+GenaRowlands	1	7
+GeneWilder	13	19
+GeorgeHWBush	7	11
+GeorgePeppard	4	35
+GeorgesMarchal	17	23
+GeraldineChaplin	20	42
+GilbertRoland	3	8
+GladysCooper	13	34
+GloriaSwanson	19	30
+GoldieHawn	6	22
+GordonThomson	15	21
+GraceKelly	15	20
+GraceKelly	4	18
+GregorMendel	2	7
+GregoryPeck	7	8
+HarveyKeitel	13	21
+HatzidakisManos	1	12
+HeinrichHertz	2	4
+HelenHayes	31	39
+HelmutBerger	1	14
+HerbertLom	8	27
+HumphreyBogard	4	21
+IanHolm	6	28
+IanMcKellen	2	8
+IngridBergman	9	14
+JackLarson	4	8
+JackLemon	2	6
+JackNicolson	3	10
+JamesArness	18	31
+JamesArness	2	39
+JamesBest	13	17
+JamesCagney	13	25
+JamesStewart	2	13
+JamesWoods	6	15
+JamieLeeCurtis	14	28
+JamieLeeCurtis	2	24
+JanetLeigh	6	11
+JeanGabin	2	9
+JeanGabin	7	14
+JeanMarais	1	25
+JeanMarais	3	30
+JeanPaulBelmondo	7	23
+JeanPeters	8	9
+JeanetteMacDonald	44	49
+JeanneMoreau	14	32
+JeffBridges	6	8
+JeffDaniels	24	32
+JeffreyJones	2	4
+JeremyKemp	12	16
+JeremyKemp	9	15
+JoanCollins	2	6
+JoanCrawford	3	20
+JoanFontaine	13	17
+JoanLeslie	9	28
+JoanLorring	15	30
+JoanneWoodward	16	19
+JoanneWoodward	17	26
+JoanneWoodward	6	24
+JodieFoster	11	27
+JohnMalkovich	3	20
+JohnMalkovich	9	31
+JohnVernon	9	27
+JohnWayne	12	21
+JudyDavis	13	17
+JudyGarland	6	15
+JudyHolliday	2	9
+JulieAndrews	5	26
+JulieBishop	11	18
+JulieHagerty	14	27
+KateOMara	37	44
+KevinCostner	4	26
+KirkDouglas	1	13
+KirkDouglas	6	14
+Konstantaras	1	17
+Konstantaras	6	13
+KrisKristofferson	11	20
+LarryEllison	1	5
+LaurenBacall	2	18
+LeifErickson	5	26
+LelandStanford	6	11
+LeslieCaron	18	24
+LeslieNielsen	10	19
+LiamNeeson	4	7
+LinoVentura	8	13
+LizaMinelli	9	23
+LorneGreene	4	24
+LouCostello	15	18
+LouCostello	19	22
+LyleTalbot	12	20
+MargaretNolan	2	20
+MargeChampion	14	18
+MarieCurie	2	15
+MarisaPavan	24	28
+MartinLutherKing	18	23
+MaryPickford	11	26
+MaryTamm	11	23
+MaryTylerMoore	9	25
+MelBrooks	2	13
+MelFerrer	8	13
+MichaelSarrazin	1	14
+MichaelYork	14	16
+MichelPiccoli	1	13
+MickeyRooney	1	30
+MonicaVitti	27	34
+MonicaVitti	9	16
+Mparkoulis	8	11
+MurrayHamilton	10	12
+MylКneDemongeot	19	23
+NickNolte	20	32
+OdysseasElytis	1	3
+OliviadeHavilland	8	12
+OmarSharif	10	16
+Onasis	4	6
+PabloPicasso	7	8
+PatriciaNeal	10	32
+PatrickSwayze	3	21
+PaulAnka	18	30
+PeterFalk	31	43
+PeterFonda	10	16
+PeterMarkRichman	11	15
+PiaLindstrom	1	24
+QueenElizabet	22	24
+RafVallone	17	30
+RafVallone	22	23
+RalphMacchio	7	32
+RandolphScott	13	14
+RayDanton	1	7
+RayDanton	17	19
+RayLiotta	7	20
+RexHarrison	1	31
+RexHarrison	17	24
+RichardCrenna	21	22
+RobertDeNiro	5	14
+RobertDeNiro	6	8
+RobertMorley	23	33
+RockHudson	25	27
+RogerMoore	13	24
+RomanPolanski	3	51
+RomySchneider	10	15
+Ross	9	15
+RoyScheider	23	33
+RoyScheider	36	54
+RutgerHauer	17	22
+SamNeill	19	30
+SarahDouglas	23	26
+SeanConnery	8	11
+SerenaWilliams	9	20
+ShirleyMacLaine	9	14
+ShirleyMacLaine	9	18
+SidneyPoitier	11	27
+SimonMacCorkindale	14	22
+SimoneSignoret	22	32
+Soljenitsyne	1	11
+SpencerTracy	3	5
+StacyKeach	14	34
+StacyKeach	4	10
+StacyKeach	9	17
+StefaniePowers	10	15
+StephenHawking	6	7
+StephenHawking	8	19
+SteveKanaly	1	18
+SteveMcQueen	1	24
+StevenBerkoff	5	32
+StevenBerkoff	6	24
+StevenSeagal	4	20
+StВphaneAudran	11	15
+SusanGeorge	7	8
+SusanSarandon	17	29
+SusanSarandon	27	32
+SylvesterStallone	16	19
+Thanasisveggos	7	12
+ThelmaRitter	10	17
+TheodoreRoosevelt	5	11
+ThomasTerry	20	24
+TimothyDalton	4	7
+TomHanks	6	16
+TomHulce	19	31
+TommyLeeJones	2	19
+TonyBlair	13	16
+Tyson	30	31
+UgoTognazzi	3	4
+UrsulaAndress	1	30
+VincentPrice	11	17
+VirnaLisi	13	36
+WEBDuBois	5	6
+WaltDisney	7	10
+WalterPidgeon	13	21
+YvonneDeCarlo	21	24
+ZsaZsaGabor	17	18
+angelamerkel	4	8
+campbell	18	19
+michaeljackson	4	9
+mitsotakis	13	15
+AdolfHitlerr	12	VictorMature	26
+AdolfHitlerr	6	MurrayHamilton	24
+AlKapone	4	AudreyHepburn	24
+AlanYoung	23	VanessaRedgrave	35
+AlbertSchweitzer	5	IngridBergman	22
+AlbertSchweitzer	7	RexHarrison	1
+AlbertSchweitzer	8	TheodoreRoosevelt	10
+AlecGuinness	33	RichardPryor	13
+AlejandroRey	4	SusanGeorge	15
+AlexanderGrahamBell	11	GloriaSwanson	22
+AlexandrakisAlekos	6	GloriaSwanson	2
+AliMacGraw	12	DavidCarradine	24
+AlikiBoug	14	BoDerek	17
+AlikiBoug	20	JoanneWoodward	23
+AlikiBoug	22	MichellePfeiffer	4
+AmandaBlake	16	RuthGordon	10
+AmandaRedman	13	FrancesDee	15
+AmandaRedman	23	RichardCrenna	34
+AmandaRedman	27	PatrickStewart	28
+AngelaLansbury	15	StevenSeagal	5
+AngelaLansbury	26	ElkeSommer	16
+AngieDickinson	16	ClarkGable	7
+AngieDickinson	45	CyndiLauper	4
+AnjelicaHuston	21	JamesCoburn	7
+AnjelicaHuston	30	RichardBoone	6
+AnnMargret	2	PeterUstinov	2
+AnnaMassey	12	ImeldaStaunton	3
+AnneBancroft	22	MickJagger	7
+AnthonyAndrews	2	AvaGardner	2
+AnthonyPerkins	1	RobertMorley	10
+AnthonyPerkins	30	GloriaSwanson	21
+AnthonyPerkins	9	LorneGreene	2
+Arletty	1	BurtReynolds	10
+Arletty	1	CaryGrant	30
+Arletty	13	RoseMarie	8
+Arletty	9	CharlesDarwin	5
+ArmandAssante	15	MaureenOHara	18
+ArnoldSchwarzenegger	23	HelenHayes	9
+AvaGardner	23	Fotopoulos	7
+AvaGardner	24	SilvanaMangano	31
+BarbaraStanwyck	2	HarveyKeitel	32
+BarbaraStanwyck	23	KristinScottThomas	27
+BarbaraStanwyck	25	LouisJourdan	3
+BarbraStreisand	1	GeorgePeppard	21
+BarbraStreisand	27	KevinBacon	4
+BeaArthur	25	Einstain	6
+BernadetteLafont	12	PhilHartman	12
+BernadetteLafont	38	PaulAnka	27
+BerryGordy	1	PeggyLipton	6
+BerryGordy	7	EliWallach	5
+BerryGordy	8	JeanetteMacDonald	32
+BetteDavis	28	VeraEllen	16
+BetteMidler	2	CarlMarx	2
+BeverlyRoberts	12	MaximilianShell	28
+BillMurray	2	LiamNeeson	13
+BillNighy	21	HenryFonda	2
+BoDerek	1	JanetGaynor	7
+BoDerek	12	JamesCaan	22
+BoDerek	20	LindaEvans	10
+BobDylan	12	JohnnyCash	44
+BobDylan	2	MelFerrer	19
+BonnieHunt	13	PatrickSwayze	3
+BonnieHunt	15	IsabelleHuppert	26
+Bono	10	LizaMinelli	23
+BrianDennehy	14	TomHanks	26
+BurtLancaster	8	WinstonChurchill	9
+BurtReynolds	37	JohnWayne	11
+CarlSagan	13	GeraldinePage	27
+Carroll	21	VeronicaLake	15
+CaryGrant	13	LarryEllison	2
+CatherineDeneuve	24	HeinrichHertz	5
+CatherineDeneuve	35	RayLiotta	20
+CharlesBoyer	31	MerylStreep	6
+CharlesGrodin	9	ClintWalker	2
+CharltonHeaston	1	RexHarrison	21
+ChevyChase	13	DannyDeVito	3
+ChevyChase	21	CliffRobertson	29
+ClaudeRich	24	TippiHedren	6
+ClaudiaCardinale	26	EllenBurstyn	13
+ClintWalker	24	SpencerTracy	5
+ConradHilton	9	SamNeill	21
+DaliahLavi	22	JPaulGetty	7
+DanielleDarrieux	31	YannisRitsos	3
+DanielleDarrieux	4	MichaelBloomberg	16
+DannyDeVito	11	LuiseRainer	33
+DannyDeVito	9	RyanONeal	2
+DavidCarradine	3	MickJagger	18
+DavidMcCallum	23	JohnCassavetes	29
+DavidMcCallum	26	Pele	6
+DavidMcCallum	4	ErrolFlynn	16
+DavidNiven	30	JamesArness	11
+DavidNiven	8	RobertOppenheimer	7
+Davis	11	JoanCusack	26
+Davis	7	DebbieReynolds	27
+Davis	8	ValerieHarper	10
+DeborahKerr	11	SteveJobsb	6
+DebraPaget	12	JamesCagney	7
+DebraPaget	4	SerenaWilliams	15
+DenzelWashington	10	LindsayWagner	19
+DerekJacobi	15	JoanCrawford	15
+DianneWiest	18	SteveMartin	14
+DianneWiest	2	PaulAnka	36
+DianneWiest	4	GiulianoGemma	17
+DirkBogarde	19	Gorbachev	16
+DustinHoffman	25	EllenBurstyn	30
+EdwardFox	17	HumphreyBogard	4
+EdwardFox	38	JoanCrawford	13
+EdwardGRobinson	42	JohnCassavetes	12
+EdwardGRobinson	43	RexHarrison	31
+Einstain	3	Gaddafi	7
+Einstain	9	NelsonMandela	10
+ElizabethTaylor	12	GoldieHawn	10
+ElizabethTaylor	9	LorettaYoung	8
+ElkeSommer	2	HarrySTruman	3
+ElkeSommer	26	GraceKelly	23
+ElliottGould	5	JamesArness	9
+ElvisPresley	28	FernandoRey	10
+ElvisPresley	6	KostasXatzixristos	11
+ErnestHemingway	1	SarahDouglas	13
+ErnestHemingway	14	ErnestRutherford	13
+ErnestHemingway	7	RobertRedford	29
+ErrolFlynn	7	MargaretThatcher	2
+EsteeLauder	19	RabindranathTagore	1
+FernandoRey	1	KlausKinski	12
+FidelCastro	6	MendeleievDmitri	2
+FrancesDee	31	JeanPaulBelmondo	24
+FrancesDee	8	GenaRowlands	21
+FrancescaAnnis	4	Houston	20
+FranklinDRoosevelt	11	VictorMature	24
+FredMacMurray	10	Konstantaras	1
+FrederickSanger	6	TheodorakisMikis	25
+FriedrichNietzsche	13	MargaretNolan	5
+Gaddafi	21	motherTereza	8
+GalileoGalilei	7	KlausKinski	4
+GaryOldman	8	GeorgePeppard	20
+GenaRowlands	39	JackLarson	16
+GeorgeHWBush	11	TheodorakisMikis	17
+GeorgeMontgomery	13	MurrayHamilton	4
+GeorgePeppard	2	HowardKeel	18
+GeorgePeppard	8	JudyDavis	21
+GeraldineChaplin	36	RichardBoone	14
+GilbertRoland	27	TimothyDalton	11
+GingerRogers	10	MarisaPavan	9
+GingerRogers	28	LauraDern	12
+GiorgosSeferis	1	LeifErickson	27
+GiulianoGemma	12	LeslieNielsen	15
+GregorMendel	1	SusannahYork	14
+GregorMendel	2	MaryTylerMoore	35
+HarrisonFord	2	MichellePfeiffer	7
+HarrisonFord	5	ZsaZsaGabor	15
+HarrySTruman	14	RogerMoore	13
+HarveyKeitel	13	RoyRogers	28
+HarveyKeitel	22	RingoStarr	10
+HarveyKeitel	27	SimoneSignoret	27
+HarveyKeitel	7	WilliamHolden	29
+HedyLamarr	10	JosephCotten	26
+HeinrichHertz	8	MichaelPalin	15
+HelenHayes	32	LivUllmann	9
+HelmutBerger	13	SpencerTracy	8
+HerbertLom	39	Soljenitsyne	13
+HowardKeel	35	MonicaVitti	26
+HumphreyBogard	19	UrsulaAndress	18
+HumphreyBogard	2	MargaretOBrien	7
+HumphreyBogard	26	ShirleyJones	14
+IanMcKellen	30	MurrayHamilton	23
+IanMcKellen	5	TellySavalas	1
+IanMcKellen	8	SilvanaMangano	7
+IlyaPrigogine	12	LorneGreene	20
+IsabelleAdjani	29	JeanetteMacDonald	3
+IsabelleAdjani	5	LeslieNielsen	25
+IsabelleHuppert	3	tomselleck	13
+JPaulGetty	7	LilliPalmer	11
+JackColeman	17	JaneFonda	16
+JackLemon	25	JanetGaynor	10
+JamesCaan	16	JeanneMoreau	36
+JamesCaan	17	MaryPickford	26
+JamesCagney	28	NelsonMandela	23
+JamesCoburn	14	RobertMorley	5
+JamesCoburn	8	Pele	26
+JamieLeeCurtis	22	JohnHuston	25
+JaneAsher	21	KathrynGrayson	28
+JaneAsher	29	JoanneWoodward	19
+JanetEllis	13	LauraDern	16
+JanetGaynor	24	PeterOToole	2
+JanetLeigh	18	KrisKristofferson	15
+JanetLeigh	4	RoyRogers	36
+JeanPaulBelmondo	30	YannisRitsos	12
+JeanetteMacDonald	40	RitaLeviMontalcini	12
+JeffreyJones	5	TheodorakisMikis	24
+JeffreyJones	6	RitaHayworth	2
+JenniferAniston	16	TommySands	2
+JenniferJones	27	JohnWayne	18
+JeremyKemp	12	TonyCurtis	7
+JerryLewis	8	OliviaHussey	23
+JessicaTandy	25	LiamNeeson	3
+JhonLenon	30	RobertOppenheimer	1
+JoanCollins	23	LiamNeeson	9
+JoanCollins	23	ShirleyJones	1
+JoanLeslie	20	NormaShearer	1
+JodieFoster	13	KirkDouglas	11
+JohnForsythe	2	SophiaLoren	15
+JohnForsythe	27	LyleTalbot	14
+JohnHuston	2	WilliamShatner	9
+JohnJames	2	RonaldReagan	32
+JohnJames	6	KlausKinski	12
+JohnTravolta	16	ShirleyMacLaine	4
+JohnTravolta	24	MaryTamm	14
+JohnVernon	18	RobertMitchum	3
+JohnnyCash	42	LindaEvans	27
+JonVoight	6	RonaldReagan	13
+JudyDavis	15	JulieHagerty	19
+JudyGarland	8	JulieChristie	15
+JulieAndrews	10	RabindranathTagore	4
+JulieAndrews	28	RicardoMontalbаn	33
+JuneAllyson	12	KirkDouglas	3
+KatharineHepburn	9	TanyaRoberts	11
+KatharineRoss	6	RonaldReagan	1
+KathrynGrayson	12	MurrayHamilton	2
+KathrynHays	20	LiamNeeson	25
+KathrynHays	20	MichaelPalin	2
+KathrynHays	21	MireilleDarc	33
+KathrynHays	6	MariaCallas	12
+KathyBates	15	VincentPrice	8
+KennethBranagh	16	ReginaldOwen	7
+KimNovak	15	LindsayWagner	8
+KirkDouglas	17	Turner	13
+KirkDouglas	7	MikeConnors	16
+KostasVoutsas	17	RingoStarr	34
+KostasXatzixristos	8	LouCostello	17
+KristinScottThomas	13	RayDanton	1
+LarryEllison	14	LauraDern	3
+LauraAntonelli	25	WEBDuBois	13
+LeifErickson	25	NewmanPaul	13
+LelandStanford	8	PatriciaNeal	18
+LeslieNielsen	20	MaximilianShell	20
+LinoVentura	30	TomJones	36
+LorettaYoung	3	ReginaldOwen	7
+LorneGreene	8	MartinSheen	36
+LouisJourdan	21	RichardCrenna	18
+LuiseRainer	27	SteveKanaly	25
+LyleTalbot	33	StВphaneAudran	25
+MargaretNolan	20	MickJagger	3
+MargaretNolan	9	MartinLutherKing	28
+MargeChampion	25	ShirleyJones	32
+MarietteHartley	21	MorganFreeman	64
+MarietteHartley	30	SamNeill	24
+MartinScorsese	3	MichaelSarrazin	12
+MaryPickford	3	campbell	10
+MaryTamm	14	RodTaylor	23
+MaureenOHara	2	MelFerrer	11
+MelFerrer	13	RobertOppenheimer	9
+MelFerrer	2	MelGibson	32
+MelindaDillion	24	PhilHartman	4
+MichaelBloomberg	18	PaulAnka	9
+MichaelSarrazin	17	MireilleDarc	20
+MichelPiccoli	15	OdysseasElytis	3
+MichelPiccoli	49	MylКneDemongeot	5
+MichellePfeiffer	15	YvesMontand	5
+MickeyRooney	11	RexHarrison	15
+MikeConnors	18	NewmanPaul	11
+MikeConnors	32	PaulmcCartney	20
+MonicaVitti	13	RichardChamberlain	7
+MorganFreeman	9	SartreJeanPaul	9
+NelsonMandela	15	OrnellaMuti	27
+NewmanPaul	10	ThelmaRitter	10
+NickNolte	3	PeggyLipton	11
+NormaShearer	1	tomselleck	32
+OmarSharif	17	WarrenBeatty	15
+OmarSharif	19	SimonMacCorkindale	26
+Onasis	11	SimonMacCorkindale	14
+OrsonWelles	17	TomasMilian	17
+PabloPicasso	14	RichardBoone	6
+PabloPicasso	2	SteveMartin	13
+PatrickStewart	18	SidneyPoitier	4
+PeggyLipton	8	RichardCrenna	5
+PeterFalk	8	TonyCurtis	18
+PeterGraves	20	StВphaneAudran	11
+RandolphScott	3	RoseMarie	2
+RaquelWelch	17	SartreJeanPaul	12
+RichardBoone	28	SamElliott	14
+RichardChamberlain	31	RomanPolanski	30
+RichardCrenna	36	ShelleyWinters	5
+RingoStarr	36	VincentPrice	6
+RitaHayworth	8	ZsaZsaGabor	22
+RobertDeNiro	12	RomySchneider	6
+RobertDuvall	25	SerenaWilliams	12
+RobertOppenheimer	15	YvonneDeCarlo	3
+RobertRedford	17	SteveMcQueen	9
+RogerAllam	26	StevenSpielberg	9
+RogerMoore	10	ScottGlenn	22
+RogerMoore	18	SusannahYork	24
+RoyRogers	36	TonyBlair	2
+RoyScheider	53	SimonMacCorkindale	20
+RutgerHauer	21	ValerieHarper	25
+ShirleyJones	21	StefaniePowers	19
+SilvanaMangano	32	VittorioGassman	1
+SteveKanaly	16	TheodorakisMikis	4
+StevenSpielberg	17	SylvesterStallone	20
+TomHanks	33	merrillcharles	2
+WilliamHolden	28	WinstonChurchill	2
+AbeVigoda	18	31
+AbeVigoda	25	28
+AbeVigoda	27	30
+AdolfHitlerr	10	12
+AlKapone	7	8
+AlPacino	5	13
+AlainDelon	21	24
+AlbertSchweitzer	3	5
+AlbertSchweitzer	5	10
+AlejandroRey	1	11
+AndreasPapantreou	6	25
+AndyGriffith	20	29
+AndyGriffith	5	16
+AngelaLansbury	12	37
+AngelaLansbury	26	31
+AngelaLansbury	6	41
+AnitaEkberg	20	23
+AnnMiller	6	26
+AnnaMassey	5	8
+AnnetteBening	19	22
+AnthonyHopkins	18	32
+Arletty	15	25
+AvaGardner	14	23
+BarbaraBain	26	31
+BarbaraStanwyck	13	24
+BeaArthur	3	8
+BenGazzara	11	35
+BetteDavis	6	25
+BetteMidler	4	23
+BeverlyRoberts	3	14
+BillMurray	2	32
+BillNighy	14	25
+BobHope	21	31
+BonnieHunt	4	9
+Bono	13	34
+BorisKarloff	24	27
+BurtLancaster	20	23
+BurtLancaster	4	24
+BurtReynolds	34	39
+CHARLIERUGGLES	13	25
+CHARLIERUGGLES	22	27
+CarlMarx	4	8
+CarlMarx	9	11
+Carroll	6	20
+CaryGrant	25	34
+CharlieSheen	10	26
+ChevyChase	5	34
+ChevyChase	9	10
+ChristopherWalken	20	30
+ChristopherWalken	7	40
+ChuckNorris	7	22
+ChuckNorris	7	35
+ClaudeRich	3	10
+ConnieBooth	10	26
+ConnieBooth	11	30
+CyndiLauper	15	17
+DavidMcCallum	2	6
+DavidSarnoff	3	18
+Davis	8	14
+DebbieReynolds	30	38
+DebraPaget	24	27
+Dee	4	9
+Dench	11	12
+Dench	3	8
+DenzelWashington	7	14
+DerekJacobi	13	26
+DickieMoore	14	28
+DonJohnson	36	37
+DyanCannon	16	17
+EdHarris	1	25
+EdHarris	15	35
+ElVenizelos	4	13
+ElizabethTaylor	2	10
+ElkeSommer	10	21
+ElliottGould	2	5
+ElsaMartinelli	11	15
+ElvisPresley	19	23
+EmmaThompson	2	20
+EmmaThompson	5	9
+ErnestHemingway	8	16
+EstherWilliams	1	15
+EstherWilliams	3	10
+EvaMarieSaint	2	19
+FaradayMichael	5	9
+Fernandel	10	11
+FidelCastro	1	7
+Fotopoulos	2	11
+FrancesDee	8	10
+FrancescaAnnis	6	18
+FrankSinatra	11	13
+FredAstaire	6	18
+FredMacMurray	13	34
+FriedrichNietzsche	4	15
+GabrielGarciaMarquez	13	15
+Gaddafi	17	25
+GeorgeHWBush	1	9
+GeorgeHWBush	2	6
+GeorgeMontgomery	3	22
+GeorgePeppard	3	31
+GeraldineChaplin	1	48
+GeraldineChaplin	5	37
+GeraldinePage	20	32
+GilbertRoland	13	19
+GilbertRoland	16	17
+GingerRogers	5	8
+GiorgosSeferis	4	5
+GiulianoGemma	29	31
+GiulianoGemma	7	12
+GladysCooper	31	52
+GlennClose	21	22
+GlennClose	7	14
+GloriaSwanson	16	28
+GretaGarbo	4	11
+GretaGarbo	5	13
+GretaGarbo	9	23
+HarrisonFord	11	15
+HatzidakisManos	2	10
+HedyLamarr	6	21
+HenryFonda	4	10
+HenryFonda	5	15
+Houston	3	19
+HowardKeel	11	25
+IanHolm	21	29
+IsabelleHuppert	10	13
+JPaulGetty	3	7
+JWMarriott	4	7
+JackColeman	21	25
+JackLarson	4	22
+JackLemon	5	20
+JamesGarner	1	11
+JamesWoods	5	8
+JamieLeeCurtis	20	25
+JaneAsher	13	28
+JaneBirkin	10	36
+JaneFonda	5	27
+JaneWyman	11	20
+JaneWyman	3	14
+JaneWyman	9	25
+JanetGaynor	19	27
+JanetGaynor	8	26
+JeanGabin	3	11
+JeanPaulBelmondo	3	20
+JeanPeters	12	15
+JenniferAniston	9	19
+JeremyKemp	5	13
+JoanCusack	19	23
+JoanCusack	23	24
+JoanLorring	10	14
+JoanneWoodward	18	25
+JohnHuston	2	8
+JohnJames	9	24
+JohnTravolta	13	19
+JohnnyCash	23	35
+JohnnyCash	27	41
+JonVoight	27	42
+JuliaRoberts	1	11
+JulieChristie	12	14
+KatharineRoss	23	34
+KathleenTurner	1	18
+KathrynHays	11	19
+KathyBates	3	16
+KevinSpacey	16	28
+KimNovak	13	15
+KirkDouglas	1	9
+Konstantaras	11	18
+KostasVoutsas	3	15
+KostasXatzixristos	2	6
+KostasXatzixristos	4	9
+KristinScottThomas	8	23
+LauraDern	12	15
+LauraDern	5	10
+LeifErickson	24	31
+LeslieNielsen	23	24
+LiamNeeson	3	10
+LilliPalmer	1	2
+LilliPalmer	2	3
+LindsayWagner	9	15
+LivUllmann	12	26
+LivUllmann	4	9
+LorettaYoung	2	13
+LouCostello	16	22
+LouisJourdan	11	32
+LouisJourdan	29	30
+LyleTalbot	8	14
+MargaretNolan	14	15
+MargaretOBrien	8	22
+MarieCurie	10	13
+MarisaPavan	10	12
+MarlonBrando	12	18
+MartinScorsese	11	18
+MartinSheen	27	38
+MartinSheen	3	19
+MaryPickford	17	29
+MaryTylerMoore	29	31
+MaureenOHara	26	27
+MaureenOHara	3	24
+MendeleievDmitri	1	6
+MerylStreep	11	19
+MichaelBloomberg	19	22
+MichaelKeaton	7	20
+MichelPiccoli	15	47
+MichelPiccoli	4	18
+MickJagger	21	33
+MikeConnors	29	33
+MonicaVitti	5	32
+MorganFreeman	25	52
+MyrnaLoy	34	35
+MyrnaLoy	38	46
+MyrnaLoy	5	25
+NeildeGrasseTyson	5	14
+NeildeGrasseTyson	8	14
+NelsonMandela	28	29
+NelsonMandela	7	15
+NewmanPaul	4	13
+NickNolte	2	20
+NicolasSarkozy	12	15
+NicolasSarkozy	22	27
+NormaShearer	9	26
+Onasis	7	17
+PabloPicasso	2	5
+PamelaSueMartin	11	13
+PamelaSueMartin	6	8
+PatriciaNeal	23	24
+PaulAnka	27	37
+PaulmcCartney	7	16
+PaulmcCartney	8	22
+PeggyAshcroft	24	35
+Pele	14	23
+PeterGraves	21	30
+PeterMarkRichman	2	27
+PeterMarkRichman	20	22
+PeterSellers	12	21
+PeterSellers	8	10
+PeterUstinov	16	23
+PhilHartman	6	14
+PiaLindstrom	1	19
+PiaLindstrom	6	22
+QueenElizabet	13	24
+RabindranathTagore	8	20
+RandolphScott	15	21
+RayDanton	4	21
+ReginaldOwen	11	21
+ReginaldOwen	23	28
+RichardBoone	13	28
+RichardBurton	1	8
+RingoStarr	6	11
+RitaLeviMontalcini	12	14
+RobertMorley	6	11
+RobertOppenheimer	5	13
+RobertRedford	15	20
+RobertRyan	3	16
+RockHudson	17	27
+RockHudson	6	32
+RonaldReagan	24	40
+RonaldReagan	28	31
+Ross	13	16
+RutgerHauer	10	27
+RuthGordon	26	30
+RyanONeal	6	12
+RyanONeal	7	23
+SamuelJacksonn	10	14
+SamuelJacksonn	8	18
+SartreJeanPaul	8	9
+SerenaWilliams	15	16
+ShirleyJones	29	35
+SimonMacCorkindale	18	28
+SimoneSignoret	26	39
+StevenBerkoff	17	19
+StevenSeagal	2	25
+StevenSpielberg	8	16
+TellySavalas	6	29
+TheodoreRoosevelt	1	8
+TomHanks	10	23
+TomHulce	17	29
+TommyLeeJones	17	32
+TommySands	16	21
+TonyBlair	6	17
+UrsulaAndress	15	27
+VanessaRedgrave	1	11
+VanessaRedgrave	8	18
+VincentPrice	26	30
+VirnaLisi	13	14
+VittorioGassman	15	29
+VivienLeigh	13	14
+WaltDisney	8	10
+WillSmith	49	54
+WilliamDafoe	14	26
+WilliamShatner	16	20
+WilliamShatner	6	34
+WilliamShatner	9	15
+YannisRitsos	1	13
+YannisRitsos	2	3
+YvesMontand	5	29
+YvesMontand	9	13
+YvonneDeCarlo	4	19
+ZsaZsaGabor	8	31
+akistsoxatzopoulos	3	15
+angelamerkel	27	28
+michaeljackson	4	5
+mitsotakis	14	17
+AbeVigoda	6	mitsotakis	2
+AlCorley	15	NielsBohr	17
+AlKapone	2	ClintEastwood	6
+AlKapone	7	EdHarris	12
+AlPacino	21	JodieFoster	15
+AlPacino	23	MelindaDillion	20
+AlainDelon	13	GeorgeHWBush	1
+AlainDelon	14	DianneWiest	15
+AlainDelon	3	MarlonBrando	14
+AlanYoung	18	PatrickStewart	29
+AlbertCamus	2	DebraPaget	26
+AlbertSchweitzer	9	RowanAtkinson	6
+AlecGuinness	3	MichellePfeiffer	27
+AlecGuinness	35	VittorioGassman	3
+AlexanderGrahamBell	1	CharlesBoyer	2
+AlexanderGrahamBell	10	RomanPolanski	12
+AlexandrakisAlekos	14	HatzidakisManos	8
+AliMacGraw	10	TheodoreRoosevelt	2
+AliMacGraw	25	MartinLutherKing	8
+AlikiBoug	3	SusanHayward	26
+AlikiBoug	37	DanaAndrews	37
+AmandaBlake	15	ShirleyJones	26
+AmandaRedman	21	JuneAllyson	17
+AmandaRedman	6	JeanClaudeVanDamme	29
+AndreasPapantreou	12	WalterPidgeon	19
+AndyGriffith	19	ErnestRutherford	12
+AndyGriffith	29	JaneBirkin	30
+AngelaLansbury	29	MichaelKeaton	12
+AngieDickinson	5	MelGibson	27
+AngieDickinson	51	GordonThomson	11
+AnitaEkberg	30	ShirleyMacLaine	5
+AnjelicaHuston	8	OliviadeHavilland	23
+AnnMargret	1	AnthonyAndrews	25
+AnthonyAndrews	27	BetteDavis	3
+AnthonyHopkins	29	SusanSarandon	22
+AnthonyHopkins	35	ThelmaRitter	19
+AnthonyPerkins	14	JackNicolson	13
+AnthonyQuayle	13	PatriciaNeal	3
+AnthonyQuayle	31	RonaldReagan	38
+Arletty	8	CHARLIERUGGLES	27
+ArnoldSchwarzenegger	10	SerenaWilliams	16
+ArnoldSchwarzenegger	2	CyndiLauper	20
+AudreyHepburn	12	CatherineSpaak	2
+AvaGardner	19	BettyGarrett	23
+AvaGardner	22	DaliahLavi	17
+BarbaraBouchet	12	PaulAnka	11
+BarbaraBouchet	28	SusanSarandon	26
+BarbaraBouchet	36	EsteeLauder	13
+BarbaraStanwyck	12	JeanPaulBelmondo	19
+BarbaraStanwyck	7	LeeJCobb	13
+BeaArthur	8	FaradayMichael	12
+BertrandRussell	10	SusanGeorge	2
+BertrandRussell	18	ErnestHemingway	1
+BertrandRussell	7	JPMorgan	9
+BetteDavis	17	OrsonWelles	11
+BetteDavis	8	JamesBest	9
+BetteMidler	30	PaulmcCartney	8
+BettyGarrett	33	HelenHayes	4
+BettyGrable	23	TellySavalas	19
+BettyGrable	24	DavidMcCallum	1
+BettyGrable	4	EdwardGRobinson	36
+BillMurray	30	GeorgeHWBush	8
+BillNighy	8	MikeConnors	10
+BobDylan	34	HumphreyBogard	11
+BobDylan	37	ClaudeLВviStrauss	7
+BobDylan	38	RalphMacchio	22
+BobDylan	40	MaryTylerMoore	11
+BobHope	6	JohnDerek	26
+Bono	3	GeorgeHWBush	8
+BorisKarloff	31	VirnaLisi	23
+BruceWillis	27	NelsonMandela	12
+CHARLIERUGGLES	11	JamesArness	27
+CarlMarx	7	FredMacMurray	35
+CarlSagan	1	Fernandel	26
+Carroll	22	JanetGaynor	20
+CatherineSchell	3	FrederickSanger	7
+CatherineSpaak	5	VeraEllen	2
+CharlieChaplin	16	MichelPiccoli	30
+CharlieChaplin	5	ElvisPresley	17
+CharlieSheen	9	MyrnaLoy	21
+CharltonHeaston	15	YvesMontand	12
+CharltonHeaston	16	UgoTognazzi	28
+ChevyChase	27	JuneAllyson	4
+ChristopherEccleston	27	GeraldinePage	17
+ChristopherPlummer	27	TomasMilian	23
+ChristopherPlummer	5	DaliahLavi	10
+ChristopherWalken	1	ErnestHemingway	1
+ChuckNorris	18	GeneHackman	5
+ClaudeLВviStrauss	5	MuhammadAli	19
+ClaudetteColbert	4	RoyScheider	49
+ClaudiaCardinale	17	RitaHayworth	29
+ClintWalker	12	JerryLewis	18
+ConnieBooth	15	LawrenceTierney	6
+ConnieBooth	5	SartreJeanPaul	3
+CydCharisse	34	MendeleievDmitri	1
+CydCharisse	7	RonaldReagan	27
+CyndiLauper	19	Fotopoulos	9
+CyndiLauper	20	JeanMarais	33
+DanaAndrews	8	JonFinch	18
+DanielleDarrieux	21	MichaelBloomberg	13
+DannyDeVito	8	campbell	6
+DannyGlover	10	MichaelKeaton	19
+DavidCarradine	1	OmarSharif	22
+DavidCarradine	2	GeorgesMarchal	4
+DavidCarradine	26	StevenSeagal	19
+DavidNiven	18	GiorgosSeferis	3
+DavidNiven	6	LarryEllison	1
+DavidSarnoff	21	OliviaHussey	29
+Davis	10	YvonneDeCarlo	3
+DebbieReynolds	8	MarcelloMastroianni	2
+DebraPaget	22	WinstonChurchill	10
+Dee	19	SigourneyWeaver	15
+Dench	1	JeffDaniels	13
+Dench	18	Gaddafi	20
+Dench	7	LaurenBacall	23
+DenzelWashington	2	MaureenOHara	19
+DerekJacobi	28	TonyCurtis	15
+DianneWiest	2	DorisDay	44
+DickVanDyke	29	HedyLamarr	18
+DirkBogarde	15	GeorgePeppard	23
+DonnaDouglas	5	JamesCoburn	10
+EdwardTeller	18	JamesStewart	1
+EdwardTeller	6	JanePowell	5
+EdwigeFenech	6	WilliamDafoe	24
+Einstain	1	JonFinch	22
+ElVenizelos	15	FayeDunaway	7
+EliWallach	20	TerryMoore	18
+EliWallach	23	RomanPolanski	14
+ElizabethTaylor	9	VeraEllen	22
+ElkeSommer	13	MickJagger	13
+EllenBurstyn	34	TerryMoore	16
+ElsaMartinelli	12	FlemingAlex	9
+ElsaMartinelli	3	JudyGarland	18
+ElsaMartinelli	4	JoanLorring	15
+EnricoFermi	4	GordonThomson	21
+ErinGray	11	MarcelloMastroianni	45
+ErrolFlynn	14	LouCostello	13
+EsteeLauder	11	FlemingAlex	8
+EsteeLauder	12	JeanClaudeVanDamme	2
+EvaMarieSaint	15	RutgerHauer	8
+FaradayMichael	16	TanyaRoberts	7
+FayeDunaway	17	GingerRogers	3
+Fernandel	23	SamNeill	8
+FessParker	11	MargeChampion	11
+FessParker	11	PatriciaNeal	32
+FessParker	16	GordonThomson	10
+FessParker	19	MelBrooks	33
+FessParker	9	JessicaTandy	26
+FidelCastro	4	SteveJobsb	3
+FlemingAlex	10	RutgerHauer	23
+FlemingAlex	12	KostasXatzixristos	8
+FlemingAlex	9	JohnWayne	17
+FrancescaAnnis	27	GabrielGarciaMarquez	3
+FranklinDRoosevelt	8	SteveMcQueen	20
+FredMacMurray	35	KateOMara	41
+FrederickSanger	11	LelandStanford	7
+FriedrichNietzsche	14	LouisJourdan	25
+Gaddafi	3	Pele	19
+GaryOldman	32	RayDanton	18
+GaryOldman	7	MonicaVitti	2
+Garycooper	12	RonaldReagan	35
+GeorgeCScott	8	JosephCotten	8
+GeorgeHWBush	10	RichardAttenborough	5
+GeorgeMontgomery	23	RalphMacchio	8
+GeorgesMarchal	1	PatrickStewart	7
+GeorgesMarchal	3	mitsotakis	22
+GeraldineChaplin	32	LivUllmann	13
+GilbertRoland	15	IanMcKellen	18
+GingerRogers	24	MichaelKeaton	28
+GiulianoGemma	25	MelindaDillion	2
+GlennClose	13	OdysseasElytis	4
+GlennClose	20	KevinCostner	28
+Gorbachev	15	SteveMartin	16
+GregorMendel	4	Ross	9
+GregorMendel	6	angelamerkel	24
+GregorMendel	7	JanetGaynor	7
+GregoryPeck	2	ThomasTerry	17
+GregoryPeck	8	RichardChamberlain	18
+GretaGarbo	11	NeildeGrasseTyson	8
+GretaGarbo	21	JaneBirkin	14
+HarrisonFord	1	TheodoreRoosevelt	2
+HarrisonFord	12	JamesCoburn	31
+HarrisonFord	4	OdysseasElytis	1
+HatzidakisManos	4	RogerAllam	4
+HenryFonda	11	MickeyRooney	10
+HenryFonda	11	RicardoMontalbаn	30
+HumphreyBogard	12	NeildeGrasseTyson	6
+IanMcKellen	14	JPMorgan	3
+ImeldaStaunton	25	JamesStewart	20
+IreneDunne	15	LeslieCaron	11
+IreneDunne	16	JohnGarfield	14
+IsabelleAdjani	18	MarleneDietrich	31
+IsabelleAdjani	8	RichardAttenborough	20
+IsabelleHuppert	28	WaltDisney	4
+JPMorgan	6	JeffGoldblum	22
+JPMorgan	9	JenniferJones	21
+JackLarson	15	RonaldReagan	21
+JackLarson	25	LexBarker	11
+JackLarson	3	RichardChamberlain	33
+JamesCaan	42	MaryTylerMoore	30
+JamesStewart	5	WarrenBeatty	15
+JamesWoods	14	LinoVentura	30
+JaneFonda	18	ShelleyWinters	33
+JaneFonda	21	UgoTognazzi	11
+JanetEllis	21	LarryEllison	1
+JanetGaynor	10	MariaCallas	13
+JeanClaudeVanDamme	27	JeanGabin	10
+JeanPaulBelmondo	19	JohnTravolta	2
+JeanPaulBelmondo	9	JosephCotten	25
+JeanPaulBelmondo	9	Thanasisveggos	6
+JeanneMoreau	17	KimNovak	4
+JeffDaniels	17	PeterFalk	34
+JeffDaniels	21	Mparkoulis	8
+JeffGoldblum	8	JulieAndrews	21
+JeffreyJones	13	MargaretOBrien	10
+JenniferAniston	6	KathyBates	15
+JhonLenon	27	SylvesterStallone	16
+JoanFontaine	10	NielsBohr	7
+JoanFontaine	10	StefaniePowers	19
+JoanneWoodward	15	SteveMartin	4
+JohnCassavetes	18	RabindranathTagore	23
+JohnCleese	28	MichellePfeiffer	24
+JohnCleese	6	LauraDern	17
+JohnDerek	12	SigourneyWeaver	8
+JohnGarfield	11	MarleneDietrich	2
+JohnGarfield	25	KevinBacon	19
+JohnHuston	25	KathrynGrayson	3
+JohnJames	26	WilliamHolden	11
+JohnLithgow	4	MargaretNolan	3
+JohnMalkovich	7	LivUllmann	3
+JohnWayne	5	KevinBacon	40
+JonFinch	18	MurrayHamilton	6
+JonVoight	27	TippiHedren	3
+JonVoight	41	KlausKinski	4
+JosephStalin	19	WarrenBeatty	24
+JosephStalin	7	PeterUstinov	4
+JudyGarland	1	RobertMitchum	9
+JudyGarland	4	Tyson	19
+JulieAdams	2	MylКneDemongeot	2
+JulieHagerty	13	TomasMilian	33
+JulieHagerty	16	PabloPicasso	11
+JulieHagerty	23	VirnaLisi	30
+JuneLockhart	30	ScottGlenn	9
+KateOMara	18	MartinLutherKing	22
+KathrynGrayson	34	SophiaLoren	20
+KevinBacon	19	KirkDouglas	5
+KevinCostner	12	MarlonBrando	17
+KevinSpacey	9	ZsaZsaGabor	25
+KimBasinger	11	PeterGraves	18
+Konstantaras	14	WilliamDafoe	12
+KrisKristofferson	1	MichaelBloomberg	11
+KristinScottThomas	14	MarcelloMastroianni	36
+LaurenBacall	27	RoseMarie	11
+LiamNeeson	10	tomselleck	26
+LiamNeeson	12	WarrenBeatty	10
+LiamNeeson	29	MaryTylerMoore	14
+LilliPalmer	23	MorganFreeman	63
+LindaEvans	21	Thanasisveggos	5
+LindaEvans	22	ZsaZsaGabor	20
+LindsayWagner	18	RoyScheider	24
+LivUllmann	12	RichardBoone	3
+LyleTalbot	25	RomySchneider	22
+MaggieSmith	21	MegRyan	9
+MargeChampion	9	RichardAttenborough	29
+MarieCurie	10	RandolphScott	16
+MarlonBrando	10	SpencerTracy	3
+MarlonBrando	19	TomHulce	6
+MaureenOHara	12	StephenHawking	21
+MelGibson	3	TomHulce	26
+MonicaVitti	19	RayLiotta	6
+MorganFreeman	32	TonyBlair	13
+NickNolte	6	RicardoMontalbаn	7
+OliviaHussey	15	TommyLeeJones	17
+OliviadeHavilland	20	PamelaSueMartin	26
+PatriciaNeal	3	RitaLeviMontalcini	11
+PeterFalk	43	RayLiotta	20
+PeterFonda	15	PiaLindstrom	5
+PeterMarkRichman	24	VittorioGassman	14
+PiaLindstrom	1	StevenBerkoff	23
+QueenElizabet	23	RaquelWelch	8
+RabindranathTagore	25	RutgerHauer	19
+RayDanton	23	tomselleck	22
+RicardoMontalbаn	12	TimCurry	13
+RingoStarr	25	campbell	5
+RobertDeNiro	8	TanyaRoberts	11
+RobertMorley	26	RoyScheider	39
+RobertOppenheimer	7	RoyScheider	38
+RuthGordon	29	ShelleyWinters	9
+SamuelJacksonn	26	SteveMartin	1
+SamuelJacksonn	8	mitsotakis	22
+SeanConnery	11	SimoneSignoret	36
+SerenaWilliams	13	SusannahYork	19
+SerenaWilliams	16	SigourneyWeaver	10
+SteveMcQueen	17	WilliamShatner	25
+StevenBerkoff	7	SusanSarandon	31
+SusanGeorge	13	Turner	4
+SylvesterStallone	17	WilliamShatner	34
+ThelmaRitter	8	TildaSwinton	11
+ThomasTerry	9	VivienLeigh	12
+VirnaLisi	27	cambell	1
+AlCorley	15	26
+AlCorley	23	26
+AlainDelon	7	14
+AlanYoung	3	24
+AlbertoSordi	2	29
+AlecGuinness	17	30
+AlecGuinness	30	31
+AlecGuinness	7	34
+AlexanderGrahamBell	6	14
+AlexandrakisAlekos	3	7
+AmandaBlake	2	17
+AndreMarieAmpКre	3	4
+AngieDickinson	6	49
+AnnJillian	5	9
+AnnMiller	9	31
+AnnaMassey	5	15
+AnthonyQuayle	18	28
+ArmandAssante	20	29
+ArmandAssante	25	32
+AudreyHepburn	1	9
+BarbaraBain	2	23
+BarbaraBouchet	19	32
+BarbaraStanwyck	3	18
+BarbaraStanwyck	5	28
+BeaArthur	23	40
+BenGazzara	34	42
+BertrandRussell	3	6
+BetteDavis	4	27
+BettyGarrett	10	13
+BettyGarrett	5	39
+BeverlyRoberts	12	15
+BillMurray	17	29
+BoDerek	15	17
+BonnieHunt	18	26
+Bono	9	16
+BruceWillis	24	25
+BruceWillis	3	22
+CHARLIERUGGLES	11	25
+CarlMarx	8	9
+CarlSagan	4	11
+CarlSagan	9	13
+CarlosSantana	24	32
+CatherineDeneuve	2	36
+CatherineSchell	3	34
+CatherineSpaak	1	12
+CelesteHolm	17	29
+CharlesBoyer	11	26
+CharlesGrodin	3	16
+CharlieSheen	4	21
+CharltonHeaston	3	4
+ChristopherEccleston	2	7
+ChristopherPlummer	2	22
+ChristopherPlummer	3	15
+ChristopherWalken	18	37
+ChuckNorris	4	14
+ClarkGable	11	15
+ClarkGable	5	15
+ClaudeRich	27	33
+ClaudiaCardinale	2	8
+ClaudiaCardinale	7	15
+CliffRobertson	25	27
+ClintEastwood	1	3
+ClintEastwood	4	11
+ConnieBooth	28	34
+ConradHilton	1	7
+CyndiLauper	7	19
+DanielleDarrieux	25	44
+Davis	6	14
+DeborahKerr	1	4
+DenzelWashington	11	13
+DenzelWashington	4	8
+DerekJacobi	12	31
+DerekJacobi	14	26
+DickieMoore	3	14
+DonJohnson	4	17
+DonnaDouglas	13	22
+DonnaDouglas	6	15
+DonnaReed	2	6
+DustinHoffman	1	6
+EdwardFox	6	34
+EdwardTeller	13	20
+EdwigeFenech	14	22
+EliWallach	4	5
+ElsaMartinelli	9	17
+EmmaThompson	4	18
+EnricoFermi	1	6
+EnricoFermi	3	5
+EnricoFermi	3	9
+ErnestRutherford	2	15
+ErrolFlynn	17	22
+FayeDunaway	16	19
+Fernandel	3	4
+Fernandel	6	32
+FernandoRey	4	19
+FessParker	7	11
+FidelCastro	4	7
+FlemingAlex	9	10
+Fotopoulos	2	3
+FrancesDee	14	34
+FranklinDRoosevelt	3	20
+FranklinDRoosevelt	7	19
+FranklinDRoosevelt	9	13
+FredAstaire	13	15
+GabrielGarciaMarquez	10	16
+Gaddafi	22	25
+GeorgePeppard	4	6
+GeorgesMarchal	11	17
+GingerRogers	22	27
+GiorgosSeferis	2	6
+GlendaJackson	25	27
+GloriaSwanson	4	22
+Gorbachev	1	3
+GordonThomson	3	10
+GordonThomson	9	20
+GraceKelly	6	22
+GreerGarson	16	19
+GreerGarson	6	21
+GregorMendel	1	5
+GregorMendel	3	6
+HarrySTruman	3	16
+HatzidakisManos	9	13
+HeinrichHertz	2	10
+HerbertLom	4	33
+HerbertLom	7	41
+Houston	15	19
+Houston	15	26
+HumphreyBogard	10	28
+IanMcKellen	13	27
+IanMcKellen	23	27
+ImeldaStaunton	5	7
+IngridBergman	3	7
+IreneDunne	1	25
+IsabelleHuppert	17	19
+JPMorgan	3	9
+JPaulGetty	1	4
+JWMarriott	5	11
+JackLemon	14	25
+JackLemon	5	18
+JamesBest	21	36
+JamesCaan	18	27
+JamesCoburn	6	23
+JamesStewart	2	6
+JamesStewart	3	5
+JamieLeeCurtis	9	15
+JaneRussell	6	19
+JanetGaynor	9	12
+JeffBridges	3	6
+JeffGoldblum	21	22
+JeffreyJones	16	17
+JeffreyJones	3	9
+JenniferJones	4	20
+JerryLewis	1	15
+JessicaTandy	23	29
+JessicaTandy	4	19
+JoanFontaine	16	17
+JoanFontaine	8	13
+JohnCassavetes	1	9
+JohnCassavetes	4	15
+JohnDRockefeller	3	5
+JohnDerek	5	27
+JohnGarfield	2	11
+JohnHuston	8	21
+JohnJames	18	22
+JohnVernon	10	13
+JonVoight	30	36
+JonVoight	4	22
+JosephStalin	7	19
+JudyDavis	6	7
+JulieAdams	15	20
+JulieAndrews	29	30
+JulieChristie	14	28
+JulieChristie	6	17
+KatharineHepburn	21	23
+KatharineRoss	18	34
+KatharineRoss	2	31
+KatharineRoss	4	31
+KathrynHays	13	16
+KennethBranagh	15	26
+KevinCostner	3	15
+KevinSpacey	11	26
+KimBasinger	10	11
+KimBasinger	2	15
+KimNovak	5	15
+KlausKinski	19	21
+KostasXatzixristos	10	14
+KrisKristofferson	1	21
+LauraAntonelli	7	17
+LauraDern	7	17
+LawrenceTierney	1	18
+LawrenceTierney	2	14
+LeslieCaron	21	36
+LeslieNielsen	4	17
+LizaMinelli	16	31
+LorettaYoung	10	13
+LorneGreene	7	29
+LouisJourdan	11	17
+LouisJourdan	21	33
+MaggieSmith	13	17
+MargaretOBrien	17	28
+MariaCallas	17	21
+MaureenOHara	5	8
+MaximilianShell	18	20
+MegRyan	16	26
+MegRyan	7	19
+MelBrooks	27	39
+MelGibson	21	30
+MerkouriMelina	1	9
+MichaelKeaton	15	20
+MichaelPalin	14	21
+MichaelYork	1	7
+MichellePfeiffer	15	18
+MickeyRooney	11	45
+MireilleDarc	4	9
+MorganFreeman	17	21
+Mparkoulis	9	15
+MuhammadAli	18	19
+MylКneDemongeot	7	16
+NeildeGrasseTyson	5	10
+NewmanPaul	14	15
+NicolasSarkozy	15	22
+NielsBohr	16	22
+NormaShearer	12	18
+OliviaHussey	17	23
+OliviadeHavilland	5	13
+OmarSharif	8	14
+PabloPicasso	13	14
+PamelaSueMartin	14	30
+PaulAnka	7	12
+PaulmcCartney	2	24
+PeggyLipton	18	19
+PeterFalk	1	10
+PeterFalk	11	22
+PierceBrosnan	30	37
+RabindranathTagore	7	17
+RabindranathTagore	8	14
+RalphMacchio	8	24
+RandolphScott	1	8
+RaquelWelch	1	17
+RayDanton	3	22
+RayLiotta	1	21
+RayLiotta	16	27
+RexHarrison	3	17
+RicardoMontalbаn	10	30
+RicardoMontalbаn	9	19
+RichardBurton	10	15
+RichardChamberlain	5	12
+RitaLeviMontalcini	3	13
+RitaLeviMontalcini	8	15
+RobertPowell	2	20
+RobertRedford	2	19
+RobertRyan	1	8
+RogerAllam	3	29
+RomySchneider	10	16
+RomySchneider	7	8
+Ross	1	14
+RuthGordon	7	9
+RyanONeal	24	28
+RyanONeal	5	20
+SarahDouglas	13	29
+SartreJeanPaul	1	11
+ScottGlenn	29	39
+ScottGlenn	3	15
+SeanConnery	11	18
+SerenaWilliams	1	19
+SimoneSignoret	3	5
+Soljenitsyne	1	5
+Soljenitsyne	2	5
+StefaniePowers	9	38
+SteveKanaly	2	18
+SteveMartin	1	17
+SteveMartin	7	14
+SteveMartin	8	11
+SteveMcQueen	19	25
+SteveMcQueen	6	21
+StevenSeagal	2	10
+SylvesterStallone	4	20
+TerryMoore	8	22
+Thanasisveggos	9	12
+TheodorakisMikis	6	16
+ThomasTerry	1	21
+TimCurry	23	33
+TimothyDalton	2	7
+TomHanks	8	9
+TomasMilian	20	33
+TommySands	7	13
+TonyCurtis	5	7
+VirnaLisi	4	6
+WEBDuBois	1	10
+WEBDuBois	4	13
+WaltDisney	4	5
+WalterPidgeon	7	17
+WarrenBeatty	30	39
+WarrenBeatty	4	27
+WillSmith	2	44
+WillSmith	27	58
+WinstonChurchill	11	17
+WoodyAllen	9	17
+akistsoxatzopoulos	12	16
+campbell	4	25
+mahatmagandhi	6	11
+AbeVigoda	12	MaryTylerMoore	7
+AdolfHitlerr	10	ChristopherEccleston	23
+AlKapone	18	KostasVoutsas	12
+AlKapone	19	FrederickSanger	4
+AlPacino	13	AvaGardner	23
+AlainDelon	21	RandolphScott	5
+AlanRickman	1	ChevyChase	12
+AlanRickman	9	KimBasinger	1
+AlbertCamus	1	JamesStewart	11
+AlbertCamus	5	AmandaRedman	31
+AlbertSchweitzer	4	AnnMiller	26
+AlbertSchweitzer	4	JackLarson	8
+AlbertoSordi	4	FaradayMichael	9
+AlecGuinness	24	FernandoRey	1
+AlecGuinness	24	MerkouriMelina	13
+AlecGuinness	29	LeeJCobb	7
+AlejandroRey	18	CatherineSchell	31
+AlexandrakisAlekos	12	BurtReynolds	5
+AliMacGraw	20	AngelaLansbury	35
+AlikiBoug	20	ImeldaStaunton	27
+AlikiBoug	4	TonyCurtis	29
+AmandaBlake	29	DorisDay	30
+AmandaRedman	14	ConnieBooth	17
+AndyGriffith	22	JamesArness	7
+AngelaLansbury	2	PeterMarkRichman	15
+AngieDickinson	46	RomySchneider	20
+AnitaEkberg	24	JohnDRockefeller	1
+AnnMargret	11	QueenElizabet	5
+AnnMiller	12	EdwigeFenech	29
+AnnMiller	12	JodieFoster	24
+AnnMiller	18	RobertOppenheimer	6
+AnnMiller	28	CharlesBoyer	29
+AnnaMassey	20	JeanMarais	19
+AnneBaxter	12	ValerieHarper	21
+AnnetteBening	13	ElkeSommer	10
+AnnetteBening	13	FredAstaire	20
+AnnieGirardot	24	michaeljackson	7
+AnthonyHopkins	22	GeorgeCScott	17
+AnthonyPerkins	14	CharlesBoyer	11
+AnthonyQuayle	5	MonicaVitti	26
+Arletty	17	PeterFalk	41
+ArmandAssante	13	UrsulaAndress	6
+AvaGardner	10	JoanCusack	24
+BarbaraBain	24	DanaAndrews	9
+BarbaraBain	37	akistsoxatzopoulos	19
+BarbaraBain	5	GeorgesMarchal	24
+BarbaraStanwyck	12	PeterMarkRichman	18
+BarbaraStanwyck	20	BobDylan	18
+BarbraStreisand	15	NormaShearer	9
+BenGazzara	38	JackNicolson	22
+BenGazzara	39	PeterSellers	12
+BernadetteLafont	35	JohnLithgow	14
+BernadetteLafont	38	TanyaRoberts	7
+BertrandRussell	1	GeneHackman	2
+BertrandRussell	8	LizaMinelli	19
+BetteMidler	25	BobDylan	11
+BettyGarrett	26	RayDanton	11
+BillMurray	6	StevenSpielberg	8
+BillNighy	27	JeffGoldblum	1
+BillNighy	7	RyanONeal	1
+BoDerek	13	HerbertLom	40
+BobDylan	2	JaneAsher	26
+BobDylan	43	LawrenceTierney	21
+BobHope	8	TildaSwinton	10
+Bono	20	WalterPidgeon	25
+BorisKarloff	5	ClaudeRich	8
+BrianDennehy	21	ElliottGould	1
+BrianDennehy	30	Pele	10
+BurtReynolds	25	IreneDunne	21
+CarlMarx	2	JackLarson	8
+CatherineDeneuve	29	FernandoRey	29
+CatherineDeneuve	35	MarcelloMastroianni	17
+CatherineSchell	2	EliWallach	22
+CatherineSchell	29	KatharineHepburn	13
+CatherineSchell	32	JohnHuston	9
+CatherineSpaak	21	SamuelJacksonn	6
+CatherineSpaak	22	JohnMalkovich	31
+CatherineSpaak	26	DaliahLavi	9
+CharlesDarwin	5	LeslieNielsen	12
+CharlesGrodin	1	SusanHayward	5
+CharlieChaplin	1	akistsoxatzopoulos	20
+CharlieChaplin	8	LexBarker	5
+ChristopherPlummer	11	DannyGlover	28
+ChristopherWalken	17	MichellePfeiffer	25
+ChristopherWalken	24	SigourneyWeaver	1
+ChristopherWalken	36	DonnaReed	12
+ChuckNorris	19	LexBarker	3
+ChuckNorris	25	DonnaDouglas	24
+ChuckNorris	26	SidneyPoitier	31
+ClarkGable	2	ConradHilton	2
+ClarkGable	9	TheodorakisMikis	2
+ClaudeRich	5	OrsonWelles	18
+ClaudetteColbert	25	JohnVernon	19
+ClaudiaCardinale	23	MargaretThatcher	3
+ClaudiaCardinale	28	mitsotakis	3
+ClaudiaCardinale	6	GeorgeHWBush	6
+ClerkMaxwell	8	HarrySTruman	15
+CliffRobertson	24	RayDanton	8
+ClintWalker	13	SusannahYork	5
+ClintWalker	15	RichardPryor	25
+ConnieBooth	2	DannyGlover	29
+ConnieBooth	4	PaulAnka	26
+CybillShepherd	15	GregoryPeck	11
+CybillShepherd	26	PeggyLipton	31
+CydCharisse	36	JonVoight	8
+CydCharisse	5	GingerRogers	7
+CyndiLauper	1	Konstantaras	5
+DaliahLavi	16	Davis	4
+DannyDeVito	16	SimonMacCorkindale	24
+DannyDeVito	20	FernandoRey	24
+DavidCarradine	14	JhonLenon	2
+Davis	13	FrederickSanger	7
+Davis	14	EdwardTeller	4
+DebbieReynolds	29	Gaddafi	26
+DeborahKerr	17	OmarSharif	1
+DebraPaget	9	KevinSpacey	15
+Dench	1	GlendaJackson	11
+Dench	17	PeterMarkRichman	20
+DenzelWashington	15	LeifErickson	11
+DenzelWashington	19	SophiaLoren	23
+DickVanDyke	27	TildaSwinton	15
+DickVanDyke	35	JohnCassavetes	24
+DickieMoore	21	RandolphScott	22
+DirkBogarde	24	IlyaPrigogine	11
+DirkBogarde	4	LelandStanford	9
+DonJohnson	12	WoodyAllen	20
+DonJohnson	14	JosephStalin	2
+DonJohnson	3	ZsaZsaGabor	6
+DorisDay	15	SusanGeorge	21
+DorisDay	25	OdysseasElytis	2
+EdwardFox	21	SusanHayward	22
+EdwardFox	25	WarrenBeatty	8
+EdwardTeller	10	MaureenOHara	2
+EdwigeFenech	25	LindaEvans	22
+ElVenizelos	12	MylКneDemongeot	20
+ElizabethTaylor	1	JamesCaan	43
+ElkeSommer	21	GiulianoGemma	6
+EllenBurstyn	33	LexBarker	8
+ElliottGould	3	JamesStewart	12
+EmmaThompson	12	SpencerTracy	27
+EmmaThompson	14	GregoryPeck	19
+EnricoFermi	13	FrankSinatra	9
+EnricoFermi	2	JamesCaan	15
+EnricoFermi	9	RonPerlman	17
+ErinGray	8	KimBasinger	9
+ErnestBorgnine	33	MikeConnors	25
+ErnestHemingway	20	JosephCotten	2
+ErnestHemingway	8	JackNicolson	22
+ErnestRutherford	24	JohnForsythe	26
+Fernandel	13	PeterSellers	14
+Fernandel	14	GingerRogers	11
+FessParker	17	LorneGreene	24
+FlemingAlex	10	JudyDavis	26
+FrancesDee	14	JackLarson	9
+FrancesDee	17	JackColeman	6
+FranklinDRoosevelt	16	JamesGarner	2
+FriedrichNietzsche	3	JohnTravolta	13
+GabrielGarciaMarquez	1	JuneAllyson	28
+GabrielGarciaMarquez	21	JaneBirkin	36
+GaryOldman	30	PatrickStewart	15
+Garycooper	1	KevinBacon	36
+Garycooper	7	JoanLeslie	23
+GenaRowlands	11	JohnMalkovich	28
+GenaRowlands	30	JohnHuston	31
+GeneHackman	21	MelindaDillion	4
+GeorgeCScott	14	TheodoreRoosevelt	3
+GeraldinePage	29	JaneWyman	10
+GingerRogers	28	KatharineRoss	13
+GladysCooper	46	HelmutBerger	2
+GlennClose	2	PeterFalk	37
+GloriaSwanson	21	RichardBurton	2
+GloriaSwanson	5	MichaelYork	1
+GoldieHawn	18	JuneAllyson	11
+GoldieHawn	8	MargaretThatcher	19
+GraceKelly	24	JamesCaan	15
+GraceKelly	28	JohnDerek	21
+GregoryPeck	16	LouisJourdan	8
+GregoryPeck	2	PeterOToole	15
+HarveyKeitel	12	LelandStanford	10
+HeinrichHertz	1	JeanetteMacDonald	31
+HeinrichHertz	10	MarleneDietrich	15
+HelenHayes	12	YvesMontand	5
+HelenHayes	14	KevinBacon	34
+HelenHunt	37	JohnTravolta	23
+HelmutBerger	18	RoyRogers	4
+HorstBuchholz	17	StephenHawking	25
+HorstBuchholz	20	SteveMcQueen	12
+HorstBuchholz	9	JanePowell	23
+Houston	21	QueenElizabet	8
+HowardKeel	14	WalterPidgeon	11
+HowardKeel	2	JoanCollins	7
+IanHolm	16	ShirleyMacLaine	6
+IlyaPrigogine	11	LindsayWagner	6
+IlyaPrigogine	12	Konstantaras	2
+IlyaPrigogine	13	MaryTamm	14
+IngridBergman	18	MorganFreeman	64
+IngridBergman	7	JudyGarland	14
+IngridBergman	8	TonyCurtis	5
+IsabelleHuppert	12	ValerieHarper	8
+JackLarson	12	RobertMitchum	2
+JackLemon	1	KristinScottThomas	2
+JackNicolson	5	KimBasinger	12
+JackNicolson	8	KirkDouglas	11
+JamesStewart	12	RonaldReagan	4
+JamesStewart	19	RuthGordon	15
+JamesStewart	4	JhonLenon	7
+JamieLeeCurtis	15	MuhammadAli	3
+JamieLeeCurtis	2	VictorMature	17
+JaneBirkin	20	RichardAttenborough	21
+JaneBirkin	21	RobertMorley	24
+JanePowell	8	SteveMcQueen	23
+JanetEllis	11	RoyScheider	47
+JeanPeters	12	JohnnyCash	28
+JeanPeters	21	MickeyRooney	33
+JeanetteMacDonald	9	OmarSharif	23
+JeffBridges	29	TomHulce	11
+JeffGoldblum	23	SteveMcQueen	26
+JeremyKemp	17	MylКneDemongeot	8
+JessicaTandy	9	JohnTravolta	10
+JhonLenon	13	JohnForsythe	21
+JhonLenon	24	OdysseasElytis	5
+JoanCrawford	24	Ross	3
+JoanneWoodward	11	JosephStalin	1
+JoanneWoodward	24	JohnnyCash	6
+JoanneWoodward	9	JuliaRoberts	19
+JohnCassavetes	20	ValerieHarper	19
+JohnForsythe	25	ScottGlenn	30
+JohnGarfield	11	KatharineHepburn	26
+JohnGarfield	2	KatharineHepburn	14
+JohnHuston	19	YvonneDeCarlo	21
+JudyDavis	19	RobertOppenheimer	15
+JudyDavis	25	SusanGeorge	20
+JudyGarland	25	KrisKristofferson	8
+JuliaRoberts	5	PatrickStewart	7
+JulieAdams	22	KennethBranagh	10
+JulieAndrews	21	NormaShearer	20
+JulieHagerty	26	RitaLeviMontalcini	14
+JuneAllyson	24	PeterFonda	9
+JuneLockhart	24	LeifErickson	31
+KathrynGrayson	14	SerenaWilliams	13
+KathrynGrayson	22	PeterFonda	13
+KathrynGrayson	30	MireilleDarc	16
+KathyBates	20	michaeljackson	3
+KirkDouglas	15	TomasMilian	22
+KirkDouglas	4	SilvanaMangano	25
+KostasXatzixristos	5	TerryMoore	29
+KrisKristofferson	26	RobertRyan	8
+KristinScottThomas	13	MichaelYork	31
+KristinScottThomas	8	merrillcharles	1
+LauraAntonelli	1	mitsotakis	20
+LauraAntonelli	18	RobertRyan	2
+LauraDern	11	LelandStanford	7
+LaurenBacall	13	TommySands	5
+LaurenBacall	3	WilliamShatner	31
+LindsayWagner	18	RitaHayworth	16
+LivUllmann	10	RobertOppenheimer	9
+LivUllmann	18	WoodyAllen	8
+LouisJourdan	32	MargaretOBrien	28
+MarietteHartley	21	StephenHawking	16
+MaryTylerMoore	4	RayDanton	5
+MelindaDillion	21	RafVallone	26
+MendeleievDmitri	1	SimoneSignoret	21
+MendeleievDmitri	4	TommyLeeJones	24
+MichaelBloomberg	24	VictorMature	6
+MichaelKeaton	7	ShirleyMacLaine	14
+MichellePfeiffer	5	TanyaRoberts	6
+MireilleDarc	6	SamElliott	26
+MorganFreeman	35	TomHanks	19
+MuhammadAli	18	TomHanks	12
+MurrayHamilton	24	VirnaLisi	29
+NelsonMandela	26	TomasMilian	29
+NewmanPaul	16	RobertDeNiro	13
+OdysseasElytis	9	VittorioGassman	25
+OliviadeHavilland	9	RafVallone	26
+PabloPicasso	10	PeterFonda	12
+PabloPicasso	14	motherTereza	24
+PatrickStewart	23	mitsotakis	21
+PaulmcCartney	6	UgoTognazzi	35
+PeterUstinov	10	TanyaRoberts	10
+RabindranathTagore	24	ScottGlenn	25
+RichardChamberlain	37	RonaldReagan	14
+RichardPryor	11	WEBDuBois	3
+RobertPowell	30	TommyLeeJones	28
+RockHudson	25	WalterPidgeon	9
+RonaldReagan	4	SidneyPoitier	15
+RowanAtkinson	3	SusanHayward	20
+RoyRogers	28	StephenHawking	20
+RyanONeal	12	TonyCurtis	17
+RyanONeal	20	ShirleyMacLaine	18
+SamNeill	33	TonyCurtis	19
+SamuelJacksonn	2	TonyCurtis	20
+SarahDouglas	6	SerenaWilliams	6
+SerenaWilliams	19	SigourneyWeaver	6
+ShelleyWinters	18	TomHulce	7
+SigourneyWeaver	7	TomHulce	18
+SusanGeorge	8	WinstonChurchill	17
+TheodorakisMikis	22	YvonneDeCarlo	9
+TomHanks	36	UrsulaAndress	11
+TomHulce	25	WarrenBeatty	15
+VirnaLisi	24	WalterPidgeon	24
+AbeVigoda	19	23
+AlanRickman	5	24
+AlbertCamus	21	23
+AlbertCamus	3	13
+AlbertoSordi	24	34
+AlexanderGrahamBell	2	12
+AlexandrakisAlekos	4	7
+AliMacGraw	30	32
+AlikiBoug	6	11
+AlikiBoug	6	13
+AlikiBoug	7	13
+AmandaBlake	19	31
+AndyGriffith	3	9
+AngelaLansbury	16	21
+AnitaEkberg	18	25
+AnnJillian	1	17
+AnnJillian	15	27
+AnnMargret	12	28
+AnnaMassey	10	12
+AnnaMassey	10	14
+AnneBancroft	3	16
+AnneBaxter	10	37
+AnneBaxter	5	16
+AnnetteBening	2	13
+AnthonyAndrews	13	26
+AnthonyHopkins	13	34
+AnthonyPerkins	32	34
+ArmandAssante	8	34
+ArnoldSchwarzenegger	1	36
+ArnoldSchwarzenegger	35	40
+AudreyHepburn	2	34
+AvaGardner	1	20
+AvaGardner	1	5
+BarbaraBouchet	30	32
+BarbraStreisand	20	29
+BernadetteLafont	1	19
+BetteDavis	4	21
+BetteMidler	10	17
+BettyGrable	16	27
+BillMurray	23	36
+BillNighy	1	21
+BillNighy	9	23
+BorisKarloff	19	24
+BurtLancaster	15	37
+BurtReynolds	15	16
+CarlosSantana	14	22
+CatherineDeneuve	9	23
+CatherineSpaak	6	26
+CatherineSpaak	8	9
+CharlesDarwin	1	4
+CharlesDarwin	3	7
+CharlesGrodin	2	10
+CharlieChaplin	10	17
+ChristopherWalken	2	29
+ChuckNorris	23	36
+ClarkGable	6	13
+ClaudeRich	3	35
+ClerkMaxwell	1	6
+ClerkMaxwell	2	8
+ClerkMaxwell	3	6
+ClintEastwood	1	8
+ConradHilton	2	4
+CydCharisse	8	36
+CyndiLauper	6	13
+DaliahLavi	2	16
+DanaAndrews	6	31
+DanielleDarrieux	14	22
+DanielleDarrieux	3	9
+DannyGlover	2	19
+DavidCarradine	13	31
+DavidMcCallum	23	24
+DavidMcCallum	3	25
+DavidNiven	17	18
+DebbieReynolds	33	40
+DeborahKerr	5	13
+DebraPaget	7	30
+DenzelWashington	12	16
+DickieMoore	3	28
+DonJohnson	10	19
+DonJohnson	26	29
+DonnaReed	14	26
+DonnaReed	5	19
+DorisDay	22	35
+DyanCannon	5	26
+EdHarris	11	16
+EdwardGRobinson	11	26
+EdwardTeller	15	18
+EdwigeFenech	11	38
+EdwigeFenech	6	27
+Einstain	6	8
+ElVenizelos	12	14
+EliWallach	21	25
+EllenBurstyn	10	15
+ElliottGould	1	4
+ErinGray	14	19
+ErnestHemingway	9	17
+ErnestRutherford	11	17
+ErrolFlynn	18	29
+EstherWilliams	1	7
+EstherWilliams	13	22
+EvaMarieSaint	24	31
+EvaMarieSaint	6	34
+FaradayMichael	1	17
+FernandoRey	2	20
+FernandoRey	6	21
+FessParker	1	2
+FessParker	16	19
+FlemingAlex	4	8
+FranklinDRoosevelt	4	5
+FranklinDRoosevelt	6	12
+FredAstaire	18	20
+FrederickSanger	10	11
+GalileoGalilei	3	6
+GalileoGalilei	4	8
+GaryOldman	22	27
+GenaRowlands	9	31
+GeneHackman	1	2
+GeneWilder	1	9
+GeorgeCScott	19	22
+GeorgeCScott	9	22
+GeorgeMontgomery	2	5
+GeraldinePage	22	35
+GilbertRoland	4	38
+GlennClose	1	10
+GlennClose	3	16
+GloriaSwanson	1	27
+GordonThomson	2	14
+GregorMendel	1	4
+GregoryPeck	3	19
+GretaGarbo	6	20
+HarrisonFord	13	15
+HarrySTruman	14	15
+HelenHayes	6	12
+HorstBuchholz	21	28
+Houston	2	15
+IanMcKellen	25	28
+IlyaPrigogine	3	14
+ImeldaStaunton	4	9
+IsabelleHuppert	23	30
+JackLarson	9	21
+JamesArness	11	22
+JamesGarner	24	35
+JamieLeeCurtis	24	27
+JaneAsher	16	27
+JaneFonda	1	21
+JanePowell	10	49
+JanePowell	23	42
+JaneRussell	4	19
+JanetEllis	1	18
+JanetGaynor	6	24
+JeanClaudeVanDamme	2	13
+JeanPeters	3	21
+JeanneMoreau	11	14
+JeffDaniels	6	34
+JenniferJones	5	30
+JerryLewis	12	15
+JerryLewis	2	7
+JoanCrawford	15	22
+JoanCrawford	7	17
+JoanCusack	11	17
+JoanFontaine	18	26
+JohnCassavetes	6	29
+JohnCleese	7	20
+JohnDerek	15	17
+JohnForsythe	25	27
+JohnForsythe	4	15
+JohnGarfield	7	21
+JohnTravolta	17	23
+JohnVernon	6	7
+JohnWayne	15	24
+JonFinch	13	21
+JudyDavis	4	5
+JudyGarland	2	7
+JudyHolliday	14	22
+JuliaRoberts	6	16
+JuneAllyson	10	19
+KateOMara	6	11
+KathleenTurner	1	5
+KathleenTurner	18	20
+KathyBates	9	23
+KennethBranagh	3	25
+KlausKinski	4	17
+KrisKristofferson	10	25
+KrisKristofferson	12	22
+KrisKristofferson	5	14
+LaurenBacall	6	20
+LeeJCobb	12	22
+LeeJCobb	4	26
+LeifErickson	2	10
+LeifErickson	20	25
+LelandStanford	5	8
+LeslieCaron	11	24
+LeslieNielsen	5	17
+LiamNeeson	5	12
+LindaEvans	17	24
+LinoVentura	10	28
+LizaMinelli	13	22
+LizaMinelli	6	28
+LouCostello	3	18
+MarcelloMastroianni	4	35
+MargaretThatcher	11	23
+MargaretThatcher	4	8
+MargeChampion	4	12
+MargeChampion	4	13
+MarisaPavan	24	29
+MartinLutherKing	11	27
+MartinScorsese	10	22
+MartinScorsese	2	26
+MartinScorsese	5	16
+MaryPickford	2	16
+MaryTamm	7	25
+MaryTylerMoore	24	34
+MaureenOHara	10	16
+MaximilianShell	23	31
+MelFerrer	11	18
+MelFerrer	4	17
+MelGibson	1	6
+MendeleievDmitri	5	8
+MendeleievDmitri	6	9
+MerkouriMelina	3	12
+MerkouriMelina	4	8
+MichaelBloomberg	13	23
+MichaelSarrazin	14	17
+MichellePfeiffer	1	17
+MickJagger	21	35
+MickJagger	30	43
+MylКneDemongeot	5	7
+NeildeGrasseTyson	4	13
+NewmanPaul	2	17
+NewmanPaul	2	7
+NickNolte	1	13
+NickNolte	22	28
+PaulAnka	24	29
+PeterFonda	11	16
+PeterOToole	8	16
+PeterSellers	4	32
+PeterUstinov	7	30
+PhilHartman	7	8
+PhilHartman	9	10
+RandolphScott	11	23
+RaquelWelch	23	28
+RayDanton	8	23
+ReginaldOwen	9	11
+RichardAttenborough	16	23
+RichardAttenborough	16	30
+RichardBoone	18	22
+RichardChamberlain	28	31
+RichardPryor	15	17
+RitaHayworth	1	26
+RitaLeviMontalcini	11	13
+RobertDeNiro	6	7
+RobertDuvall	15	31
+RobertMitchum	10	25
+RobertOppenheimer	8	13
+RobertRyan	1	7
+RogerAllam	4	23
+RogerMoore	10	25
+RoseMarie	2	19
+RowanAtkinson	2	12
+RoyRogers	12	25
+RoyRogers	6	24
+RuthGordon	1	24
+SarahDouglas	25	27
+SartreJeanPaul	1	12
+SartreJeanPaul	10	12
+SerenaWilliams	10	11
+SidneyPoitier	16	27
+SigourneyWeaver	10	12
+SigourneyWeaver	15	18
+SilvanaMangano	12	31
+SilvanaMangano	13	19
+StefaniePowers	12	38
+StephenHawking	9	24
+StevenBerkoff	10	20
+StВphaneAudran	12	37
+StВphaneAudran	33	34
+SusanGeorge	17	21
+SusanSarandon	8	20
+TheodoreRoosevelt	8	12
+TimothyDalton	12	14
+TippiHedren	2	14
+TippiHedren	22	26
+TomHanks	1	22
+TomHanks	3	24
+TomHulce	2	23
+TomasMilian	24	29
+TommyLeeJones	1	7
+Tyson	2	29
+UgoTognazzi	16	35
+ValerieHarper	11	23
+VeronicaLake	14	19
+VittorioGassman	3	13
+VivienLeigh	2	4
+WilliamDafoe	3	12
+WilliamDafoe	7	18
+angelamerkel	24	25
+merrillcharles	1	5
+mitsotakis	2	17
+motherTereza	14	24
+tomselleck	6	19
+AbeVigoda	33	JamesCaan	42
+AdolfHitlerr	3	RobertMitchum	17
+AlCorley	23	VivienLeigh	13
+AlKapone	19	AvaGardner	15
+AlPacino	17	JonFinch	16
+AlanRickman	23	RingoStarr	21
+AlanRickman	24	RoseMarie	6
+AlbertSchweitzer	11	MaggieSmith	9
+AlbertoSordi	18	AndyGriffith	11
+AlejandroRey	14	IsabelleHuppert	4
+AlejandroRey	19	SilvanaMangano	26
+AlejandroRey	8	JamesStewart	6
+AlexanderGrahamBell	14	CliffRobertson	10
+AlexandrakisAlekos	10	RitaHayworth	18
+AlexandrakisAlekos	3	EsteeLauder	6
+AlexandrakisAlekos	4	OdysseasElytis	4
+AliMacGraw	28	WilliamHolden	6
+AmandaBlake	6	LelandStanford	8
+AmandaRedman	13	GalileoGalilei	5
+AmandaRedman	6	MichaelBloomberg	13
+AndreMarieAmpКre	2	JohnCleese	10
+AndreMarieAmpКre	3	JeanneMoreau	34
+AndyGriffith	9	UrsulaAndress	26
+AngelaLansbury	15	JohnDerek	23
+AngelaLansbury	37	YvonneDeCarlo	9
+AngieDickinson	15	DonnaDouglas	14
+AngieDickinson	2	BarbaraStanwyck	20
+AnitaEkberg	15	PaulAnka	19
+AnjelicaHuston	6	LorneGreene	17
+AnnJillian	14	RogerMoore	16
+AnnJillian	16	GordonThomson	1
+AnnJillian	3	MichaelKeaton	23
+AnnMiller	11	JackColeman	22
+AnnMiller	13	CharlesBoyer	4
+AnneBaxter	3	SamElliott	27
+AnneBaxter	4	NickNolte	3
+AnnetteBening	15	DavidMcCallum	9
+AnnetteBening	27	TonyBlair	22
+AnnieGirardot	20	JohnWayne	20
+AnnieGirardot	29	michaeljackson	4
+AnthonyHopkins	23	JaneRussell	9
+AnthonyPerkins	24	SteveMcQueen	10
+AnthonyQuayle	29	JeanneMoreau	8
+AnthonyQuayle	7	CatherineSpaak	19
+Arletty	11	JuliaRoberts	10
+Arletty	11	PeterFonda	7
+Arletty	2	JohnGarfield	11
+Arletty	4	JamieLeeCurtis	29
+ArmandAssante	11	ArnoldSchwarzenegger	26
+ArmandAssante	30	MargeChampion	22
+ArmandAssante	4	GeraldineChaplin	22
+ArnoldSchwarzenegger	39	CharlieSheen	35
+AudreyHepburn	12	Davis	1
+AvaGardner	1	BerryGordy	13
+BarbaraBain	17	merrillcharles	2
+BarbaraBain	5	RobertMorley	15
+BarbaraBouchet	10	GlennClose	2
+BarbaraBouchet	33	FidelCastro	10
+BarbraStreisand	16	JohnTravolta	10
+BarbraStreisand	19	JaneAsher	34
+BarbraStreisand	21	RockHudson	11
+BarbraStreisand	4	Ross	13
+BeaArthur	6	KimNovak	6
+BenGazzara	37	RalphMacchio	31
+BerryGordy	10	MuhammadAli	3
+BerryGordy	19	RoyRogers	26
+BetteDavis	16	TerryMoore	9
+BetteMidler	12	ConnieBooth	23
+BettyGrable	2	TomJones	30
+BillCosby	14	NelsonMandela	7
+BillMurray	20	YvesMontand	23
+BillNighy	10	Thanasisveggos	3
+BoDerek	9	LeslieNielsen	6
+BobDylan	28	Onasis	6
+BobDylan	43	SamuelJacksonn	32
+BobHope	15	ChristopherPlummer	16
+BobHope	5	GlennClose	3
+BonnieHunt	20	SidneyPoitier	21
+BonnieHunt	23	MendeleievDmitri	2
+BorisKarloff	15	TomHanks	12
+BorisKarloff	17	OrnellaMuti	25
+BruceWillis	24	JackNicolson	15
+CarlMarx	5	GlennClose	2
+CharlesGrodin	18	HarrySTruman	5
+CharlieChaplin	18	MichaelSarrazin	11
+CharltonHeaston	16	FidelCastro	10
+ChevyChase	34	ElliottGould	5
+ChristopherPlummer	26	SidneyPoitier	20
+ChristopherWalken	35	SpencerTracy	26
+ChuckNorris	16	HowardKeel	37
+ChuckNorris	26	GregoryPeck	2
+ChuckNorris	9	MikeConnors	35
+ClaudeLВviStrauss	4	JackNicolson	21
+ClaudeRich	16	RyanONeal	6
+ClaudeRich	25	ConradHilton	8
+ClaudiaCardinale	23	RobertPowell	31
+ClaudiaCardinale	27	GraceKelly	26
+CliffRobertson	9	PhilHartman	9
+ClintWalker	24	SusanGeorge	14
+ClintWalker	8	TheodoreRoosevelt	14
+ConradHilton	7	GeraldineChaplin	8
+CydCharisse	16	ElsaMartinelli	24
+CyndiLauper	15	Mparkoulis	3
+DaliahLavi	16	JPMorgan	7
+DanaAndrews	20	RexHarrison	13
+DanaAndrews	21	LawrenceTierney	18
+DanaAndrews	5	KlausKinski	14
+DannyDeVito	11	JoanLorring	9
+DannyDeVito	11	Pele	16
+DannyDeVito	24	JaneRussell	19
+DavidMcCallum	2	JenniferAniston	3
+DavidMcCallum	21	IanMcKellen	11
+DavidNiven	16	EdwardGRobinson	1
+DavidNiven	21	DickieMoore	29
+DavidSarnoff	10	YannisRitsos	1
+Davis	14	UgoTognazzi	16
+Davis	6	RutgerHauer	27
+DebbieReynolds	12	RobertMitchum	17
+DebbieReynolds	6	IlyaPrigogine	13
+Dee	2	TanyaRoberts	9
+Dench	18	JPaulGetty	7
+DenzelWashington	13	NielsBohr	11
+DerekJacobi	17	EdwardGRobinson	22
+DerekJacobi	23	Tyson	21
+DickieMoore	19	JohnGarfield	2
+DickieMoore	32	TerryMoore	16
+DonJohnson	7	JonFinch	19
+DonnaDouglas	7	GregoryPeck	11
+DorisDay	49	RicardoMontalbаn	21
+DyanCannon	21	SidneyPoitier	29
+DyanCannon	33	MendeleievDmitri	5
+EdwardGRobinson	3	WoodyAllen	18
+EdwardTeller	19	PatrickSwayze	11
+EdwigeFenech	18	PhilHartman	8
+ElVenizelos	5	KimNovak	11
+EliWallach	3	MuhammadAli	26
+ElizabethTaylor	18	FrankSinatra	2
+ElizabethTaylor	2	LelandStanford	6
+EllenBurstyn	17	OliviaHussey	7
+ErnestBorgnine	3	ZsaZsaGabor	13
+ErnestHemingway	22	HenryFonda	5
+ErnestHemingway	9	TanyaRoberts	9
+ErrolFlynn	6	JulieChristie	11
+EsteeLauder	1	TheodoreRoosevelt	12
+EstherWilliams	20	MichelPiccoli	6
+EvaMarieSaint	7	NielsBohr	12
+FayeDunaway	14	PeterFonda	7
+Fernandel	7	ValerieHarper	10
+FidelCastro	7	RogerAllam	13
+FrancescaAnnis	9	WilliamShatner	13
+FredMacMurray	28	GingerRogers	19
+GaryOldman	12	NielsBohr	10
+GaryOldman	24	KateOMara	18
+GaryOldman	28	WalterPidgeon	14
+GaryOldman	8	LilliPalmer	8
+GenaRowlands	28	MerylStreep	12
+GenaRowlands	39	JohnCassavetes	29
+GeneWilder	13	RobertDuvall	31
+GeneWilder	23	JeffBridges	26
+GeorgeHWBush	11	SarahDouglas	9
+GeorgeHWBush	8	RonaldReagan	24
+GeorgeMontgomery	17	JamesBest	27
+GeorgePeppard	3	GiorgosSeferis	6
+GeorgePeppard	35	JohnCassavetes	24
+GeorgesMarchal	18	HerbertLom	35
+GeraldineChaplin	22	VanessaRedgrave	37
+GeraldinePage	32	JudyDavis	19
+GilbertRoland	33	MerkouriMelina	6
+GingerRogers	10	PiaLindstrom	10
+GingerRogers	8	tomselleck	14
+GiorgosSeferis	2	WilliamShatner	1
+GiulianoGemma	11	HarrisonFord	12
+GlendaJackson	6	JosephCotten	18
+GlennClose	10	JoanFontaine	8
+GlennClose	15	PeterFalk	44
+GlennClose	9	QueenElizabet	24
+GraceKelly	22	JeffDaniels	2
+GraceKelly	3	JosephCotten	16
+GreerGarson	22	PiaLindstrom	12
+HarrisonFord	13	PatriciaNeal	13
+HarveyKeitel	3	MurrayHamilton	16
+HatzidakisManos	11	JoanCollins	6
+HedyLamarr	13	MickeyRooney	5
+HeinrichHertz	1	RutgerHauer	5
+HelmutBerger	17	JeffDaniels	20
+HenryFonda	5	JeanGabin	12
+HerbertLom	2	SarahDouglas	24
+HumphreyBogard	4	SilvanaMangano	19
+IanHolm	2	PeterUstinov	23
+IanMcKellen	24	LaurenBacall	10
+IlyaPrigogine	4	RuthGordon	4
+ImeldaStaunton	20	MireilleDarc	30
+IsabelleHuppert	21	OliviaHussey	28
+JackLarson	17	JeanGabin	10
+JackLarson	18	PaulmcCartney	14
+JackLemon	19	LouisJourdan	29
+JamesBest	35	JaneRussell	9
+JamesCaan	2	RichardBoone	22
+JamesCaan	40	PeggyLipton	18
+JamesCoburn	10	LelandStanford	4
+JamieLeeCurtis	14	SophiaLoren	8
+JaneBirkin	12	StevenBerkoff	13
+JaneBirkin	37	MonicaVitti	32
+JanePowell	9	MichaelCaine	6
+JaneRussell	7	LinoVentura	16
+JanetEllis	13	SamuelJacksonn	10
+JeanPaulBelmondo	21	StВphaneAudran	17
+JeanetteMacDonald	12	MargeChampion	9
+JeffBridges	8	MichaelBloomberg	23
+JeffGoldblum	18	OdysseasElytis	14
+JeffGoldblum	25	JeremyKemp	7
+JeffreyJones	14	WarrenBeatty	35
+JeffreyJones	8	RonaldReagan	27
+JenniferAniston	14	KathleenTurner	23
+JerryLewis	11	MylКneDemongeot	23
+JhonLenon	10	MarleneDietrich	16
+JoanCrawford	14	SteveJobsb	14
+JoanCrawford	7	SamNeill	28
+JoanLorring	8	SpencerTracy	1
+JohnCassavetes	9	LarryEllison	1
+JohnCleese	15	ValerieHarper	11
+JohnCleese	15	akistsoxatzopoulos	9
+JohnDerek	20	MyrnaLoy	48
+JohnDerek	26	PamelaSueMartin	25
+JohnForsythe	8	ZsaZsaGabor	16
+JohnMalkovich	15	MartinSheen	28
+JohnWayne	13	SarahDouglas	3
+JohnWayne	6	MickJagger	27
+JosephStalin	9	KathrynGrayson	25
+JudyGarland	17	RutgerHauer	11
+JudyHolliday	11	TomasMilian	18
+JulieAdams	13	NielsBohr	6
+JulieAdams	2	NormaShearer	18
+JulieAdams	4	RogerAllam	25
+JulieHagerty	6	KostasVoutsas	10
+JuneLockhart	3	LelandStanford	11
+JuneLockhart	31	OdysseasElytis	2
+JuneLockhart	35	KateOMara	21
+KathrynGrayson	15	VeraEllen	5
+KathrynGrayson	7	SteveMartin	14
+KathyBates	6	ShelleyWinters	10
+KevinCostner	23	MelFerrer	18
+KevinSpacey	4	SophiaLoren	12
+KirkDouglas	15	MaureenOHara	10
+Konstantaras	18	ShirleyMacLaine	15
+Konstantaras	9	ValerieHarper	7
+KostasVoutsas	18	VittorioGassman	5
+KostasXatzixristos	5	MichellePfeiffer	24
+KrisKristofferson	2	RobertPowell	21
+KristinScottThomas	24	PatrickStewart	21
+LarryEllison	2	SilvanaMangano	24
+LawrenceTierney	11	MichellePfeiffer	8
+LeeJCobb	13	SerenaWilliams	24
+LeeJCobb	9	LyleTalbot	4
+LeifErickson	27	PierceBrosnan	9
+LeifErickson	8	SamNeill	32
+LeslieCaron	37	PeterFonda	5
+LiamNeeson	23	RicardoMontalbаn	3
+LindsayWagner	16	RichardPryor	13
+LouisJourdan	20	OrnellaMuti	8
+MargaretNolan	13	MichaelKeaton	30
+MargeChampion	10	cambell	1
+MargeChampion	34	PeterFonda	7
+MarietteHartley	19	RoyRogers	6
+MaryPickford	2	RowanAtkinson	5
+MaximilianShell	19	SusanSarandon	18
+MelBrooks	31	TomHulce	24
+MelGibson	16	Thanasisveggos	6
+MendeleievDmitri	7	MyrnaLoy	25
+MichaelCaine	10	SartreJeanPaul	10
+MichaelCaine	11	StВphaneAudran	22
+MichaelKeaton	10	Thanasisveggos	11
+MichaelKeaton	13	RichardBoone	4
+MickeyRooney	25	PiaLindstrom	17
+MonicaVitti	5	OdysseasElytis	11
+NelsonMandela	18	RexHarrison	20
+NicolasSarkozy	22	SamuelJacksonn	21
+OrnellaMuti	28	SusanHayward	4
+PamelaSueMartin	15	merrillcharles	4
+PatriciaNeal	32	SteveMartin	12
+PatriciaNeal	33	SerenaWilliams	7
+PatrickStewart	17	RodTaylor	33
+PaulmcCartney	8	SpencerTracy	2
+PeterMarkRichman	10	Thanasisveggos	16
+PiaLindstrom	19	ReginaldOwen	22
+RichardChamberlain	20	StevenSpielberg	18
+RomanPolanski	51	ThomasTerry	17
+RomySchneider	1	ValerieHarper	14
+Ross	16	ShirleyJones	11
+SartreJeanPaul	1	UrsulaAndress	11
+ScottGlenn	24	SusannahYork	19
+ShelleyWinters	18	WillSmith	24
+SophiaLoren	13	SusanGeorge	12
+SpencerTracy	13	cambell	1
+StacyKeach	31	UgoTognazzi	16
+StВphaneAudran	38	TanyaRoberts	5
+TomJones	23	merrillcharles	3
+Turner	16	YannisRitsos	14
+Tyson	30	VanessaRedgrave	11
+VeraEllen	17	YvonneDeCarlo	13

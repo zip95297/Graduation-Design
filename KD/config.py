@@ -29,6 +29,9 @@ class Config:
     train_root = '/home/zjb/workbench/data/CASIA-WebFace'
     test_root = "/home/zjb/workbench/data/lfw-align-128"
     test_list = "/home/zjb/workbench/data/lfw_test_pair.txt"
+
+    age_test_root="/home/zjb/workbench/data/AgeDB"
+    age_test_list="/home/zjb/workbench/data/AgeDB_test_pair.txt"
     
     # training settings
     # checkpoints = "checkpoints"
@@ -36,6 +39,8 @@ class Config:
     # restore_model = ""
     # name="resnet_arcface_60_3.0496349334716797"
     # test_model = f"/home/zjb/workbench/recognition/checkpoints/{name}.pth"
+    name="teacher_now"
+    test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/TeacherModel/{name}.pth"
     
     train_batch_size = 64
     test_batch_size = 60
