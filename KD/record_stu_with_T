@@ -1,0 +1,16 @@
+2163673
+
+on device cuda:1
+resnet_arcface
+Training resnet18 with arcface with 250 epochs and 64 batch size and optimizer sgd
+Evaluating teacher model...
+
+Test Teacher Model: resnet
+Accuracy: 0.976
+Threshold: 0.278
+
+!--- loss = 1 * hard_loss + 15 * soft_loss ---!
+start training...
+-------------------------------------------------------------------------------------------------------------------------------
+stu model	epoch	batch		total_batch		accuracy	threshold	loss		hard_loss	soft_loss	time
+resnet18	1		25			7119			0.57767		0.96489		38.224682	23.537497	0.979146	2024-03-31 03:38:01

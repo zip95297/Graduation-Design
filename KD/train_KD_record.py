@@ -4,7 +4,7 @@ from models import ResIRSE,ResNet18,loss
 from models.metric import ArcFace
 from config import config as conf
 from dataset import load_data
-from models.KD_loss import KD_loss
+from models.KD_loss_record import KD_loss
 import torch.nn as nn
 import torch.optim as optim
 import os
@@ -12,12 +12,16 @@ import os.path as osp
 from torch.nn.utils import clip_grad_norm_
 from tqdm import tqdm
 from test import unique_image, group_image
-from validate import validation_in_process, validation_teacher_model
+from validate import validation_in_process, validation_teacher_model, validation_in_process_no_print
+import time
 
 # Train Data Setup
 dataloader, class_num = load_data(conf, training=True)
 embedding_size = conf.embedding_size
 device = conf.device
+
+alpha = 1 # hard_loss
+beta = 15 # soft_loss_based_on_feature
 
 print(f"on device {device}")
 print(f"{conf.backbone}_{conf.metric}")
@@ -43,7 +47,7 @@ student_model.train()
 # metric = ArcFace(embedding_size, class_num).to(device)
 
 # Define loss function
-criterion = KD_loss(class_num, T=2, alpha=0.5, beta=1.0, gamma=1.0, embedding_size=embedding_size).to(device)
+criterion = KD_loss(class_num, T=2, alpha=1, beta=15, gamma=1.0, embedding_size=embedding_size).to(device)
 
 
 # Define optimizer
@@ -57,7 +61,7 @@ else:
 #------------------------------------------------------------------------------------>scheduler
 scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=conf.lr_step, gamma=0.1)
 
-print(f"Training {conf.backbone} with {conf.metric} with {conf.epoch} epochs and {conf.train_batch_size} batch size and optimizer {conf.KD_optimizer}")
+print(f"Training {conf.student_model} with {conf.metric} with {conf.epoch} epochs and {conf.train_batch_size} batch size and optimizer {conf.KD_optimizer}")
 
 
 teacher_model.eval()
@@ -66,7 +70,10 @@ student_model.train()
 print("Evaluating teacher model...")
 validation_teacher_model(teacher_model, conf, groups)
 
+print(f"!--- loss = {alpha} * hard_loss + {beta} * soft_loss ---!")
 print("start training...")
+print("------------------------------------------------------------------------------------------------------------------------")
+print(f"stu model\tepoch\tbatch\t\ttotal_batch\t\taccuracy\tthreshold\tloss\t\thard_loss\tsoft_loss\ttime")
 # Training loop
 for epoch in range(conf.epoch):
     teacher_model.eval()
@@ -74,6 +81,8 @@ for epoch in range(conf.epoch):
     batch_num=0
     batch_num_total = len(dataloader)
     avg_loss = 0
+    avg_hard_loss = 0
+    avg_soft_loss = 0
     
     for data, labels in dataloader:
             
@@ -89,7 +98,7 @@ for epoch in range(conf.epoch):
         student_outputs = student_model(data)
         
         # Compute loss -------------------------------------------------------> 修改Loss
-        loss = criterion(student_outputs, teacher_outputs, labels)
+        loss , hard_loss, soft_loss = criterion(student_outputs, teacher_outputs, labels)
         
         # Backward pass and optimization
         optimizer.zero_grad()
@@ -109,17 +118,18 @@ for epoch in range(conf.epoch):
         
         # print(f'Epoch {epoch+1}, Gradients: {gradients}')
         
-        # Perform validation
-        if batch_num % 100 == 0 :
-            validation_in_process(conf, student_model, teacher_model, criterion, groups, epoch)
-
         # Print training progress
         avg_loss+=loss.item()
+        avg_hard_loss+=hard_loss.item()
+        avg_soft_loss+=soft_loss.item()
 
         show_step = 25
         if batch_num % show_step == 0:
-            print(f"Epoch: {epoch+1}/{conf.epoch}, Loss: {avg_loss/show_step:.8f} ,\tbatch: {batch_num}/{batch_num_total}")
+            acc, th = validation_in_process_no_print(conf, student_model, teacher_model, criterion, groups, epoch)
+            print(f"{conf.student_model}\t{epoch+1}\t\t{batch_num}\t\t\t{batch_num_total}\t\t\t{acc:.5f}\t\t{th:.5f}\t\t{avg_loss/show_step:.6f}\t{avg_hard_loss/show_step:.6f}\t{avg_soft_loss/show_step:.6f}\t{time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))}")
             avg_loss = 0
+            avg_hard_loss = 0
+            avg_soft_loss = 0
 
         
 
@@ -131,5 +141,5 @@ for epoch in range(conf.epoch):
     student_model.train()
     scheduler.step() #------------------------------------------------------------->scheduler
     # Save the trained student model
-    backbone_path = osp.join(conf.student_ckpt, f"Resnet18_{epoch}_{acc:.3f}_{loss:.4f}.pth")
+    backbone_path = osp.join(conf.student_ckpt, f"_record_Resnet18_{epoch}_{acc:.3f}_{loss:.4f}.pth")
     torch.save(student_model.state_dict(),backbone_path )
