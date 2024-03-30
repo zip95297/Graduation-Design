@@ -138,6 +138,27 @@ def test(model,pth_path,testList,testRoot):
         f"Threshold: {threshold:.3f}\n"
     )
 
+
+def test_in_train(model,testList,testRoot,conf):
+
+    model.eval()
+    images = unique_image(testList)
+    images = [osp.join(testRoot, img) for img in images]
+    groups = group_image(images, conf.test_batch_size)
+    feature_dict = dict()
+    for group in groups:
+        d = featurize(group, conf.test_transform, model, conf.device)
+        feature_dict.update(d) 
+    accuracy, threshold = compute_accuracy(feature_dict, testList, testRoot) 
+    # testDataSet=testRoot.split("/")[-1]
+    # print(
+    #     f"Test Model: {conf.test_model}\n"
+    #     f"Test DataSet {testDataSet}\n"
+    #     f"Accuracy: {accuracy:.3f}\n"
+    #     f"Threshold: {threshold:.3f}\n"
+    # )
+    return accuracy,threshold
+
 if __name__ == '__main__':
 
     if len(sys.argv)==2 :
