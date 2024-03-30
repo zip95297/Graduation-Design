@@ -1,5 +1,5 @@
+3516937
 on device cuda:2
 resnet_arcface
 start training...
 model		epoch	batch	totalbatch	accuaracy	threshold	loss		time
-resnet	1		25		7119		0.59117		0.63074		25.220439	2024-03-30 21:56:42

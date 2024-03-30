@@ -98,7 +98,7 @@ for e in range(conf.epoch):
         if batch_count % step == 0:
             net.eval()
             acc,th=test_in_train(net, conf.test_list, conf.test_root, conf)
-            print(f"{conf.backbone}\t{e+1}\t\t{batch_count}\t\t{len(dataloader)}\t\t{acc:.5f}\t\t{th:.5f}\t\t{avg_loss/step:.6f}\t{time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))}")
+            print(f"resnet50\t{e+1}\t\t{batch_count}\t\t{len(dataloader)}\t\t{acc:.5f}\t\t{th:.5f}\t\t{avg_loss/step:.6f}\t{time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))}")
             avg_loss = 0
             net.train()
 
