@@ -135,8 +135,8 @@ for epoch in range(conf.epoch):
 
     # Perform validation
     # if (epoch+1) % conf.validation_interval == 0:
-    acc,th=validation_in_process(conf, student_model, teacher_model, criterion, groups, epoch)
-    print(f"Epoch: {epoch+1}/{conf.epoch}, Accuracy: {acc:.5f}, Threshold: {th:.5f}")
+    # acc,th=validation_in_process(conf, student_model, teacher_model, criterion, groups, epoch)
+    # print(f"Epoch: {epoch+1}/{conf.epoch}, Accuracy: {acc:.5f}, Threshold: {th:.5f}")
 
     student_model.train()
     scheduler.step() #------------------------------------------------------------->scheduler
