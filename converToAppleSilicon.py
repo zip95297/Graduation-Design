@@ -1,3 +1,10 @@
+# cuda上训练的模型可以直接在AppleSilicon上使用，可以使用MPS进行加速，或者直接使用CPU进行推理
+# 但是需要将模型转换为CoreML格式，这样才能在iOS上使用
+# 需要注意的是如果训练时使用了model = nn.DataParallel(model , device_ids=[0])
+# 需要在使用之前将模型转换为普通的模型，否则会报错
+# 本脚本是将模型转换为CoreML格式的脚本
+# 如果需要将cuda模型部署到AppleSilicon上，可以直接使用（视具体情况将并行[DataParrale]模型转化）
+
 import torch
 import torch.nn as nn
 import coremltools as ct
