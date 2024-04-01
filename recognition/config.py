@@ -27,6 +27,8 @@ class Config:
 
     # dataset
     train_root = '/home/zjb/workbench/data/CASIA-WebFace'
+    # train_root = "/home/zjb/workbench/data/lfw-align-128"
+
     test_root = "/home/zjb/workbench/data/lfw-align-128"
     test_list = "/home/zjb/workbench/data/lfw_test_pair.txt"
 
@@ -52,7 +54,7 @@ class Config:
     loss = 'focal_loss' # ['focal_loss', 'cross_entropy']
    
     # nvidia-smi
-    deviceID=[2]
+    deviceID=[4]
     
     device = f'cuda:{deviceID[0]}' if torch.cuda.is_available() else 'cpu'
 

@@ -36,3 +36,22 @@ with open(test_pair_txt, 'w') as f:
     for pair in diff_pairs:
         f.write(pair+'\n')
     f.close()
+
+
+
+if __name__ == "__main__":
+    
+    # 获取当前目录下的所有文件夹名
+    folders = [folder for folder in os.listdir('/home/zjb/workbench/data/lfw_as_train')]
+
+    # 对文件夹名进行重新命名
+    for i, folder in enumerate(folders):
+        files = os.listdir(f"/home/zjb/workbench/data/lfw_as_train/{folder}")
+        file_count=1
+        for file in files:
+            os.rename(f"/home/zjb/workbench/data/lfw_as_train/{folder}/{file}",f"/home/zjb/workbench/data/lfw_as_train/{folder}/{file_count:03d}.jpg" )
+            file_count+=1
+        folder_new_name = str(f"/home/zjb/workbench/data/lfw_as_train/{i:05d}")
+        os.rename(f"/home/zjb/workbench/data/lfw_as_train/{folder}", folder_new_name)
+
+        
