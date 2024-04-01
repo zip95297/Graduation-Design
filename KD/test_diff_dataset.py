@@ -110,10 +110,10 @@ def compute_accuracy(feature_dict, pair_list, test_root):
 
 def test(model,pth_path,testList,testRoot):
     if model == "resnet18" :
-        model = ResNet18()
+        model = ResNet18().to(conf.device)
     elif model == "resnet50" :
         model = ResIRSE(conf.embedding_size, conf.drop_ratio)
-    model = nn.DataParallel(model , device_ids=conf.deviceID)
+        model = nn.DataParallel(model , device_ids=conf.deviceID)
     model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
 
     model.eval()
@@ -143,8 +143,13 @@ if __name__ == '__main__':
         conf.test_model = f"../checkpoints/ckpt-recognition/{sys.argv[1]}.pth"
     #model = FaceMobileNet(conf.embedding_size)
         
+    conf.test_model = "/home/zjb/workbench/checkpoints/ckpt-KD/Resnet18_59_0.948_3.5091.pth"
+
     # LFW
-    test(model="resnet50",pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root)
+    test(model="resnet18",pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root)
 
     # AgeDB
-    test(model="resnet50",pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root)
+    test(model="resnet18",pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root)
+
+    # Train set
+    test(model="resnet18",pth_path=conf.test_model,testList=conf.test_on_train_list,testRoot=conf.test_on_train_root)

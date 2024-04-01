@@ -111,9 +111,9 @@ def compute_accuracy(feature_dict, pair_list, test_root):
 
 def test(model,pth_path,testList,testRoot):
     if model == "resnet18" :
-        model = ResNet18()
+        model = ResNet18().to(conf.device)
     elif model == "resnet50" :
-        model = ResIRSE(conf.embedding_size, conf.drop_ratio)
+        model = ResIRSE(conf.embedding_size, conf.drop_ratio).to(conf.device)
     model = nn.DataParallel(model , device_ids=conf.deviceID)
     model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
 
@@ -165,8 +165,17 @@ if __name__ == '__main__':
         conf.test_model = f"../checkpoints/ckpt-recognition/{sys.argv[1]}.pth"
     #model = FaceMobileNet(conf.embedding_size)
 
+    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/Tested/resnet_arcface_56_3.3647572994232178.pth"
+    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/resnet18_arcface_49_2.596092462539673.pth"
+    print(f"Test Model: {conf.test_model}")
+    model="resnet18" # or resnet18
+
     # AgeDB
-    test(model="resnet50",pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root)
+    test(model=model,pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root)
         
     # LFW
-    test(model="resnet50",pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root)
+    test(model=model,pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root)
+
+    # Train set
+    test(model=model,pth_path=conf.test_model,testList=conf.test_on_train_list,testRoot=conf.test_on_train_root)
+

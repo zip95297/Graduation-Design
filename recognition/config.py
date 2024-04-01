@@ -34,6 +34,9 @@ class Config:
 
     age_test_root="/home/zjb/workbench/data/AgeDB"
     age_test_list="/home/zjb/workbench/data/AgeDB_test_pair.txt"
+
+    test_on_train_root='/home/zjb/workbench/data/CASIA-WebFace'
+    test_on_train_list='/home/zjb/workbench/data/webface_test_pair.txt'
     
     # training settings
     checkpoints = "../checkpoints/ckpt-recognition"
