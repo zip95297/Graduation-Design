@@ -49,7 +49,10 @@ class KD_loss(nn.Module):
         # classification loss - hard label \ hard loss
         thetas = self.arcface(student_outputs, labels)
         cls_loss = self.criterion(thetas, labels)
-        
+
+        thetas_tea = self.arcface(teacher_outputs, labels)
+        thetas_stu = self.arcface(student_outputs, labels)
+
         # soft label loss
         #将此处改为cosine_similarity
         #经过调试发现，teacher_predict_label的值预测准确率极低，而且num_classes=10575，所以teacher_predict_label的值都非常接近0
@@ -58,7 +61,13 @@ class KD_loss(nn.Module):
         # 计算两个output的KL散度得到的softloss太少，0.001左右
         # kl_div = F.kl_div(F.log_softmax(student_outputs, dim=1),
         #                      F.softmax(teacher_outputs / self.T, dim=1), reduction='batchmean')
-        cosine_similarity = F.cosine_similarity(F.normalize(student_outputs), F.normalize(teacher_outputs), dim=1)
+        #
+        
+        # #  基于特征
+        # cosine_similarity = F.cosine_similarity(F.normalize(student_outputs), F.normalize(teacher_outputs), dim=1)
+
+        # 基于logits
+        cosine_similarity = F.cosine_similarity(F.normalize(thetas_stu), F.normalize(thetas_tea), dim=1)
         
         soft_loss = (1-cosine_similarity).mean()
 
