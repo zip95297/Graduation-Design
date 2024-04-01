@@ -16,7 +16,7 @@ from test_diff_dataset import test_in_train
 import time
 
 conf.metric='pearface'
-conf.train_root = '/home/zjb/workbench/data/lfw-align-128'
+conf.train_root = '/home/zjb/workbench/data/CASIA-WebFace'
 
 # Data Setup
 dataloader, class_num = load_data(conf, training=True)
