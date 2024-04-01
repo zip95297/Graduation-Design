@@ -57,7 +57,7 @@ class Config:
     loss = 'focal_loss' # ['focal_loss', 'cross_entropy']
 
     # nvidia-smi
-    deviceID=[5]
+    deviceID=[0]
     
     device = f'cuda:{deviceID[0]}' if torch.cuda.is_available() else 'cpu'
 

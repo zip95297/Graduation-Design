@@ -27,7 +27,7 @@ class Config:
 
     # dataset
     train_root = '/home/zjb/workbench/data/CASIA-WebFace'
-    train_root = "/home/zjb/workbench/data/lfw-align-128"
+    # train_root = "/home/zjb/workbench/data/lfw-align-128"
 
     test_root = "/home/zjb/workbench/data/lfw-align-128"
     test_list = "/home/zjb/workbench/data/lfw_test_pair.txt"

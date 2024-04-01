@@ -8,12 +8,15 @@ import torch.optim as optim
 from tqdm import tqdm
 
 from model import FaceMobileNet, ResIRSE
-from model.metric import ArcFace, CosFace, PilFace
+from model.metric import ArcFace, CosFace, PearFace
 from model.loss import FocalLoss
 from dataset import load_data
 from config import config as conf
 from test_diff_dataset import test_in_train
 import time
+
+conf.metric='pearface'
+conf.train_root = '/home/zjb/workbench/data/lfw-align-128'
 
 # Data Setup
 dataloader, class_num = load_data(conf, training=True)
@@ -30,20 +33,21 @@ print(f"{conf.backbone}_{conf.metric}")
 
 print(f"train dataset : {conf.train_root}")
 
-# Network Setup
-if conf.backbone == 'resnet':
-    net = ResIRSE(embedding_size, conf.drop_ratio).to(device)
-else:
-    net = FaceMobileNet(embedding_size).to(device)
 
-if conf.metric == 'arcface':
-    metric = ArcFace(embedding_size, class_num).to(device)
-else:
-    metric = CosFace(embedding_size, class_num).to(device)
+# # Network Setup
+# if conf.backbone == 'resnet':
+#     net = ResIRSE(embedding_size, conf.drop_ratio).to(device)
+# else:
+#     net = FaceMobileNet(embedding_size).to(device)
 
-metric = PilFace(embedding_size, class_num).to(device)
+# if conf.metric == 'arcface':
+#     metric = ArcFace(embedding_size, class_num).to(device)
+# else:
+#     metric = CosFace(embedding_size, class_num).to(device)
 
+metric = PearFace(embedding_size, class_num).to(device)
 
+net = ResIRSE(embedding_size, conf.drop_ratio).to(device)
 
 net = nn.DataParallel(net, device_ids=conf.deviceID)
 metric = nn.DataParallel(metric, device_ids=conf.deviceID)
@@ -62,6 +66,7 @@ else:
                             lr=conf.lr, weight_decay=conf.weight_decay)
 
 scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=conf.lr_step, gamma=0.1)
+
 
 # Checkpoints Setup
 checkpoints = conf.checkpoints
@@ -114,6 +119,6 @@ for e in range(conf.epoch):
 
     # print(f"Epoch {e}/{conf.epoch}, Loss: {loss}")
 
-    backbone_path = osp.join(checkpoints, f"{conf.backbone}_{conf.metric}_{e}_{loss}.pth")
+    backbone_path = osp.join(checkpoints, f"_{conf.backbone}_{conf.metric}_{e}_{loss}.pth")
     torch.save(net.state_dict(), backbone_path)
     scheduler.step()
