@@ -11,5 +11,7 @@ class FocalLoss(nn.Module):
     def forward(self, input, target):
         logp = self.ce(input, target)
         p = torch.exp(-logp)
+
+        # 减小简单样本对参数的更新，着重学习复杂样本
         loss = (1 - p) ** self.gamma * logp
         return loss.mean()
