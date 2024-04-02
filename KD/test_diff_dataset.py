@@ -143,7 +143,7 @@ if __name__ == '__main__':
         conf.test_model = f"../checkpoints/ckpt-recognition/{sys.argv[1]}.pth"
     #model = FaceMobileNet(conf.embedding_size)
         
-    conf.test_model = "/home/zjb/workbench/checkpoints/ckpt-KD/Resnet18_59_0.948_3.5091.pth"
+    conf.test_model = "/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_13_0.949_5.3008.pth"
 
     # LFW
     test(model="resnet18",pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root)

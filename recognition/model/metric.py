@@ -108,13 +108,19 @@ class PearFace(nn.Module):
     # 计算 pearson 相关性系数 ，embeding 与 weight 的内积
     def pearson(self, x):
         # 计算输入和权重的均值
+        x= F.normalize(x)
+        weight=self.weight / self.weight.norm(dim=1, keepdim=True)
+
+
         input_mean = torch.mean(x, dim=1, keepdim=True)
-        weight_mean = torch.mean(self.weight, dim=1, keepdim=True)
+        ## 1->0
+        weight_mean = torch.mean(weight, dim=0, keepdim=True)
         
         # 计算输入和权重减去均值后的内积
-        input_centered = x - input_mean
+        #input_centered = x - input_mean
+        input_centered = x - weight_mean
         weight_centered = self.weight - weight_mean
-
+        
         # # normalize?
         # inner_product = torch.mm(input_centered, weight_centered.T)
         
