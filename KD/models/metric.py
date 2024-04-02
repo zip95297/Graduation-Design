@@ -188,3 +188,9 @@ class PearFace(nn.Module):
         pearson=F.linear(F.normalize(input_centered), F.normalize(weight_centered))
 
         return pearson
+    
+if __name__ == "__main__":
+    p=PearFace(512, 10575)
+    x=torch.randn(64,512)
+    label=torch.randint(0,10575,(64,))
+    output=p(x,label)
