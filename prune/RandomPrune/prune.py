@@ -173,6 +173,6 @@ for epoch in range(start_epoch, start_epoch+250):
     acc,th=test_in_train(net, conf.test_list, conf.test_root, conf)
     print(f"Epoch:{epoch} pruned acc:",acc)      
 
-    backbone_path = osp.join("checkpoints/ckpt-prune/random-prune", f"ResNet18_pruned_{conf.metric}_{epoch}_{acc:.3f}.pth")
+    backbone_path = osp.join("/home/zjb/workbench/checkpoints/ckpt-prune/random-prune", f"ResNet18_pruned_{conf.metric}_{epoch}_{acc:.3f}.pth")
     torch.save(net.state_dict(), backbone_path)
     scheduler.step()
