@@ -93,6 +93,7 @@ class ResNet18(nn.Module):
 
         return x
 
+
 if __name__ == "__main__":
     from PIL import Image
     import numpy as np
@@ -103,7 +104,6 @@ if __name__ == "__main__":
     # x = x[None, None, ...]
     # x = torch.from_numpy(x)
     net = ResNet18(embedding_size=512)
-    net.load_state_dict(torch.load("/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_21_0.953_3.2020.pth"))
     x = torch.randn(1, 1, 128, 128)    
     net.eval()
     with torch.no_grad():
