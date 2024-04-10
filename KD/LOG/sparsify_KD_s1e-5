@@ -1,0 +1,6 @@
+on device cuda:4
+resnet_arcface
+1486372
+Training Sparsify_KD resnet18 with arcface with 250 epochs and 64 batch size and optimizer sgd
+Evaluating teacher model...
+

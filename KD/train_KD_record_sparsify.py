@@ -41,14 +41,14 @@ teacher_model.eval()
 
 
 # Define student model
-student_model = ResNet18_to_Sparsify().to(conf.device)
+student_model = ResNet18_to_Sparsify(sparsify_gamma=0.00001).to(conf.device)
 student_model.train()
 
 # Define metric
 # metric = ArcFace(embedding_size, class_num).to(device)
 
 # Define loss function
-criterion = KD_loss(class_num, T=2, alpha=1, beta=15, gamma=1.0, embedding_size=embedding_size).to(device)
+criterion = KD_loss(class_num, T=2, alpha=alpha, beta=beta, gamma=1.0, embedding_size=embedding_size).to(device)
 
 
 # Define optimizer
