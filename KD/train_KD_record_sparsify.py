@@ -128,7 +128,7 @@ for epoch in range(conf.epoch):
         avg_hard_loss+=hard_loss.item()
         avg_soft_loss+=soft_loss.item()
 
-        show_step = 25
+        show_step = 100
         if batch_num % show_step == 0:
             acc, th = validation_in_process_no_print(conf, student_model, teacher_model, criterion, groups, epoch)
             print(f"{conf.student_model}\t{epoch+1}\t\t{batch_num}\t\t\t{batch_num_total}\t\t\t{acc:.5f}\t\t{th:.5f}\t\t{avg_loss/show_step:.6f}\t{avg_hard_loss/show_step:.6f}\t{avg_soft_loss/show_step:.6f}\t{time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))}")
