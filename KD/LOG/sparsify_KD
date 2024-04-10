@@ -1,11 +1,12 @@
-on device cuda:3
+on device cuda:5
 resnet_arcface
 Training Sparsify_KD resnet18 with arcface with 250 epochs and 64 batch size and optimizer sgd
 Evaluating teacher model...
+825340
 Test Teacher Model: resnet
 Accuracy: 0.976
 Threshold: 0.278
-724875
+
 !--- loss = 1 * hard_loss + 15 * soft_loss ---!
 start training...
 ------------------------------------------------------------------------------------------------------------------------
