@@ -1,0 +1,15 @@
+# newmodel = [512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]on device cuda:4
+resnet_arcface
+Training resnet18 with arcface with 250 epochs and 64 batch size and optimizer sgd
+Evaluating teacher model...
+99972
+
+Test Teacher Model: resnet
+Accuracy: 0.976
+Threshold: 0.278
+
+!--- loss = 1 * hard_loss + 15 * soft_loss ---!
+resnet18 config: [512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]
+start training...
+------------------------------------------------------------------------------------------------------------------------
+stu model	epoch	batch		total_batch		accuracy	threshold	loss		hard_loss	soft_loss	time

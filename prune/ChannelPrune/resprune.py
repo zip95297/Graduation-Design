@@ -22,7 +22,7 @@ parser.add_argument('--no-cuda', action='store_true', default=False,
                     help='disables CUDA training')
 parser.add_argument('--depth', type=int, default=69,
                     help='depth of the resnet')
-parser.add_argument('--percent', type=float, default=0.5,
+parser.add_argument('--percent', type=float, default=0.25,
                     help='scale sparse rate (default: 0.25)')
 parser.add_argument('--model', default='/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_21_0.953_3.2020.pth', type=str, metavar='PATH',
                    # help='path to the model (default: /home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_21_0.953_3.2020.pth)')

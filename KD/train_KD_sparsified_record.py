@@ -42,9 +42,9 @@ teacher_model.eval()
 
 # Define student model
 student_model = ResNet18().to(conf.device)
-student_model = ResNet18_with_config(config= [512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510]).to(conf.device)
+student_model = ResNet18_with_config(config= [512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]).to(conf.device)
 student_model.train()
-r18_config = [512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510]
+r18_config = [512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]
 
 # Define metric
 # metric = ArcFace(embedding_size, class_num).to(device)
