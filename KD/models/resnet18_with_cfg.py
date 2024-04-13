@@ -42,7 +42,7 @@ class BasicBlock_with_config(nn.Module):
 
 
 class ResNet18_with_config(nn.Module):
-    # cfg= [512, 19, 'M', 64, 63, 64, 63, 128, 121, 2, 128, 120, 191, 248, 0, 95, 121, 40, 57, 0, 175, 444]
+    # model = ResNet18_with_config(config= [512, 55, 'M', 64, 64, 64, 63, 128, 128, 25, 128, 128, 256, 256, 25, 256, 182, 495, 440, 32, 361, 506])
     def __init__(self, block=BasicBlock_with_config, layers=[2,2,2,2], embedding_size=512,config=None):
         super(ResNet18_with_config, self).__init__()
     
@@ -98,8 +98,9 @@ class ResNet18_with_config(nn.Module):
 
 
 if __name__ == "__main__":
-    model = ResNet18_with_config(config= [512, 19, 'M', 64, 63, 64, 63, 128, 121, 2, 128, 120, 191, 248, 23, 95, 121, 40, 57, 65, 175, 444])
     model = ResNet18_with_config(config= [512, 55, 'M', 64, 64, 64, 63, 128, 128, 25, 128, 128, 256, 256, 25, 256, 182, 495, 440, 32, 361, 506])
+    model = ResNet18_with_config(config= [512, 55, 'M', 64, 64, 64, 63, 128, 128, 25, 128, 128, 256, 256, 1, 256, 182, 495, 440, 1, 361, 506])
+    model = ResNet18_with_config(config= [512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510])
     print(1)
     print(model)
     x =  torch.randn(64,1,128,128)

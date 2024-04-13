@@ -1,0 +1,8 @@
+# student_model = ResNet18_with_config(config= [512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510]).to(conf.device)
+
+on device cuda:2
+resnet_arcface
+Training resnet18 with arcface with 250 epochs and 64 batch size and optimizer sgd
+Evaluating teacher model...
+3892920
+

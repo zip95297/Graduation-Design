@@ -23,9 +23,10 @@ parser.add_argument('--no-cuda', action='store_true', default=False,
 parser.add_argument('--depth', type=int, default=69,
                     help='depth of the resnet')
 parser.add_argument('--percent', type=float, default=0.5,
-                    help='scale sparse rate (default: 0.5)')
+                    help='scale sparse rate (default: 0.25)')
 parser.add_argument('--model', default='/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_21_0.953_3.2020.pth', type=str, metavar='PATH',
-                    help='path to the model (default: /home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_21_0.953_3.2020.pth)')
+                   # help='path to the model (default: /home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_21_0.953_3.2020.pth)')
+                    help = ' path to the model (default: /home/zjb/workbench/checkpoints/ckpt-KD/Sparsify/_record_Resnet18_Sparsify_18_0.952_3.4756.pth)')
 parser.add_argument('--save', default='/home/zjb/workbench/checkpoints/ckpt-prune/channel-prune', type=str, metavar='PATH',
                     help='path to save pruned model (default: /home/zjb/workbench/checkpoints/ckpt-prune/channel-prune)')
 
