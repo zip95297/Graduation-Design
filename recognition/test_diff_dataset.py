@@ -10,7 +10,7 @@ from PIL import Image
 from config import config as conf
 from model import FaceMobileNet
 from model import ResIRSE
-from model import ResNet18
+from model import ResNet18, ResNet18_with_config
 
 import onnx
 
@@ -109,12 +109,14 @@ def compute_accuracy(feature_dict, pair_list, test_root):
     accuracy, threshold = threshold_search(similarities, labels)
     return accuracy, threshold
 
-def test(model,pth_path,testList,testRoot):
+def test(model,pth_path,testList,testRoot,cfg=None):
     if model == "resnet18" :
         model = ResNet18().to(conf.device)
     elif model == "resnet50" :
         model = ResIRSE(conf.embedding_size, conf.drop_ratio).to(conf.device)
-    model = nn.DataParallel(model , device_ids=conf.deviceID)
+    elif model == "resnet18_with_cfg" :
+        model = ResNet18_with_config(config= cfg).to(conf.device)
+    # model = nn.DataParallel(model , device_ids=conf.deviceID)
     model.load_state_dict(torch.load(conf.test_model, map_location=conf.device))
 
     model.eval()
@@ -167,15 +169,19 @@ if __name__ == '__main__':
 
     conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/Tested/resnet_arcface_56_3.3647572994232178.pth"
     conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/resnet18_arcface_49_2.596092462539673.pth"
+    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-prune/channel-prune/_record_Resnet18_pruned_35_0.949_4.2501.pth"
+    cfg=None
+    cfg=[512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510]
+    cfg=[512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]
     print(f"Test Model: {conf.test_model}")
-    model="resnet18" # or resnet18
+    model="resnet18_with_cfg" # or resnet18
 
     # AgeDB
-    test(model=model,pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root)
+    test(model=model,pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root,cfg=cfg)
         
     # LFW
-    test(model=model,pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root)
+    test(model=model,pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root,cfg=cfg)
 
     # Train set
-    test(model=model,pth_path=conf.test_model,testList=conf.test_on_train_list,testRoot=conf.test_on_train_root)
+    test(model=model,pth_path=conf.test_model,testList=conf.test_on_train_list,testRoot=conf.test_on_train_root,cfg=cfg)
 

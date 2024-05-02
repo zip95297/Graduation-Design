@@ -15,3 +15,11 @@ class FocalLoss(nn.Module):
         # 减小简单样本对参数的更新，着重学习复杂样本
         loss = (1 - p) ** self.gamma * logp
         return loss.mean()
+    
+class CEloss(nn.Module):
+    def __init__(self):
+        super(CEloss, self).__init__()
+        self.ce = torch.nn.CrossEntropyLoss()
+        
+    def forward(self, input, target):
+        return self.ce(input, target).mean()
