@@ -173,18 +173,19 @@ if __name__ == '__main__':
     
 
 
-    
-    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-prune/channel-prune/_record_Resnet18_pruned_30_0.950_3.3877.pth"
+
     cfg=None
     cfg=[512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510]
     cfg=[512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]
-    model="resnet18_with_cfg" # or resnet18
+    
+    # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-prune/channel-prune/_record_Resnet18_pruned_30_0.950_3.3877.pth"
+    # model="resnet18_with_cfg" # or resnet18
 
     # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/Sparsify/_record_Resnet18_Sparsify_33_0.955_4.7505.pth"
     # model="resnet18"
 
-    # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_29_0.953_3.6503.pth"
-    # model="resnet18"
+    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_29_0.953_3.6503.pth"
+    model="resnet18"
     
     print(f"Test Model: {conf.test_model}")
    
