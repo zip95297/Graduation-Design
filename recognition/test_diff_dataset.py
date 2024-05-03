@@ -187,6 +187,9 @@ if __name__ == '__main__':
     # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_29_0.953_3.6503.pth"
     # model="resnet18"
     
+    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-prune/random-prune/ResNet18_pruned_arcface_64_0.862.pth"
+    model="resnet18"
+
     print(f"Test Model: {conf.test_model}")
    
     # LFW
