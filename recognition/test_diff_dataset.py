@@ -136,8 +136,8 @@ def test(model,pth_path,testList,testRoot,cfg=None):
     print(
         f"Test Model: {conf.test_model}\n"
         f"Test DataSet {testDataSet}\n"
-        f"Accuracy: {accuracy:.3f}\n"
-        f"Threshold: {threshold:.3f}\n"
+        f"Accuracy: {accuracy:.5f}\n"
+        f"Threshold: {threshold:.5f}\n"
     )
 
 
@@ -175,6 +175,10 @@ if __name__ == '__main__':
     cfg=[512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]
     print(f"Test Model: {conf.test_model}")
     model="resnet18_with_cfg" # or resnet18
+
+    # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/Sparsify/_record_Resnet18_Sparsify_33_0.955_4.7505.pth"
+    # model="resnet18"
+
 
     # AgeDB
     test(model=model,pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root,cfg=cfg)
