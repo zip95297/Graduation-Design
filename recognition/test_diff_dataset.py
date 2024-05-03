@@ -170,10 +170,14 @@ if __name__ == '__main__':
     conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/Tested/resnet_arcface_56_3.3647572994232178.pth"
     conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-recognition/resnet18_arcface_49_2.596092462539673.pth"
     conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-prune/channel-prune/_record_Resnet18_pruned_35_0.949_4.2501.pth"
+    
+
+
+    
+    conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-prune/channel-prune/_record_Resnet18_pruned_30_0.950_3.3877.pth"
     cfg=None
     cfg=[512, 55, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 2, 256, 222, 512, 507, 1, 442, 510]
     cfg=[512, 60, 'M', 64, 64, 64, 63, 128, 128, 53, 128, 128, 256, 256, 8, 247, 222, 497, 377, 5, 420, 510]
-    print(f"Test Model: {conf.test_model}")
     model="resnet18_with_cfg" # or resnet18
 
     # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/Sparsify/_record_Resnet18_Sparsify_33_0.955_4.7505.pth"
@@ -181,13 +185,15 @@ if __name__ == '__main__':
 
     # conf.test_model = f"/home/zjb/workbench/checkpoints/ckpt-KD/_record_Resnet18_29_0.953_3.6503.pth"
     # model="resnet18"
+    
+    print(f"Test Model: {conf.test_model}")
+   
+    # LFW
+    test(model=model,pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root,cfg=cfg)
 
     # AgeDB
     test(model=model,pth_path=conf.test_model,testList=conf.age_test_list,testRoot=conf.age_test_root,cfg=cfg)
         
-    # LFW
-    test(model=model,pth_path=conf.test_model,testList=conf.test_list,testRoot=conf.test_root,cfg=cfg)
-
     # Train set
     test(model=model,pth_path=conf.test_model,testList=conf.test_on_train_list,testRoot=conf.test_on_train_root,cfg=cfg)
 
