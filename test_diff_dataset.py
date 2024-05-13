@@ -7,10 +7,10 @@ import torch.nn as nn
 import numpy as np
 from PIL import Image
 
-from config import config as conf
-from model import FaceMobileNet
-from model import ResIRSE
-from model import ResNet18, ResNet18_with_config
+from recognition.config import config as conf
+from recognition.model import FaceMobileNet
+from recognition.model import ResIRSE
+from recognition.model import ResNet18, ResNet18_with_config
 
 import onnx
 
@@ -210,12 +210,12 @@ def test_in_train(model,testList,testRoot,conf):
 def test_diff_dataset(choice_id=0):
 
     choices = [
-        "resnet18_KD_feature",
-        "resnet18_KD_logits",
         "resnet18_with_cfg_pruned_channel",
         "resnet18_with_cfg_pruned_random",
         "resnet18_KD_sparsity",
         "resnet18_alone",
+        "resnet18_KD_feature",
+        "resnet18_KD_logits",
         "PearFace",
         "ArcFace",
         "CosFace"
